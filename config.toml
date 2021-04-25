@@ -1,5 +1,4 @@
-baseURL = "https://www.gradeapocalypse.ga/"
-theme = "myfirst"
+baseURL = "https://gradeapocalypse.netlify.app/"
 languageCode = "en-us"
 title = "Grade Apocalypse"
 sectionPagesMenu = "first"
