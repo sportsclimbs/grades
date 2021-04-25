@@ -1,0 +1,38 @@
+
+<h2>Example 2</h2>
+
+<p>Hugo v.{{hugo.Version}}</p>
+
+<p>This example uses data from <em>data/ascents/L2020.yaml</em></p>
+
+
+<h3>For {{ print .Site.Data.ascents.L2020.ascent40.year }}</h3>
+
+{{ $no := 0 }}
+    {{ range $.Site.Data.ascents  }}
+
+    <table class="ex1">
+        <tr>
+            <th>no.</th>
+            <th>Date</th>
+            <th>Route</th>
+            <th>Grade</th>
+            <th>Crag</th>
+            <th>Country</th>
+            <th>Name</th>
+        </tr>
+        {{ range  .L2020 }}
+            <tr>
+                <td>{{ $no = add $no 1 }}{{ $no }}</td>
+                <td>{{ .day }}/{{ .month }}/{{  .year }}</td>
+                <td>{{ .route }}</td>
+                <td>{{ .grade }}</td>
+                <td>{{ .crag }}</td>
+                <td>{{ .country }}</td>
+                <td>{{ .firstname }} {{ .surname }}</td>
+            </tr>
+        {{ end }}
+    </table>
+    {{ end }}
+        
+        

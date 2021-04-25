@@ -1,0 +1,10 @@
+
+<div class="latest">
+<h2>Latest lists</h2>
+<ul>
+    {{ range where .Site.RegularPages "Section" "lists" }}
+        <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+    {{ end }}
+</ul>
+
+</div>

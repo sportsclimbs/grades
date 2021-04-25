@@ -1,0 +1,489 @@
+- route: Hubble
+  grade: 9a
+  year: 1990
+  crag: Raven Tor
+  ascents:
+    - climber: Ben Moon
+      ascent: first
+      date: 14 Jun 1990
+    - climber: Malcolm Smith
+      ascent: second
+      date: 1992 
+    - climber: Jon Gaskins
+      ascent: third
+      date: 1994
+    - climber: Steve Dunning
+      ascent: fourth
+      date: 
+    - climber: Steve McClure
+      ascent: fifth
+      date: Aug 2009
+    - climber: Alex Megos
+      ascent: sixth
+      date: 31 May 2016
+    - climber: Will Bosi
+      ascent: seventh
+      date: 25 Oct 2016
+    - climber: Pete Dawson
+      ascent: eighth
+      date: 13 Aug 2019
+    - climber: Mathew Wright
+      ascent: ninth
+      date: 30 Sept 2020
+    - climber: Buster Martin
+      ascent: tenth
+      date: 11 Oct 2020
+
+- route: Liquid Ambar
+  grade: 8c+
+  year: 1990
+  crag: Lower Pen Trwyn
+  ascents:
+   - climber: Jerry Moffatt
+     ascent: first
+     date: 1990
+   - climber: Ben Moon
+     ascent: second
+     date: 1993
+   - climber: Pete Robbins
+     ascent: third
+     date: Aug 2009
+   - climber: Kieran Forrest
+     ascent: fourth
+     date: Jul 2020
+
+
+- route: Sea of Tranquillity
+  grade: 8c/+
+  year: 1993
+  crag: Lower Pen Trwyn
+  ascents:
+  - climber: Ben Moon
+    ascent: first
+    date: 1993
+  - climber: Neil Carson
+    ascent: second
+    date: 1996?
+  - climber: Pete Robbins
+    ascent: third
+    date: Oct 2010
+  - climber: Pete Dawson
+    ascent: fourth
+    date: 15 Aug 2019
+    notes: 8c 
+
+- route: Progress
+  grade: 8c+
+  info: "Due to the loss of some holds in 1997, Steve McClure upgraded the climb from 8c to 8c+ following his  ascent in 2006. https://www.ukclimbing.com/news/2016/06/progress_8c+_for_jon_freeman-70535"
+  year: 1997/2006
+  crag: Kilnsey
+  ascents:
+  - climber: Jerry Moffatt
+    ascent: first
+    date: 1995?
+  - climber: Nic Sellars
+    ascent: second
+    date: 1995
+  - climber: Steve McClure
+    ascent: third
+    date: 2006
+  - climber: Chris Savage
+    ascent: fourth
+    date: July 2011
+  - climber: Tim Palmer
+    ascent: ninth
+    date: Aug 2014
+  - climber: Alex Barrows
+    ascent: fifth
+    date: 21 June 2015
+  - climber: Alex Megos
+    ascent: sixth
+    date: June 2016
+    notes: 2nd go
+  - climber: Jon Freeman
+    ascent: seventh
+    date: 19 Jun 2016
+  - climber: Luke Dawson
+    ascent: eighth
+    date: 20 Jun 2020
+
+- route: Evolution
+  grade: 8c+
+  year: 1995
+  crag: Raven Tor
+  ascents:
+  - climber: Jerry Moffatt
+    ascent: first
+    date: 13 May 1995
+  - climber: Malcolm Smith
+    ascent: second
+    date: 1995?
+  - climber: Nic Sellars
+    ascent: third
+    date: 1995?
+  - climber: Steve McClure
+    acent: fourth
+    date: 1997?
+  - climber: Ryan Pasquill
+    ascent: fourth
+    date: 29 November 2009
+  - climber: Alex Megos
+    ascent: fifth
+    date: June 2016
+    notes: 3rd try
+  - climber: Will Bosi
+    ascent: sixth
+    date: 4 Jul 2017
+    notes: 3rd try
+  - climber: Stu Littlefair
+    ascent: seventh
+    date: 24 Oct 2018
+  - climber: Pete Dawson
+    ascent: eighth
+    date: 18 Nov 2018
+  - climber: Ben Moon
+    ascent: ninth
+    date: Nov 2018
+  - climber: Mat Wright
+    ascent: tenth
+    date: Sept 2019
+
+- route: Total Eclipse
+  grade: 8c+/9a ?
+  year: 1995
+  crag: Malham Cove
+  ascents:
+   - climber: John Dunne
+     ascent: first
+     date: 1995
+
+- route: The Bastard
+  grade: 8c+
+  year: 1995
+  crag: Rubicon Wall
+  note: originally graded 8c
+  ascents:
+   - climber: John Welford
+     ascent: first
+     date: 20 July 1995
+   - climber: Steve McClure
+     ascent: second
+     date: 1999?
+
+
+- route: The Big Bang
+  grade: 9a
+  year: 1996
+  crag: Lower Pen Trwyn
+  ascents:
+  - climber: Neil Carson
+    ascent: first
+    date: 1996
+  - climber: James McHaffie
+    ascent: second
+    date: Jul 2011
+  - climber: Emma Twyford
+    ascent: third
+    date: 2019
+    note: first British woman to climb 9a
+  - climber: Kieran Forrest
+    ascent: fourth
+    date: Sept 2020
+
+- route: Mutation
+  grade: 9a
+  year: 1998
+  crag: Raven Tor
+  ascents:
+   - climber: Steve McClure
+     ascent: first
+     date: Summer 1998
+
+
+- route: Northern Lights
+  grade: 9a
+  year: 2000
+  crag: Kilnsey
+  ascents:
+   - climber: Steve McClure
+     ascent: first
+     date: 18 July 2000
+   - climber: Adam Ondra
+     ascent: second
+     date: 2010
+   - climber: Alex Megos
+     ascent: third
+     date: June 2016
+
+- route: Brian
+  grade: 8c+
+  year: 2003
+  crag: Anstey's Cove
+  ascents:
+   - climber: Ken Palmer
+     ascent: first
+     date: 2003
+   - climber: Ellis Butler-Barker
+     ascent: second
+     date: April 2015
+   - climber: Pete Dawson
+     ascent: third
+     date: 2 July 2017
+   - climber: Luke Dawson
+     ascent: fourth
+     date: 29 Oct 2018
+
+- route: Rainshadow
+  grade: 9a
+  year: 2003
+  crag: Malham Cove
+  ascents:
+   - climber: Steve McClure
+     ascent: first
+     date: 2003
+   - climber: Adam Ondra
+     ascent: second
+     date: May 2011
+   - climber: Jordan Buys
+     ascent: third
+     date: May 2013
+   - climber: Ben Moon
+     ascent: fourth
+     date: June 2015
+   - climber: Stu Littlefair
+     ascent: fifth
+     date: 8 Sept 2015
+   - climber: Will Bosi
+     ascent: sixth
+     date: May 2016
+   - climber: Ryan Pasquill
+     ascent: seventh
+     date: May 2018
+   - climber: Pete Dawson
+     ascent: eighth
+     date: Jun 2018
+   - climber: Buster Martin
+     ascent: ninth
+     date: Jun 2018
+   - climber: Toby Roberts
+     ascent: tenth
+     date: Dec 2020
+     video_1: https://youtu.be/CMWMbBK9Txo
+   - climber: Josh Ibbertson
+     ascent: eleventh
+     date: Dec 2020
+   - climber: Eder Lomba Lopez de Ipiña
+     ascent: twelth
+     date: 09 April 2021
+
+- route: Violent New Breed
+  grade: 9a+
+  year: 2004
+  ascents:
+   - climber: John Gaskins
+     date: 21 Jun 2004
+
+- route: Kaabah Original
+  grade: 8c+
+  year: 2004
+  ascents:
+   - climber: Steve McClure
+     date: 2004
+
+- route: Metalcore
+  grade: 8c+
+  year: 2007
+  crag: The Anvil
+  ascents:
+   - climber: Dave Macleod
+     ascent: first
+     date: May 2007
+   - climber: Malcolm Smith
+     ascent: second
+     date: 2007
+   - climber: Alan Cassidy
+     ascent: third
+     date: July 2011
+
+- route: Overshadow
+  grade: 9a+
+  year: 2007
+  crag: Malham Cove
+  ascents:
+   - climber: Steve McClure
+     ascent: first
+     date: 28 May 2007
+   - climber: Adam Ondra
+     ascent: second
+     date: May 2011
+
+- route: North Star
+  grade: 9a
+  year: 2008
+  crag: Kilnsey
+  ascents:
+   - climber: Steve McClure
+     ascent: first
+     date: 20 May 2008
+   - climber: Adam Ondra
+     ascent: second
+     date: 2011
+
+- route: Bat Shadow
+  grade: 8c+
+  year: 2009
+  crag: Malham Cove
+  ascents:
+   - climber: Steve McClure
+     ascent: first
+     date: 2009
+     notes: 
+
+- route: Stevolution
+  grade: 9a
+  year: 2009
+  crag: Raven Tor
+  ascents:
+   - climber: Steve McClure
+     ascent: first
+     date: 2009
+   - climber: Ryan Pasquill
+     ascent: second
+     date: Nov 2013
+
+- route: Blood Diamond
+  grade: 8c+
+  year: 2010
+  ascents:
+   - climber: Malcolm Smith
+     ascent: first
+     date: June 2010
+
+- route: Hunger
+  grade: 9a
+  year: 2010
+  crag: The Anvil
+  ascents:
+   - climber: Malcolm Smith
+     ascent: first
+     date: 7 July 2010
+   - climber: Will Bosi
+     ascent: second
+     date: April 2018
+   - climber: Dave MacLeod
+     ascent: third
+     date: November 2019
+
+- route: Megalopa
+  grade: 8c+
+  year: 2011
+  crag: Lower Pen Trwyn
+  ascents:
+   - climber: Neil Dyer
+     ascent: first
+     date: Sept 2011
+   - climber: Pete Robbins
+     ascent: second
+     date: 2011
+   - climber: James McHaffie
+     ascent: third
+     date: April 2015
+   - climber: Oli Grounsell
+     ascent: fourth
+     date: April 2015
+
+- route: Meltdown
+  grade: 8c+/9a
+  year: 2012
+  crag: Tyll Mawr
+  ascents:
+   - climber: James McHaffie
+     ascent: first
+     date: Jul 2012 
+   - climber: Ignacio Mulero
+     ascent: second
+     date: May 2019
+
+- route: Diamond Dogs
+  grade: 8c+
+  year: 2012
+  crag: The Diamond
+  ascents:
+   - climber: Pete Robbins
+     ascent: first
+     date: Oct 2012
+
+- route: Dark Energy
+  grade: 8c+
+  year: 2013
+  crag: The Diamond
+  ascents:
+   - climber: Pete Robbins
+     ascent: first
+     date: Oct 2013
+
+- route: Batman
+  grade: 9a+
+  year: 2013
+  crag: Malham Cove
+  ascents:
+   - climber: Steve McClure
+     ascent: first
+     date: 2016
+     notes: 
+
+- route: The Pink Star
+  grade: 8c+
+  year: 2014
+  crag: The Diamond
+  ascents:
+   - climber: Pete Robbins
+     ascent: first
+     date: 09 Aug 2014
+
+- route: King of Theives
+  grade: 8c+
+  year: 2014
+  crag: Hollywood Bowl
+  ascents:
+   - climber: Jordan Buys
+     ascent: first
+     date: 15 Sep 2014
+   - climber: Luke Dawson
+     ascent: second
+     date: 12 Sep 2020 
+
+- route: Sabotage
+  grade: 8c+
+  year: 2016
+  crag: Malham Cove
+  ascents:
+   - climber: Neil Gresham
+     ascent: first
+     date: Oct 2016
+   - climber: Jon Freeman
+     ascent: second
+     date: 22 Sep 2020
+
+
+
+
+- route: Rainman
+  grade: 9b
+  year: 2017
+  crag: Malham Cove
+  ascents:
+   - climber: Steve McClure
+     ascent: first
+     date: 04 June 2017
+     notes: first British man to climb 9b. It took 128 days of effort spread over 7 years. Steve was 46 years old when he completed it.
+
+
+- route: Fixation
+  grade: 8c+
+  year: 2020
+  crag: Malham Cove
+  ascents:
+   - climber: Steve McClure
+     ascent: first
+     date: September 2020

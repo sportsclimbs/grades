@@ -1,0 +1,23 @@
+
+<table class="nineties">
+    {{ $count := 0 }}
+{{ range .Site.Data.ninebees }}
+
+{{ $sorted := sort . }}
+{{ range where $sorted "ascent" 1 }}
+
+
+    <tr>
+        <td>{{ $count = add $count 1 }}{{ $count }}</td>
+        <td>{{ .route }}</td>
+        <td>{{ .surname }}</td>
+        <td>{{ .crag }}, {{ .country }}</td>
+        <td>{{ .day }}/{{ .month }}/{{ .year }}</td>
+    </tr>
+        
+    {{ end }}
+    
+    {{ end }}
+</table>
+
+

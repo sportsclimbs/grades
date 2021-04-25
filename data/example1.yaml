@@ -1,0 +1,72 @@
+# So each data point or unit is 'the ascent'. Each ascent is counted. A number is used as some ascents might be done on the same day and you won't know which historical order to place them. It maybe be better to use x10, so instead of 1, 2, 3 use 10, 20, 30. This will allow for new routes from changed grades (so if a 9a+ gets upped to 9b).
+
+# Would it be best to use a number instead of a grade? So 9b = 10, 9b+ = 12, 9c = 14 (allow for slash grades). This would allow ordering content based on grade. Can the number be mapped to the grade later?
+
+ascent10:
+  year: 2008
+  month: 09
+  day: 11
+  surname: Sharma
+  firstname: Chris
+  route: Jumbo Love
+  grade: 9b
+  ascent: 1
+  crag: 
+  country: USA
+  nationality: American
+  summary: First 9b route in the world.
+  notes: Climbs a massive roof about 80m long.
+  image:
+  video-1:
+
+ascent20:
+  year: 2008
+  month: 12
+  day: 18
+  surname: Sharma
+  firstname: Chris
+  route: Golpe de Estado
+  grade: 9b
+  ascent: 1
+  crag: Siurana
+  country: Spain
+  nationality: American
+  summary: First 9b in Europe.
+  notes: 
+  image:
+  video-1:
+
+ascent30:
+  year: 2009
+  month: 12
+  day: 25
+  surname: Sharma
+  firstname: Chris
+  route: Neanderthal
+  grade: 9b
+  ascent: 1
+  crag: Santa Linya
+  country: Spain
+  nationality: American
+  summary: "Sharma's 3rd 9b and Spain's second."
+  notes: Climbs a massive roof about 80m long. First
+  image:
+  video-1:
+
+ascent40:
+  year: 2010
+  month: 03
+  day: 13
+  surname: Ondra
+  firstname: Adam
+  route: Golpe De Estado
+  grade: 9b
+  ascent: 2
+  crag: Siurana
+  country: Spain
+  nationality: Czech
+  summary: Ondra becomes the second person in the world to climb this difficulty.
+  notes: 
+  image:
+  video-1:
+

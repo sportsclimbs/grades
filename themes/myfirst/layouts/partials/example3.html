@@ -1,0 +1,12 @@
+
+<h3>Example 3</h3>
+
+<p>This partial uses data in <em>data/jazz/bass/</em> folder, proving subfolders work.</p>
+
+<p>The files are from toml files. The partial uses another partial inside it, artist.html.</p>
+
+{{ range $.Site.Data.jazz.bass }}
+    {{ partial "artist.html" . }}
+{{ end }}
+
+

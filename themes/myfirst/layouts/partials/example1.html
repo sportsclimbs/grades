@@ -1,0 +1,19 @@
+
+<table class="ex1">
+    <tr>
+        <td>example1 test row</td>
+    </tr>
+    {{ range .Site.Data.example1 }}
+
+    <tr>
+        <td>{{ .month }}/{{ substr .year 2 }}</td>
+        <td>{{ .surname }}</td>
+        <td>{{ .route }}</td>
+        <td>{{ .grade }}</td>
+        <td>{{ .summary }}</td>
+    </tr>
+
+
+
+    {{ end }}
+</table>

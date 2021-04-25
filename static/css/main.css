@@ -1,0 +1,141 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+:root {
+    --display: Truculenta, sans-serif;
+    --hover: #c3500b;
+    --headings: #c3500b;
+    --bg: #2d3e42;
+    --body: #ccc;
+}
+
+
+body {
+    background-color: var(--bg);
+    color:var(--body);
+    font-family: KoHo, 'kulim Park', 'segoe ui';
+    font-size: 20px;
+    font-weight: 400;
+    margin: 0;
+    padding: 0;
+}
+
+footer, header {
+    background-color: #243538;
+    padding: 1em 2em;
+    grid-column: 1 / 3;
+}
+.sitetitle {
+    font-family: var(--display);
+    color: var(--headings);
+    font-size: 1.5em;
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.container {
+    max-width: 1350px;
+    min-height: 100vh;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+    grid-template-columns: 3fr 1fr;
+    margin: auto;
+    background-color: var(--bg);
+}
+
+#content {
+    padding: 2em;
+}
+.latest ul {
+    list-style-type: none;
+    padding: 0;
+    line-height: 1.7;
+    font-family: var(--display);
+    font-size: 1.5em;
+}
+
+table.ex1 {
+
+    border: solid 1px #ccc;
+    margin-bottom: 3em;
+}
+
+.ex1 tr:nth-of-type(even) {
+    border-bottom: 1px solid #ccc;
+    background-color: rgb(18, 109, 38);
+}
+
+.ex1 th {
+    text-align: left;
+}
+
+.ex1 td,
+.ex1 th {
+padding: .5em;
+}
+
+h1, h2, h3 {
+font-family: truculenta, sans-serif;
+color: var(--headings);
+/* font-weight: normal; */
+}
+h1 {
+    font-size: 4.5em;
+    /* -webkit-text-stroke: 2px rgb(0, 81, 255); */
+}
+h2 {
+    font-size: 2.6em;
+    line-height: 1.1;
+    margin-bottom: 0.2em;
+}
+
+table.nineties {
+ border-collapse: collapse;
+ margin: 2em 0;
+ }
+ .nineties tr:nth-of-type(odd) {
+background-color: #6f6e2f;
+ ;
+ }
+ .nineties td,
+ .nineties th {
+  padding: 3px 16px;
+  vertical-align: top;
+  }
+
+td ul, td ol {
+    margin-top: 0;
+}
+
+  table.ninebees {
+}
+table.ninebees tr {
+      /* width: 700px; */
+    display: grid;
+    grid-template-columns: 2em 4em 15em 10em 10em 12ch 4ch;
+    }
+
+/* ------- NAVIGATION --------- */
+
+header ul {
+    padding: 0;
+    list-style-type: none;
+    margin: 2em 0 0 0;
+    display: flex;
+    gap: 45px;
+
+}
+
+a, a:link, a:visited {
+    text-decoration: none;
+    color: #fff;
+    transition: .4s;
+}
+a:hover {
+    color: var(--hover);
+}

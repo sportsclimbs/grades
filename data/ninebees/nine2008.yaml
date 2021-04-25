@@ -1,0 +1,33 @@
+- year: 2008
+  month: 09
+  day: 11
+  surname: Sharma
+  firstname: Chris
+  route: Jumbo Love
+  grade: 9b
+  ascent: 1
+  crag: 
+  country: USA
+  nationality: American
+  summary: First 9b route in the world.
+  notes: Climbs a massive roof about 80m long.
+  image:
+  video-1:
+
+- year: 2008
+  month: 12
+  day: 18
+  surname: Sharma
+  firstname: Chris
+  route: Golpe de Estado
+  grade: 9b
+  ascent: 1
+  crag: Siurana
+  country: Spain
+  nationality: American
+  summary: First 9b in Europe.
+  notes: 
+  image:
+  video-1:
+
+

@@ -1,0 +1,33 @@
+
+{{ range .Site.Data.ninebees }}
+
+<h2>
+    {{ range first 1 . }}{{ .year }}{{ end }}
+</h2>
+
+
+<table class="nineties ninebees">
+    {{ $count := 0 }}
+    {{ range . }}
+    <tr>
+        <td>{{ $count = add $count 1 }}{{ $count }}</td>
+        <td>{{ .day }}/{{ .month }}</td>
+        <td>{{ .route }}</td>
+        <td>{{ .surname }}</td>
+        <td>{{ .crag }}</td>
+        <td>{{ .country }}</td>
+        <td>{{ cond (eq .ascent 1) "F.A" .ascent }}</td>
+    </tr>
+        
+    {{ end }}
+</table>
+    
+{{ end }}
+
+
+<style>
+
+    .nineties {
+        margin-bottom: 2em;
+    }
+</style>

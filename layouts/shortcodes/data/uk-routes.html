@@ -1,0 +1,18 @@
+{{ $ukroutes := getJSON "https://github.com/sportsclimbs/uk-hardest/raw/main/ukRoutes2.json" }}
+
+
+<h2> Britain's hardest climbs in chronological order</h2>
+<table class="nineties">
+{{ $counter := 0 }}
+{{ range .Site.Data.ukRoutes2 }}
+{{ $asc := .ascents }}
+<tr>
+    <td>{{ $counter = add $counter 1 }}{{ $counter }}</td>
+    <td>{{ .route }}</td>
+    <td>{{ .grade }}</td>
+    <td>{{ .year }}</td>
+    <td>{{ .crag }}</td>
+    <td><ol>{{ range $asc }} <li>{{ .climber }} <em>({{ .date }})</em></li>{{ end }}</ol> </td>
+</tr>
+{{ end }}
+</table>
