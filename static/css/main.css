@@ -7,6 +7,7 @@
     --hover: #c3500b;
     --headings: #c3500b;
     --bg: #2d3e42;
+    --bg-light: #bee1e9;
     --body: #ccc;
 }
 
@@ -15,7 +16,7 @@ body {
     background-color: var(--bg);
     color:var(--body);
     font-family: KoHo, 'kulim Park', 'segoe ui';
-    font-size: clamp(10px, 1.7vw, 23px);
+    font-size: clamp(14px, 1.7vw, 23px);
     font-weight: 400;
     margin: 0;
     padding: 0;
@@ -103,7 +104,13 @@ h2 {
 }
 
 td, th {
-    font-size: clamp(9px, 1.7vw, 21px);
+    font-size: clamp(14px, 1.7vw, 21px);
+
+}
+
+td ul, td ol {
+    margin: 0 0 .5em 0;
+    padding-left: 1ch;
 
 }
 
@@ -123,15 +130,13 @@ background-color: #6f6e2f;
  }
  .nineties td,
  .nineties th {
-  padding: 3px 16px;
+  padding: 3px 10px;
   vertical-align: top;
   }
 
-td ul, td ol {
-    margin: 0;
-    padding-left: 2ch;
 
-}
+
+
 
   table.ninebees {
 }
@@ -149,7 +154,13 @@ header ul {
     margin: 2em 0 0 0;
     display: flex;
     gap: 45px;
+    font-size: 1.4em;
+    font-weight: bold;
+    text-transform: uppercase;
 
+}
+header ul a {
+    display: block;
 }
 
 a, a:link, a:visited {
@@ -170,5 +181,21 @@ a:hover {
     }
     .container {
         grid-template-columns: 1fr;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    table.nineties td:first-of-type,
+    table.nineties td:nth-of-type(4) {
+        display: none;
+    }
+
+    .lists table {
+        margin: 1em -2em;
+    }
+
+    header ul {
+        justify-content: space-between;
+        font-size: 1em;
     }
 }

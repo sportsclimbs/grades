@@ -1,0 +1,55 @@
+
+    <form name="contact" method="POST" data-netlify="true">
+            <label>Your Name:</label>
+            <input type="text" name="name" />
+            <label>Your Email:</label>
+             <input type="email" name="email" />
+            <label>Message:</label>
+             <textarea name="message" rows="7"></textarea>
+
+            <div class="button">
+                <button type="submit">
+                    Send
+                </button>
+            </div>
+    </form>
+
+    <style>
+        form > * {
+            display: block;
+        }
+        form {
+            margin-top: 3em;
+            display: grid;
+            grid-template-columns: auto 1fr;
+            gap: 10px;
+        }
+        input,
+        textarea {
+            width: 100%;
+            max-width: 400px;
+            border-radius: 6px;
+            background-color: #95adb3;
+        }
+        input:focus,
+        textarea:focus {
+            background: #bee1e9;
+            appearance: none;
+            outline: none;
+        }
+        label {
+            text-align: right;
+        }
+
+        .button {
+            grid-column: 2/3;
+        }
+        button {
+            appearance: none;
+            border: 0;
+            border-radius: 6px;
+            padding: 6px 20px;
+            background-color:#c3500b;
+            color: #fff;
+        }
+    </style>

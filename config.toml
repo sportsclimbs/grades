@@ -33,3 +33,10 @@ enableGitInfo = "true"
   pre = "<i class='fas fa-bahai'></i>"
   url = "/links/"
   weight = "300"
+
+  [[menu.main]]
+  identifier = "contact"
+  name = "contact"
+  pre = "<i class='fas fa-bahai'></i>"
+  url = "/contact/"
+  weight = "320"

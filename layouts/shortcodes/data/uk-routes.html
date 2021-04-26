@@ -2,7 +2,7 @@
 
 
 <h2> Britain's hardest climbs in chronological order</h2>
-<table class="nineties">
+<table class="nineties ukroutes">
 {{ $counter := 0 }}
 {{ range .Site.Data.ukRoutes2 }}
 {{ $asc := .ascents }}
@@ -12,7 +12,7 @@
     <td>{{ .grade }}</td>
     <td>{{ .year }}</td>
     <td>{{ .crag }}</td>
-    <td><ol>{{ range $asc }} <li>{{ .climber }} <em>({{ .date }})</em></li>{{ end }}</ol> </td>
+    <td><ol>{{ range $asc }} <li>{{ .climber }} <em>({{ substr .date -4 4 }})</em></li>{{ end }}</ol> </td>
 </tr>
 {{ end }}
 </table>
