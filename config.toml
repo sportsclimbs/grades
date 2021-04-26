@@ -2,16 +2,16 @@ baseURL = "https://gradeapocalypse.netlify.app/"
 languageCode = "en-us"
 title = "Grade Apocalypse"
 sectionPagesMenu = "first"
-
+enableGitInfo = "true"
 
 [menu]
 
-  [[menu.main]]
-    identifier = "about"
-    name = "about"
-    pre = "<i class='far fa-angry'></i>"
-    url = "/about/"
-    weight = "100"
+#  [[menu.main]]
+#    identifier = "about"
+#    name = "about"
+#    pre = "<i class='far fa-angry'></i>"
+#    url = "/about/"
+#    weight = "100"
 
   [[menu.main]]
   identifier = "lists"
@@ -19,6 +19,13 @@ sectionPagesMenu = "first"
   pre = "<i class='fas fa-marker'></i>"
   url = "/lists/"
   weight = "120"
+
+  [[menu.main]]
+  identifier = "blog"
+  name = "blog"
+  pre = "<i class='fas fa-marker'></i>"
+  url = "/blog/"
+  weight = "150"
 
   [[menu.main]]
   identifier = "links"

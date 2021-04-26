@@ -7,7 +7,7 @@ summary: List of UK routes and all ascents of 8c+ and above.
 
 This hopefully lists all routes of 8c+ and above. Such a list is inevitably somewhat subjective. Not included here are extended boulder problems or hybrid boulder routes.
 
-Steve McClure has been the dominent force in UK sport climbing for over 2 decades and it's no surprise he has done the most routes here. What is perhaps surprising is that he hasn't done more though. Of the 31 routes he has less than half having ticked 14. Steve's focus has been the Peak District and Yorkshire and misses out on routes further from home: Wales, Scotland and Devon. 
+Steve McClure has been the dominent force in UK sport climbing for over 2 decades and it's no surprise he has done the most routes here. What is perhaps surprising is that he hasn't done more though. Of the 33 routes he has less than half having ticked 14. Steve's focus has been the Peak District and Yorkshire and misses out on routes further from home: Wales, Scotland and Devon. 
 
 The runners up place is currently taken by Pete Robbins with 6 routes of 8c+ narrowly beating 3 climbers with 5 routes: Ben Moon, Malcolm Smith and Pete Dawson. These 3 however have all done 2 9a's.
 

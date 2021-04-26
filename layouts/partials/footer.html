@@ -1,5 +1,13 @@
 
 <footer>
+
+    {{ if eq .Section "blog" }}
     <div>Page updated: {{ .Lastmod.Format "02 Jan 2006" }}</div>
+    {{ else }}
+    <div>Page created: {{ .Date.Format "02 Jan 2006" }}</div>
+    {{ end }}
+    
+    
+    
     <div>Grade Apocalypse {{ now.Year }}</div>
 </footer>

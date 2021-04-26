@@ -279,6 +279,7 @@
 - route: Violent New Breed
   grade: 9a+
   year: 2004
+  crag: Giggleswick South
   ascents:
    - climber: John Gaskins
      date: 21 Jun 2004
@@ -286,6 +287,7 @@
 - route: Kaabah Original
   grade: 8c+
   year: 2004
+  crag: Raven Tor
   ascents:
    - climber: Steve McClure
      date: 2004
@@ -465,7 +467,14 @@
      ascent: second
      date: 22 Sep 2020
 
-
+- route: The Wild West
+  grade: 8c+
+  year: 2016
+  crag: Raven Tor
+  ascents:
+   - climber: Dawid Skoczylas
+     ascent: first
+     date: 2016
 
 
 - route: Rainman

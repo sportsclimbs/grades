@@ -15,7 +15,7 @@ body {
     background-color: var(--bg);
     color:var(--body);
     font-family: KoHo, 'kulim Park', 'segoe ui';
-    font-size: 20px;
+    font-size: clamp(10px, 1.7vw, 23px);
     font-weight: 400;
     margin: 0;
     padding: 0;
@@ -59,6 +59,14 @@ footer {
     font-size: 1.5em;
 }
 
+ul.listpage {
+    list-style-type: none;
+    padding: 0;
+}
+ul.listpage li {
+    margin-bottom: 1em;
+}
+
 table.ex1 {
 
     border: solid 1px #ccc;
@@ -94,9 +102,20 @@ h2 {
     margin-bottom: 0.2em;
 }
 
+td, th {
+    font-size: clamp(9px, 1.7vw, 21px);
+
+}
+
 table.nineties {
  border-collapse: collapse;
  margin: 2em 0;
+ /* display: grid; */
+ /* grid-template-columns: 2ch, 1fr, 1fr, 4ch, 1fr, auto; */
+}
+.nineties tr,
+.nineties tbody {
+    /* display: contents; */
  }
  .nineties tr:nth-of-type(odd) {
 background-color: #6f6e2f;
@@ -109,7 +128,9 @@ background-color: #6f6e2f;
   }
 
 td ul, td ol {
-    margin-top: 0;
+    margin: 0;
+    padding-left: 2ch;
+
 }
 
   table.ninebees {
@@ -138,4 +159,16 @@ a, a:link, a:visited {
 }
 a:hover {
     color: var(--hover);
+}
+
+
+/* --------- MEDIA QUERIES ---------- */
+
+@media screen and (max-width: 1250px) {
+    .latest {
+        display: none;
+    }
+    .container {
+        grid-template-columns: 1fr;
+    }
 }
