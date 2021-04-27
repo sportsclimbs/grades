@@ -1,8 +1,10 @@
 <!DOCTYPE html>
 <html>
     {{- partial "head.html" . -}}
-    <body {{ with .Section }}
-        class="{{ . }}"
+    <body {{ if .Section }}
+        class="{{ .Section }}"
+        {{ else }}
+        class="{{ .Name | lower }}"
     {{ end }}
     >
     <div class="container">

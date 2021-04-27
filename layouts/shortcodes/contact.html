@@ -5,7 +5,7 @@
             <label>Your Email:</label>
              <input type="email" name="email" />
             <label>Message:</label>
-             <textarea name="message" rows="7"></textarea>
+             <textarea name="message" rows="9"></textarea>
 
             <div class="button">
                 <button type="submit">
@@ -22,7 +22,7 @@
             margin-top: 3em;
             display: grid;
             grid-template-columns: auto 1fr;
-            gap: 10px;
+            gap: 12px;
         }
         input,
         textarea {
@@ -30,12 +30,13 @@
             max-width: 400px;
             border-radius: 6px;
             background-color: #95adb3;
+            appearance: none;
+            border:none;
         }
         input:focus,
         textarea:focus {
             background: #bee1e9;
-            appearance: none;
-            outline: none;
+            outline: solid 3px #c3500b;
         }
         label {
             text-align: right;
@@ -51,5 +52,17 @@
             padding: 6px 20px;
             background-color:#c3500b;
             color: #fff;
+            font-size: 20px;
+            text-transform: uppercase;
+            transition: .4s;
+        }
+        button:hover {
+            cursor: pointer;
+            background-color:#f16f1e;
+        }
+        button:active {
+            position: relative;
+            left: 2px;
+            top: 2px;
         }
     </style>
