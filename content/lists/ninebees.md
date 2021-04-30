@@ -6,4 +6,4 @@ draft: false
 
 Full list of all ascents of climbs of 9b and above by year.
 
-{{< data/ninebees >}}
+{{< data/ninebees2 >}}

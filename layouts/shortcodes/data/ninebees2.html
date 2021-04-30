@@ -1,0 +1,24 @@
+
+{{ range .Site.Data.ninebees }}
+
+<div class="yearheading">
+    {{ range first 1 . }}{{ .year }}{{ end }}
+</div>
+
+
+<div class="ninebees2">
+    {{ $count := 0 }}
+    {{ range . }}
+        <div>{{ $count = add $count 1 }}{{ $count }}</div>
+        <div>{{ .day }}/{{ .month }}</div>
+        <div>{{ .route }} ({{ .grade }})</div>
+        <div><span class="desktop">{{ .firstname }} </span>{{ .surname }}</div>
+        <div>{{ .crag }}</div>
+        <div>{{ .country }}</div>
+        <div>{{ cond (eq .ascent 1) "F.A" .ascent }}</div>
+    {{ end }}
+</div>
+    
+{{ end }}
+
+

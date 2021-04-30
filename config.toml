@@ -34,9 +34,9 @@ enableGitInfo = "true"
   url = "/links/"
   weight = "300"
 
-  # [[menu.main]]
-  # identifier = "contact"
-  # name = "contact"
-  # pre = "<i class='fas fa-bahai'></i>"
-  # url = "/contact/"
-  # weight = "320"
+  [[menu.main]]
+  identifier = "contact"
+  name = "contact"
+  pre = "<i class='fas fa-bahai'></i>"
+  url = "/contact/"
+  weight = "320"

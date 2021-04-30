@@ -53,7 +53,7 @@
   firstname: Alex
   route: Bibliography
   grade: 9c
-  ascent: 4
+  ascent: 1
   crag: Ceuse
   country: France
   nationality: German
@@ -113,8 +113,8 @@
 - year: 2020
   month: 09
   day: 
-  surname: Hyunbin Min
-  firstname: 
+  surname: Hyunbin
+  firstname:  Min
   route: Soul Rock Dance
   grade: 9b
   ascent: 1

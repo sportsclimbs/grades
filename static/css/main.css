@@ -3,39 +3,45 @@
 }
 
 :root {
-    --display: Truculenta, sans-serif;
+    --display: KoHo, Truculenta, sans-serif;
     --hover: #c3500b;
     --headings: #c3500b;
     --bg: #2d3e42;
     --bg-light: #bee1e9;
+    --tablestripe: #7e7d0c;
     --body: #ccc;
 }
 
 
 body {
     background-color: var(--bg);
+    background-image: linear-gradient(200deg, #0e2c35 10%, #1a5060 90%);
     color:var(--body);
-    font-family: KoHo, 'kulim Park', 'segoe ui';
-    font-size: clamp(14px, 1.7vw, 23px);
+    font-family: KoHo, 'kulim Park', 'segoe ui', sans-serif;
+    /* font-size: clamp(14px, 1.7vw, 23px); */
+    font-size: clamp(1rem, 0.6667rem + 1.0667vw, 1.4rem);
     font-weight: 400;
     margin: 0;
     padding: 0;
 }
 
 footer, header {
-    background-color: #243538;
-    padding: 1em 2em;
+    /* background-color: #243538; */
+    padding: 1em 3px;
     grid-column: 1 / 3;
 }
 .sitetitle {
     font-family: var(--display);
+    font-size: 0.8em;
     color: var(--headings);
-    font-size: 1.5em;
 }
 
 footer {
     display: flex;
     justify-content: space-between;
+    font-size: 15px;
+    margin-top: 3em;
+    border-top: solid 2px;
 }
 
 
@@ -45,19 +51,23 @@ footer {
     display: grid;
     grid-template-rows: auto 1fr auto;
     grid-template-columns: 3fr 1fr;
+    column-gap: 4vh;
     margin: auto;
-    background-color: var(--bg);
+    /* background-color: var(--bg); */
 }
+/* :not(td) {
+    padding: 0 1rem;
+    color: orange;
+} */
 
-#content {
-    padding: 2em;
-}
+
+
 .latest ul {
     list-style-type: none;
     padding: 0;
     line-height: 1.7;
     font-family: var(--display);
-    font-size: 1.5em;
+    font-weight: bold;
 }
 
 ul.listpage {
@@ -68,39 +78,35 @@ ul.listpage li {
     margin-bottom: 1em;
 }
 
-table.ex1 {
-
-    border: solid 1px #ccc;
-    margin-bottom: 3em;
-}
-
-.ex1 tr:nth-of-type(even) {
-    border-bottom: 1px solid #ccc;
-    background-color: rgb(18, 109, 38);
-}
-
-.ex1 th {
-    text-align: left;
-}
-
-.ex1 td,
-.ex1 th {
-padding: .5em;
-}
 
 h1, h2, h3 {
-font-family: truculenta, sans-serif;
+font-family: var(--display);
 color: var(--headings);
 /* font-weight: normal; */
 }
 h1 {
-    font-size: 4.5em;
-    /* -webkit-text-stroke: 2px rgb(0, 81, 255); */
+    font-size: 2.5em;
+    margin-bottom: 0;
 }
 h2 {
-    font-size: 2.6em;
+    font-size: 1.75em;
     line-height: 1.1;
     margin-bottom: 0.2em;
+}
+h2+p, h2+ul {
+    margin-top: 0;
+}
+figure {
+    margin: 0;
+}
+figure img {
+    max-width: 100%;
+}
+figure h4 {
+    font-weight: normal;
+    font-style: italic;
+    font-size: 80%;
+    margin-top: 0;
 }
 
 td, th {
@@ -114,38 +120,58 @@ td ul, td ol {
 
 }
 
-table.nineties {
+table.general {
  border-collapse: collapse;
+ font-family: 'segoe ui';
+ width: 100%;
  margin: 2em 0;
- /* display: grid; */
- /* grid-template-columns: 2ch, 1fr, 1fr, 4ch, 1fr, auto; */
 }
-.nineties tr,
-.nineties tbody {
-    /* display: contents; */
- }
- .nineties tr:nth-of-type(odd) {
-background-color: #6f6e2f;
+
+ .general tr:nth-of-type(odd) {
+background-color: var(--tablestripe);
  ;
  }
- .nineties td,
- .nineties th {
-  padding: 3px 10px;
+ .general td,
+ .general th {
+  padding: 1vh 10px;
   vertical-align: top;
   }
 
 
 
 
+/* --- The issue with the 9bs is that it is a series of tables which need the same alignment of cells --- */
 
-  table.ninebees {
-}
+
 table.ninebees tr {
-      /* width: 700px; */
     display: grid;
-    grid-template-columns: 2em 4em 15em 10em 10em 12ch 4ch;
+    grid-template-columns: 1em 4em 15em 10em 10em 12ch 4ch;
     }
 
+
+.ninebees2 {
+    display: grid;
+    grid-template-columns: 1fr 2.5fr 10fr 5fr 6fr 4fr 1fr;
+}
+.ninebees2>div {
+    font-size: max(70%, 14px);
+    padding: 5px;
+}
+.ninebees2>div:nth-of-type(14n+1),
+.ninebees2>div:nth-of-type(14n+2),
+.ninebees2>div:nth-of-type(14n+3),
+.ninebees2>div:nth-of-type(14n+4),
+.ninebees2>div:nth-of-type(14n+5),
+.ninebees2>div:nth-of-type(14n+6),
+.ninebees2>div:nth-of-type(14n+7) {
+    background-color: var(--tablestripe);
+}
+
+.yearheading {
+    color: var(--headings);
+    font-weight: bold;
+    margin: 1rem auto .25rem 3px;
+}
 /* ------- NAVIGATION --------- */
 
 header ul {
@@ -154,7 +180,6 @@ header ul {
     margin: 2em 0 0 0;
     display: flex;
     gap: 45px;
-    font-size: 1.4em;
     font-weight: bold;
     text-transform: uppercase;
 
@@ -172,6 +197,10 @@ a:hover {
     color: var(--hover);
 }
 
+.mobile {
+    display: none;
+}
+
 
 /* --------- MEDIA QUERIES ---------- */
 
@@ -179,23 +208,79 @@ a:hover {
     .latest {
         display: none;
     }
-    .container {
-        grid-template-columns: 1fr;
+
+    header, footer {
+        padding-left: 12px;
+        padding-right: 12px;
+    }
+
+    #content>*:not(table):not(figure):not(div.ninebees2) {
+        margin-left: 12px;
+        margin-right: 12px;
+    }
+    #content {
+        grid-column: span 2;
     }
 }
 
-@media screen and (max-width: 700px) {
+
+
+@media screen and (max-width: 500px) {
+    header>ul {
+        gap: 15px;
+    }
+    .mobile {
+        display: inline;
+    }
+
+    .desktop,
     table.nineties td:first-of-type,
-    table.nineties td:nth-of-type(4) {
+    /* table.nineties td:nth-of-type(2), */
+    table.nineties td:nth-of-type(4),
+    table.ukroutes td:first-of-type,
+    table.ukroutes td:nth-of-type(4),
+    table.ninebees td:nth-of-type(2),
+    table.ninebees td:nth-of-type(5),
+    table.ninebees td:first-of-type,
+
+    table.nineb2020 td:first-of-type,
+    table.nineb2020 td:nth-of-type(6),
+    
+    /* .ninebees2 div:first-of-type,  */
+    .ninebees2 div:nth-of-type(7n + 1), 
+    .ninebees2 div:nth-of-type(7n + 2), 
+    .ninebees2 div:nth-of-type(7n + 6)  {
         display: none;
     }
 
+.ninebees2 {
+    grid-template-columns: 10fr 5fr 6fr 1fr;
+}
+   
+
     .lists table {
-        margin: 1em -2em;
+        /* margin: 1em -2em; */
     }
 
     header ul {
         justify-content: space-between;
         font-size: 1em;
+    }
+
+    #content {
+        margin: 1em 0;
+    }
+
+    table.ninebees {
+        width: 100%;
+    }
+
+    table.ninebees tr {
+      display: grid;
+      grid-template-columns: minmax(8em, 1fr) 6em 6em 3em;
+      }
+
+    .firstname {
+        display: none;
     }
 }

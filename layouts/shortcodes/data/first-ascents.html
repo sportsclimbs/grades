@@ -1,5 +1,5 @@
 
-<table class="nineties">
+<table class="general">
     {{ $count := 0 }}
 {{ range .Site.Data.ninebees }}
 
@@ -10,9 +10,9 @@
     <tr>
         <td>{{ $count = add $count 1 }}{{ $count }}</td>
         <td>{{ .route }}</td>
-        <td>{{ .surname }}</td>
+        <td><span class="desktop">{{ .firstname }} </span>{{ .surname }}</td>
         <td>{{ .crag }}, {{ .country }}</td>
-        <td>{{ .day }}/{{ .month }}/{{ .year }}</td>
+        <td><span class="desktop">{{ .day }}/{{ .month }}/</span>{{ .year }}</td>
     </tr>
         
     {{ end }}
