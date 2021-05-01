@@ -16,6 +16,7 @@
 body {
     background-color: var(--bg);
     background-image: linear-gradient(200deg, #0e2c35 10%, #1a5060 90%);
+    background-attachment: fixed;
     color:var(--body);
     font-family: KoHo, 'kulim Park', 'segoe ui', sans-serif;
     /* font-size: clamp(14px, 1.7vw, 23px); */
@@ -76,6 +77,10 @@ ul.listpage {
 }
 ul.listpage li {
     margin-bottom: 1em;
+}
+ul.listpage a {
+    display: block;
+    font-size: 1.4rem;
 }
 
 

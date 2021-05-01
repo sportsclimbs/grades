@@ -1,3 +1,6 @@
 notes/
 READLOCAL.md
 assets/
+layouts/shortcodes/picture.html
+assets/img/
+.gitignore

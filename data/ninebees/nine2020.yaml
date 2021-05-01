@@ -8,7 +8,7 @@
   ascent: 1
   crag: St Loup
   country: Switzaland
-  nationality: Swiss?
+  nationality: 'Swiss?'
   summary: Hardest slab in the world?
   notes: 
   image:
@@ -16,7 +16,7 @@
 
 - year: 2020
   month: 01
-  day: 
+  day: '??'
   surname: Parmentier
   firstname: Hugo
   route: Eagle-4
@@ -47,8 +47,8 @@
   video-1:
 
 - year: 2020
-  month: 02
-  day: 05
+  month: 06
+  day: 07
   surname: Megos
   firstname: Alex
   route: Bibliography
@@ -63,8 +63,8 @@
   video-1:
 
 - year: 2020
-  month: 02
-  day: 05
+  month: 09
+  day: 28
   surname: Ghisolfi
   firstname: Stefano
   route: Change
@@ -80,23 +80,7 @@
 
 - year: 2020
   month: 09
-  day: 
-  surname: Chanourdie
-  firstname: Julia
-  route: Eagle 4
-  grade: 9b
-  ascent: 3
-  crag: St Leger
-  country: France
-  nationality: French
-  summary: Second female to climb 9b.
-  notes: 
-  image:
-  video-1:
-
-- year: 2020
-  month: 02
-  day: 05
+  day: 29
   surname: Diaz-Rullo
   firstname: Jorge
   route: El Bonne Combat
@@ -104,7 +88,7 @@
   ascent: 4
   crag: Cova de l'Ocell
   country: Spain
-  nationality: German
+  nationality: Spanish
   summary: 
   notes: 
   image:
@@ -113,8 +97,8 @@
 - year: 2020
   month: 09
   day: 
-  surname: Hyunbin
-  firstname:  Min
+  surname: Min
+  firstname: Hyunbin
   route: Soul Rock Dance
   grade: 9b
   ascent: 1
@@ -128,7 +112,7 @@
 
 - year: 2020
   month: 10
-  day: 
+  day: 22
   surname: Bouin
   firstname: Seb
   route: Beyond Integral
@@ -138,6 +122,22 @@
   country: France
   nationality: French
   summary: .
+  notes: 
+  image:
+  video-1:
+
+- year: 2020
+  month: 11
+  day: 7
+  surname: Chanourdie
+  firstname: Julia
+  route: Eagle 4
+  grade: 9b
+  ascent: 3
+  crag: St Leger
+  country: France
+  nationality: French
+  summary: Second female to climb 9b after Angy Eiter.
   notes: 
   image:
   video-1:
