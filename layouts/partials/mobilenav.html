@@ -1,0 +1,11 @@
+<div id="mySidenav" class="mobilenav">
+    
+    <div class="closebtn" onclick="closeNav()">&times;</div>
+    
+    <ul>
+        <li><a href="/">home</a></li>
+    {{ range site.Menus.main }}
+        <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+    {{ end }}
+    </ul>
+</div>

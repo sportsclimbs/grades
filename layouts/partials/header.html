@@ -1,9 +1,19 @@
 
 <header>
-<div class="sitetitle"><a href="/">{{ site.Title }}</a></div>
-<ul>
-    {{ range site.Menus.main }}
-        <li><a href="{{.URL}}">{{ .Name }}</a></li>
-    {{ end }}
-</ul>    
+    <div class="sitetitle"><a href="/">{{ site.Title }}</a></div>
+    
+    <ul>
+        {{ range site.Menus.main }}
+            <li><a href="{{.URL}}">{{ .Name }}</a></li>
+        {{ end }}
+    </ul>    
+    <div class="icon">
+        <a href="javascript:(void)" onclick="openNav()">
+            <div class="hamburger" onclick="hamburger(this)">
+                <div class="bar1"></div>
+                <div class="bar2"></div>
+                <div class="bar3"></div>
+            </div>
+        </a>
+    </div>
 </header>
