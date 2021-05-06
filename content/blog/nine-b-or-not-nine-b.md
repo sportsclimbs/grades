@@ -2,7 +2,7 @@
 title: "Nine B or Not Nine B"
 date: 2021-04-27T20:59:27+01:00
 draft: true
-tags: [untagged]
+tags: [slash grades]
 summary: Alex Megos's repeat of Mejorando Imagen
 ---
 
@@ -18,12 +18,12 @@ Things get even less certain when we look at the details of Megos's ascent. Acco
 
 Adam Ondra might have suggested the same of another Ramon 9a  at Margalef, Victimas Perez. He had a lot more difficulty with this that one would expect for a man who has onsighted 9a and typically climbs that grade in one day. However the difference is that this route had already had 8 repeats confirming Ramon's grade of 9a.
 
-So for now the now the difficulty of *Mejorando Imagen* is uncertain. Should this be in the list of 9b's? I'm not sure. 
+So for now the now the difficulty of *Mejorando Imagen* is uncertain. Should this be in the list of 9b's? I'm not sure. I'll defer to Escalade 9 who gave it 9a/b, a split of the grade from the two people who have climbed the route.
 
 ## Other slash grades that could be 9b
 
 - [Líder ibérico](https://www.8a.nu/news/lider-iberico-9a+-b-by-alex-garriga-6ytrm)
-- [Les yeux plus gros que l'antre](https://www.8a.nu/crags/sportclimbing/france/russan/sectors/unknown-sector/routes/les-yeux-plus-gros-que-lantre) 9a+/b (now recorded as 9b in his 8a list)
-- https://www.8a.nu/crags/sportclimbing/spain/villanueva-del-rosario/sectors/andalucia/routes/- [Chilam Balam](https://www.8a.nu/crags/sportclimbing/spain/villanueva-del-rosario/sectors/andalucia/routes/chilam-balam) 9a+/b
-- [Beyond Integral](https://www.8a.nu/crags/sportclimbing/france/pic-saint-loup/sectors/baume-des-escargots/routes/beyond-integral) 9b/+
-- [La Rage d'Adam](https://www.8a.nu/crags/sportclimbing/france/verdon/sectors/ramirole/routes/la-rage-dadam) 9b/+
+- [Les yeux plus gros que l'antre](https://www.8a.nu/crags/sportclimbing/france/russan/sectors/unknown-sector/routes/les-yeux-plus-gros-que-lantre) by Seb Bouin was graded 9a+/b (but now recorded as 9b in his 8a list)
+- [Chilam Balam](https://www.8a.nu/crags/sportclimbing/spain/villanueva-del-rosario/sectors/andalucia/routes/chilam-balam) 9a+/b
+- [Beyond Integral](https://www.8a.nu/crags/sportclimbing/france/pic-saint-loup/sectors/baume-des-escargots/routes/beyond-integral) 9b/+ another Seb Bouin awesome looking route.
+- [La Rage d'Adam](https://www.8a.nu/crags/sportclimbing/france/verdon/sectors/ramirole/routes/la-rage-dadam) 9b/+ yet another big pitch by the master of the slash grade Seb Bouin.
