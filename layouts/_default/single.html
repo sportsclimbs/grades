@@ -7,4 +7,10 @@
 
 {{ .Content }}
 
+
+<ul>
+    {{ range  .Pages }}
+    <li>{{ .GitInfo.Subject }}</li>
+    {{ end }}
+</ul>
 {{ end }}

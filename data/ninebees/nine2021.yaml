@@ -79,6 +79,23 @@
   image:
   video-1:
 
+- year: 2021
+  month: 05
+  day: 06
+  surname: Bombardi 
+  firstname: Marcello 
+  route: Lapsus
+  grade: 9b
+  ascent: 3
+  crag: Andonno
+  country: Italy
+  nationality: Spanish
+  summary: 3rd ascent after Ghisolfi and Ondra. 
+  notes: 20 days spread over 4 months. Suggested 9a+ because of using a kneebar rest before final boulder.
+  image:
+  video-1:
+  link: 'https://www.planetmountain.com/en/news/climbing/marcello-bombardi-makes-no-mistakes-on-lapsus-at-andonno-italy.html'
+
   
 # - year: 2021
 #   month: 04

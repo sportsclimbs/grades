@@ -1,7 +1,16 @@
 {{ define "main" }}
 
-    <h1>{{ .Title }}</h1>
 
+
+{{/*  {{ range where site.RegularPages "Section" (or "lists" "blog")}}
+
+<div class="summary">
+    <h3>{{ .Title }}</h3>
+    {{ .Summary }}
+</div>
+
+{{ end }}  */}}
+
+<h1>{{ .Title }}</h1>
     {{ .Content }}
-    
 {{ end }}

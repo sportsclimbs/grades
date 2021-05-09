@@ -7,7 +7,12 @@
     <div>Page created: {{ .Date.Format "02 Jan 2006" }}</div>
     {{ end }}
     
+    <div class="desktop">Grade Apocalypse {{ now.Year }}</div>
+
+    <div class="social">
+        <a href="/index.xml" title="RSS feed">{{ partial "svg/rss" . }}</a>
+        <a href="https://www.instagram.com/climbers.overgrading/" title="Instagram">{{ partial "svg/instagram" . }}</a>
+        <a href="/contact/">{{ partial "svg/contact" . }}</a>
+    </div>
     
-    
-    <div>Grade Apocalypse {{ now.Year }}</div>
 </footer>

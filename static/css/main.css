@@ -136,15 +136,24 @@ table.general {
 
  .general tr:nth-of-type(odd) {
 background-color: var(--tablestripe);
- ;
- }
+}
  .general td,
  .general th {
   padding: 1vh 10px;
   vertical-align: top;
-  }
+}
 
-
+  /* -- For iconmnstr footer icons -- */
+.social a + a {
+    margin-left: 1em;
+}
+.social a {
+    display: inline-block;
+    fill: var(--body);
+}
+.social a:hover {
+    fill: var(--hover);
+}
 
 
 /* --- The issue with the 9bs is that it is a series of tables which need the same alignment of cells --- */
@@ -179,6 +188,14 @@ table.ninebees tr {
     font-weight: bold;
     margin: 1rem auto .25rem 3px;
 }
+
+ /* --------- GRAPHS ----------- */
+
+ #latticetest {
+     background-color: #fff;
+ }
+
+
 /* ------- NAVIGATION --------- */
 
 header ul {

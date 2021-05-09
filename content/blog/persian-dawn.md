@@ -16,9 +16,9 @@ The line has been known for some time but no one was sure it would go. Ben Moon 
 
 Over the past decade the UK has seen an average 1 route per year at this level of difficulty, or harder. Although standards are rising the amount of available unclimbed rock is not.
 
-This leaves one major unclimbed line at the Tor: the free version of Brandenburg Gate. This old aid line was first considered as a free route shortly after Ben Moon climbed *Hubble*. John Gaskins did all the moves this short but desperate line around in 1994 or 95. He even redpointed to just short of where it joins *Make it Funky*. (Yes, there are reliable witnesses to this.) The route has been tried by numerous strong climbers including Malcolm Smith and Steve McClure (who did all the moves but one).
+This leaves one major unclimbed line at the Tor: the free version of Brandenburg Gate. This old aid line was first considered as a free route shortly after Ben Moon climbed *Hubble*. John Gaskins did all the moves this short but desperate line around in 1994 or 95. He even redpointed to just short of where it joins *Make it Funky*. (Yes, there are reliable witnesses to this.) The route has been tried by numerous strong climbers including Malcolm Smith and Steve McClure (who did all the moves but one). Speculation suggests the route is around 9b but time will tell.
 
-Speculation suggests the route is around 9b but time will tell.
+{{< picture "persiandawn.jpg" "Buster Martin on Persian Dawn" >}}
 
 
 ## Links
