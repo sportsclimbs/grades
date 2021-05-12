@@ -253,7 +253,7 @@ a:hover {
 .mobilenav ul {
     list-style-type: none;
     margin: 0;
-    padding: 0;
+    padding: 0 0 1em 0;
     display: flex;
     flex-direction: column;
     gap: 4vh;
@@ -263,6 +263,14 @@ a:hover {
 }
 .mobilenav a {
     display: block;
+}
+.mobilenav footer {
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+}
+.mobilenav footer .social {
+    display: flex;
 }
 .icon {
     position: absolute;

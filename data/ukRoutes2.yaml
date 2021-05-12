@@ -425,13 +425,18 @@
      date: Oct 2013
 
 - route: Batman
-  grade: 9a+
+  grade: 9a/+
   year: 2013
   crag: Malham Cove
   ascents:
    - climber: Steve McClure
      ascent: first
-     date: 2016
+     date: 2013
+     notes:
+     video: https://www.youtube.com/watch?v=Nldb3ZohDLo
+   - climber: Eder Lomba Lopez de Ipiña
+     ascent: second
+     date: 2021
      notes: 
 
 - route: The Pink Star

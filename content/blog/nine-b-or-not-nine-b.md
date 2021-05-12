@@ -1,14 +1,14 @@
 ---
 title: "Nine B or Not Nine B"
 date: 2021-04-27T20:59:27+01:00
-draft: true
+draft: false
 tags: [slash grades]
 summary: Alex Megos's repeat of Mejorando Imagen
 ---
 
 ...that is the question.
 
-With the site up for barely a day an ascent by Alex Megos has already caused difficulties of the list of 9b's.
+With the site up for barely a day an ascent by Alex Megos has already caused difficulties for the list of 9b's.
 
 The ascent in question is the second ascent of a Margalef '9a' put up in 2013 by Ramon Julian Puigblanque. After taking over a week to complete the ascent Alex has suggested upgrading the route to 9b. This seems reasonable enough. Alex is not exactly shit at Marglef. Aside from making the first ascent of the hardest route there, Perfecto Mundo (9b+), he also made quick work of Sharma's First Round First Minute taking only 5 days as well making a one day ascent of Sharma's brutal roof route Dementia Senile (9a+). So the upgrade seems fair and logical enough.
 
@@ -20,7 +20,9 @@ Adam Ondra might have suggested the same of another Ramon 9a  at Margalef, Victi
 
 So for now the now the difficulty of *Mejorando Imagen* is uncertain. Should this be in the list of 9b's? I'm not sure. I'll defer to Escalade 9 who gave it 9a/b, a split of the grade from the two people who have climbed the route.
 
-## Other slash grades that could be 9b
+{{< youtube uYmtaitHdWA >}}
+
+## Other slash grades that could be 9b or harder
 
 - [Líder ibérico](https://www.8a.nu/news/lider-iberico-9a+-b-by-alex-garriga-6ytrm)
 - [Les yeux plus gros que l'antre](https://www.8a.nu/crags/sportclimbing/france/russan/sectors/unknown-sector/routes/les-yeux-plus-gros-que-lantre) by Seb Bouin was graded 9a+/b (but now recorded as 9b in his 8a list)

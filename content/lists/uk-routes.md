@@ -15,6 +15,8 @@ The hardest crag, by a signifcant margin is Malham Cove, not just by number (8 r
 
 The best years have been 2020 with 11 ascents in total, 2016 with 10 and 2011 with 9.
 
+2021 has got off to a good start with another ascent of Rainshadow, a direct finish to Make it Funky, a new hard route at Kilnsey and the second ascent of Batshadow.
+
 
 {{< data/uk-routes >}}
 
