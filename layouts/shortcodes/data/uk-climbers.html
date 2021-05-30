@@ -1,0 +1,57 @@
+
+
+{{ $scr := newScratch }}<br>
+{{ $scr.Set "greeting" "bye" }}<br>
+{{ $scr.Get "greeting" }}<br>
+piss {{ $piss := slice "dog" "cat" "pig" "fag" "dog" }}<br>
+{{ len $piss }}<br>
+uniq: {{ $piss | uniq }}<br>
+{{ $scr.Get "greeting" }}<br>
+
+<p>
+  {{ print $piss }}
+</p>
+
+
+<hr><hr>
+
+<h2>Using scratch</h2>
+
+{{ $scratch := newScratch }}
+{{ range .Site.Data.ukRoutes2 }}
+  {{ $scratch.Add "climber" (slice .climber) }}
+{{ end }}
+<p>There are {{ len ($scratch.Get "climber" ) }} climbers in this list - suspicious: 34 is the number of entries.</p>
+
+
+
+<hr><hr>
+
+<h2>basic range</h2>
+
+<ol>
+    {{ range .Site.Data.ukRoutes2 }}
+      {{ range .ascents }}
+      <li>
+          {{ .climber }}/{{ .date }}
+        </li>
+      {{ end }}
+    {{ end }}
+</ol>
+
+
+<hr><hr>
+
+{{ range  site.Data.ukRoutes2 }}
+  <ol>
+    {{ range  .ascents }}
+        <li>{{ $clmbr := .climber }} {{ slice $clmbr | uniq }}</li>
+    {{ end }}
+  </ol>
+ {{ end }}
+
+<hr><hr>
+
+{{ range site.Data.ukRoutes2 }}
+        {{ $crags := .crag }}
+{{ end }}

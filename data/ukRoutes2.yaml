@@ -27,7 +27,7 @@
     - climber: Pete Dawson
       ascent: eighth
       date: 13 Aug 2019
-    - climber: Mathew Wright
+    - climber: Matt Wright
       ascent: ninth
       date: 30 Sept 2020
     - climber: Buster Martin
@@ -144,7 +144,7 @@
   - climber: Ben Moon
     ascent: ninth
     date: Nov 2018
-  - climber: Mat Wright
+  - climber: Matt Wright
     ascent: tenth
     date: Sept 2019
 
@@ -480,6 +480,9 @@
    - climber: Dawid Skoczylas
      ascent: first
      date: 2016
+   - climber: Will Bosi
+     ascent: second
+     date: 21 May 2021
 
 
 - route: Rainman

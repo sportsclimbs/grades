@@ -361,14 +361,10 @@ a:hover {
         display: none;
     }
 
-.ninebees2 {
-    grid-template-columns: 10fr 5fr 6fr 1fr;
-}
-   
-
-    .lists table {
-        /* margin: 1em -2em; */
+    .ninebees2 {
+        grid-template-columns: 10fr 5fr 6fr 1fr;
     }
+
 
     header ul {
         justify-content: space-between;

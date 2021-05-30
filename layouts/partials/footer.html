@@ -4,7 +4,7 @@
     {{ if .IsHome }}
     <div>Site updated: {{ .Site.LastChange.Format "02 Jan 2006" }}</div>
     {{ else }}
-    <div>Page created: {{ .Date.Format "02 Jan 2006" }}</div>
+    <div>Updated: {{ .Lastmod.Format "02 Jan 2006" }}</div>
     {{ end }}
     
     <div class="desktop">Grade Apocalypse {{ now.Year }}</div>

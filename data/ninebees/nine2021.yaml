@@ -97,6 +97,25 @@
   link: 'https://www.planetmountain.com/en/news/climbing/marcello-bombardi-makes-no-mistakes-on-lapsus-at-andonno-italy.html'
 
   
+
+- year: 2021
+  month: 05
+  day: 18
+  surname: Siegrist 
+  firstname: Jonathon 
+  route: Peruvian Necktie
+  grade: 9b
+  ascent: 2
+  crag: Pop Tire Cave
+  country: USA
+  nationality: American
+  summary: Long awaited second ascent of this ungraded James Litz testpiece. 
+  notes: 
+  image:
+  video-1: https://www.youtube.com/watch?v=L3xHu8c0kPc
+  link: 'https://www.planetmountain.com/en/news/climbing/marcello-bombardi-makes-no-mistakes-on-lapsus-at-andonno-italy.html'
+
+  
 # - year: 2021
 #   month: 04
 #   day: 
@@ -112,3 +131,19 @@
 #   notes: 
 #   image:
 #   video-1:
+  
+# - year: 2021
+#   month: 05
+#   day: 
+#   surname: Diaz-Rullo
+#   firstname: Jorge
+#   route: Mejorando Imagen
+#   grade: 9a+/b
+#   ascent: 3
+#   crag: Margalef
+#   country: Spain
+#   nationality: Spanish
+#   summary: Soon after Alex Megos's ascent. Took 8 days.
+#   notes: 
+#   image:
+#   video-1: 'https://youtu.be/RHQmCedkSJA'
