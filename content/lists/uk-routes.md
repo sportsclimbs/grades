@@ -6,6 +6,8 @@ draft: false
 summary: List of UK routes and all ascents of 8c+ and above.
 ---
 
+![Eder Lomba on Northern Lights](/img/eder-northern-lights-01.jpg)
+
 This hopefully lists all routes of 8c+ and above. Such a list is inevitably somewhat subjective. Not included here are extended boulder problems or hybrid boulder routes.
 
 Steve McClure has been the dominent force in UK sport climbing for over 2 decades and it's no surprise he has done the most routes here. What is perhaps surprising is that he hasn't done more though. Of the 33 routes he has less than half having ticked 14. Steve's focus has been the Peak District and Yorkshire and misses out on routes further from home: Wales, Scotland and Devon. 
@@ -25,8 +27,16 @@ The best years have been 2020 with 11 ascents in total, 2016 with 10 and 2011 wi
 5. The second ascent of *The Wild West* (8c+) at Raven Tor by Will Bosi
 6. The fourth ascent (first British repeat) of *Northern Lights* (9a) at Kilnsey by Will Bosi.
 7. The ninth ascent of Progress (8c+) by Eder Lomba Lopez de Ipiña. He suggests a downgrade after using new kneebar beta.
+8. The tenth ascent of Progress by Josh Ibbetson
+9. The elevent ascent of Progress by Ted Kingsnorth.
 
 Additionally both Eder Lomba Lopez de Ipiña and Josh Ibbetson have been getting close to the first repeat of Steve McClure's *Rainman* (9b) and Will Bosi has got very close to making the second ascent of Steve McClure's *Mutation* (9a/+) at Raven Tor.
+
+In June Eder repeated *Progress* at Kilnsey finding new kneebar rests on this power-endurance route. He thinks this makes a substantial difference to the difficulty saying it is now comparable in difficulty to *True North*, the 8c some 10m to the R of *Progress*. The route saw two subsequent ascents by Josh Ibbetson and Ted Kingsnorth, both employing kneebars with kneepads. Ted Kingsnorth felt for him the route was still worth 8c+:
+
+> Important to mention I used a kneebar recently found by @ederlomba at the 6th bolt which allows a shake in each arm which defo helps but it’s not amazing, not hands off for me at least! Plus you need to climb the meat of the hard climbing to get there. I still think the route holds its grade despite this.
+
+Currently *Northern Lights* is seeing serious attempts by Ryan Pasquill, Ben Moon, Eder Lomba Lopez de Ipiña and Josh Ibbetson. All have made strong redpoint goes with Ryan and Ben falling above the last bolt. 
 
 
 {{< data/uk-routes >}}
