@@ -18,7 +18,7 @@ The hardest crag, by a signifcant margin is Malham Cove, not just by number (8 r
 
 The best years have been 2020 with 11 ascents in total, 2016 with 10 and 2011 with 9.
 
-2021 has got off to a good start with 7 ascents so far:
+But 2021 is now up to 10 ascents:
 
 1. *Rainshadow* 12th ascent by Eder Lomba Lopez de Ipiña
 2. New direct finish to *Make it Funky*, *Persian Dawn* (8c+) by Buster Martin
@@ -29,14 +29,15 @@ The best years have been 2020 with 11 ascents in total, 2016 with 10 and 2011 wi
 7. The ninth ascent of Progress (8c+) by Eder Lomba Lopez de Ipiña. He suggests a downgrade after using new kneebar beta.
 8. The tenth ascent of Progress by Josh Ibbetson
 9. The elevent ascent of Progress by Ted Kingsnorth.
+10. The twelth ascent of Progress by Pete Dawson.
 
 Additionally both Eder Lomba Lopez de Ipiña and Josh Ibbetson have been getting close to the first repeat of Steve McClure's *Rainman* (9b) and Will Bosi has got very close to making the second ascent of Steve McClure's *Mutation* (9a/+) at Raven Tor.
 
-In June Eder repeated *Progress* at Kilnsey finding new kneebar rests on this power-endurance route. He thinks this makes a substantial difference to the difficulty saying it is now comparable in difficulty to *True North*, the 8c some 10m to the R of *Progress*. The route saw two subsequent ascents by Josh Ibbetson and Ted Kingsnorth, both employing kneebars with kneepads. Ted Kingsnorth felt for him the route was still worth 8c+:
+In June Eder repeated *Progress* at Kilnsey finding new kneebar rests on this power-endurance route. He thinks this makes a substantial difference to the difficulty saying it is now comparable in difficulty to *True North*, the 8c some 10m to the R of *Progress*. The route saw three subsequent ascents by Josh Ibbetson, Ted Kingsnorth, and Pete Dawson. Josh and Ted both used kneebars with kneepads. Ted Kingsnorth felt for him the route was still worth 8c+:
 
 > Important to mention I used a kneebar recently found by @ederlomba at the 6th bolt which allows a shake in each arm which defo helps but it’s not amazing, not hands off for me at least! Plus you need to climb the meat of the hard climbing to get there. I still think the route holds its grade despite this.
 
-Currently *Northern Lights* is seeing serious attempts by Ryan Pasquill, Ben Moon, Eder Lomba Lopez de Ipiña and Josh Ibbetson. All have made strong redpoint goes with Ryan and Ben falling above the last bolt. 
+*Northern Lights* is has seen serious attempts by Ryan Pasquill, Ben Moon, Eder Lomba Lopez de Ipiña and Josh Ibbetson. All have made strong redpoint goes with Ryan and Ben falling above the last bolt. 
 
 
 {{< data/uk-routes >}}
@@ -45,6 +46,6 @@ Currently *Northern Lights* is seeing serious attempts by Ryan Pasquill, Ben Moo
 ## Notes
 
 1. **Kaabah** has only the first ascent listed because that was the only known ascent that did the crux of the original line. Subsequent ascents use a minor variation reducing the difficulty.
-2. **Progress** at Kilnsey was originally an 8c route but became harder after the loss of holds in 1997. Steve McClure made the first ascent in it's current 8c+ incarnation in 2006.
+2. **Progress** at Kilnsey was originally an 8c route but became harder after the loss of holds in 1997. Steve McClure made the first ascent in it's current 8c+ incarnation in 2006. In 2021 Eder Lomba Lopez de Ipiña used kneepads on the route and felt it made a significant difference to the difficulty of the route. Several ascents followed in quick succession.
 4. **Mutation** has seen serious attempts by very strong climbers and is widely rumoured to be 9a+. 
 5. John Dunne's ascent of **Total Eclipse** has been disputed. There is conflicting evidence regarding this route.
