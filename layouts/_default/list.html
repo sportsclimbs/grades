@@ -3,7 +3,7 @@
 
 <ul class="listpage">
     {{ range .Pages.ByTitle }}
-       <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+       <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a> - {{ .Summary | truncate 110 }}</li>
     {{ end }}
 </ul>  
 

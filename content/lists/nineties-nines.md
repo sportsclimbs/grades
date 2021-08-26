@@ -2,6 +2,7 @@
 title: "Nineties Nines"
 date: 2021-04-11T21:01:37+01:00
 draft: false
+summary: A list of grade 9 routes done in the 1990s and thoughts on what was the first 9a+.
 ---
 
 The 1990s saw the first 9a, though which route was it still up for debate. Ben Moon's *Hubble* is the earliest contender. Climbed in 1991 Moon graded it 8c+ because it was harder than anything else he had done. Today it is widely considered 9a.

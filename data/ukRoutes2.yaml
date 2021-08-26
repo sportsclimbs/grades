@@ -84,39 +84,42 @@
   - climber: Nic Sellars
     ascent: second
     date: 1995
-  - climber: Steve McClure
+  - climber: Malcolm Smith
     ascent: third
+    date: 1995
+  - climber: Steve McClure
+    ascent: fourth
     date: 2006
   - climber: Chris Savage
-    ascent: fourth
+    ascent: fifth
     date: July 2011
   - climber: Tim Palmer
-    ascent: ninth
+    ascent: sixth
     date: Aug 2014
   - climber: Alex Barrows
-    ascent: fifth
+    ascent: seventh
     date: 21 June 2015
   - climber: Alex Megos
-    ascent: sixth
+    ascent: eighth
     date: June 2016
     notes: 2nd go
   - climber: Jon Freeman
-    ascent: seventh
+    ascent: ninth
     date: 19 Jun 2016
   - climber: Luke Dawson
-    ascent: eighth
+    ascent: tenth
     date: 20 Jun 2020
   - climber: Eder Lomba Lopez de Ipiña
-    ascent: ninth
+    ascent: eleventh
     date: 12 Jun 2021
   - climber: Josh Ibbertson
-    ascent: tenth
+    ascent: twelth
     date: Jun 2021
   - climber: Ted Kingsnorth
-    ascent: eleventh
+    ascent: thirteenth
     date: 29 Jun 2021
   - climber: Pete Dawson
-    ascent: twelth
+    ascent: fourteenth
     date: 04 Jul 2021
 
 - route: Evolution

@@ -1,10 +1,10 @@
 {{ define "main" }}
 
-<h1>{{ .Title }}</h1>
+<h1>{{ .Title }} {{ with .Params.draft }}(Draft version){{ end }}</h1>
 {{ if eq .Section "blog" }}
 <time>{{ .Date.Format "02 Jan 2006" }}</time>
 {{ end }}
-
+<div class="summary"><p>{{ .Summary }}</p></div>
 {{ .Content }}
 
 
