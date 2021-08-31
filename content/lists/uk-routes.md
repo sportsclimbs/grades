@@ -6,7 +6,9 @@ LastUpdated: 2021-06-15
 draft: false
 ---
 
-![Eder Lomba on Northern Lights](/img/eder-northern-lights-01.jpg)
+![Eder Lomba attempting Northern Lights](/img/eder-northern-lights-01.jpg)
+
+## 2021 equals the best year for hard ascents.
 
 This hopefully lists all routes of 8c+ and above. Such a list is inevitably somewhat subjective. Not included here are extended boulder problems or hybrid boulder routes.
 
@@ -14,11 +16,11 @@ Steve McClure has been the dominent force in UK sport climbing for over 2 decade
 
 The runners up place is currently shared by Pete Robbins and Will Bosi with 6 routes each though Bosi's routes are harder and include 4 9a's. After this there are 3 climbers with 5 routes each: Ben Moon, Malcolm Smith and Pete Dawson.
 
-The hardest crag, by a signifcant margin is Malham Cove, not just by number (8 routes listed) but also the hardest with the only 9b and two 9a+'s. In second place comes Raven Tor with 5 routes.
+The hardest crag, by a signifcant margin is Malham Cove, not just by number (8 routes listed) but also the hardest with the country's only 9b and two 9a+'s. In second place comes Raven Tor with 5 routes.
 
-The best years have been 2020 with 11 ascents in total, 2016 with 10 and 2011 with 9.
+The best years previously have been 2020 with 11 ascents in total, 2016 with 10 and 2011 with 9.
 
-But 2021 is now up to 10 ascents:
+But 2021 is now up to 11 ascents so far:
 
 1. *Rainshadow* 12th ascent by Eder Lomba Lopez de Ipiña
 2. New direct finish to *Make it Funky*, *Persian Dawn* (8c+) by Buster Martin
@@ -26,20 +28,21 @@ But 2021 is now up to 10 ascents:
 4. The second ascent of *Batshadow* (9a/+) at Malham by Eder Lomba Lopez de Ipiña
 5. The second ascent of *The Wild West* (8c+) at Raven Tor by Will Bosi
 6. The fourth ascent (first British repeat) of *Northern Lights* (9a) at Kilnsey by Will Bosi.
-7. The eleventh ascent of Progress (8c+) by Eder Lomba Lopez de Ipiña. He suggests a downgrade after using new kneebar beta.
-8. The twelth ascent of Progress by Josh Ibbetson
-9. The thirteenth ascent of Progress by Ted Kingsnorth.
-10. The fourteenth ascent of Progress by Pete Dawson.
+7. The eleventh ascent of *Progress* (8c+) by Eder Lomba Lopez de Ipiña. He suggests a downgrade after using new kneebar beta.
+8. The twelth ascent of *Progress* by Josh Ibbetson
+9. The thirteenth ascent of *Progress* by Ted Kingsnorth.
+10. The fourteenth ascent of *Progress* by Pete Dawson.
+11. The fifth ascent of *Northern Lights* by Josh Ibbetson.
 
-Additionally both Eder Lomba Lopez de Ipiña and Josh Ibbetson have been getting close to the first repeat of Steve McClure's *Rainman* (9b) and Will Bosi has got very close to making the second ascent of Steve McClure's *Mutation* (9a/+) at Raven Tor.
+Additionally both Eder Lomba Lopez de Ipiña and Josh Ibbetson were getting close to the first repeat of Steve McClure's *Rainman* (9b) and Will Bosi has got very close to making the second ascent of Steve McClure's *Mutation* (9a/+) at Raven Tor.
 
-In June Eder repeated *Progress* at Kilnsey finding two new kneebar rests on this power-endurance route. He thinks this makes a substantial difference to the difficulty saying it is now comparable in difficulty to *True North*, the 8c some 10m to the R of *Progress*. The route saw three subsequent ascents by Josh Ibbetson, Ted Kingsnorth, and Pete Dawson. Josh and Ted both used kneebars with kneepads. Ted Kingsnorth felt for him the route was still worth 8c+:
+In June Eder repeated *Progress* at Kilnsey finding two new kneebar rests on this power-endurance route. He thinks this makes a substantial difference to the difficulty saying it is now comparable in difficulty to *True North*, the 8c some 10m to the R of *Progress*. The route saw three subsequent ascents by Josh Ibbetson, Ted Kingsnorth, and Pete Dawson. Josh and Ted both used kneebars with kneepads. Ted Kingsnorth felt for him the route was still worth 8c+ though:
 
 > Important to mention I used a kneebar recently found by @ederlomba at the 6th bolt which allows a shake in each arm which defo helps but it’s not amazing, not hands off for me at least! Plus you need to climb the meat of the hard climbing to get there. I still think the route holds its grade despite this.
 
-This view was also shared by Josh Ibbetson who thought Progress to be a grade harder than True North. Neither Josh nor Ted used Eder's 5th bolt knee bar by the 'eyes'. Ted said "it is very specialised using two legs, one braced behind the other and we were unable to get anything out of it". So it sounds unlikely that this kneebar will ever become standard practice on the route.
+This view was also shared by Josh Ibbetson who thought *Progress* to be a grade harder than *True North*. Neither Josh nor Ted used Eder's 5th bolt knee bar by the 'eyes'. Ted said "it is very specialised using two legs, one braced behind the other and we were unable to get anything out of it". So it sounds unlikely that this kneebar will ever become standard practice on the route.
 
-*Northern Lights* is has seen serious attempts by Ryan Pasquill, Ben Moon, Eder Lomba Lopez de Ipiña and Josh Ibbetson. All have made strong redpoint goes with Ryan and Ben falling above the last bolt. 
+*Northern Lights* is has also seen serious attempts by Ryan Pasquill, Ben Moon, Eder Lomba Lopez de Ipiña. All have made strong redpoint goes with Ryan and Ben falling above the last bolt. 
 
 
 {{< data/uk-routes >}}

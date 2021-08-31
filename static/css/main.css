@@ -103,6 +103,24 @@ h2 {
 h2+p, h2+ul {
     margin-top: 0;
 }
+blockquote>p:first-child::before,
+blockquote>p:last-child::after {
+    line-height: 0.1em;
+    font-size: 4em;
+    color: var(--tablestripe);
+    vertical-align: -0.4em;
+}
+blockquote>p:first-child::before {
+    content: open-quote;
+}
+blockquote>p:last-child::after {
+        content: close-quote;
+}
+    /* Hanging outdent */
+blockquote>p:first-child {
+    text-indent: -1.6em;
+}
+
 figure {
     margin: 0;
 }
