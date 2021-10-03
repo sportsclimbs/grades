@@ -156,12 +156,29 @@
   surname: Ghisolfi 
   firstname: Stefano 
   route: Bibliographie
-  grade: 9c
+  grade: 9b+
   ascent: 2
   crag: Ceuse
   country: France
   nationality: Italian
-  summary: Impressive second ascent making Stefano the third person to climb 9c. 
+  summary: Impressive second ascent making Stefano. Took 25 days over 3 months. New beta and suggested downgrade to 9b+. 
+  notes: 
+  image:
+  video-1: 
+  link: 'https://www.planetmountain.com/en/news/climbing/stefano-ghisolfi-repeats-bibliographie-alexander-megos-masterpiece-at-ceuse.html'
+
+- year: 2021
+  month: 10
+  day: 01
+  surname: Bailey 
+  firstname: Sean 
+  route: Bibliographie
+  grade: 9b+
+  ascent: 3
+  crag: Ceuse
+  country: France
+  nationality: USA
+  summary: Sean Bailey becomes the seventh person to climb 9b+ with his first route harder than 9a+. 
   notes: 
   image:
   video-1: 
