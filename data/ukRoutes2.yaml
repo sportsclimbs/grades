@@ -460,6 +460,10 @@
      ascent: second
      date: 2021
      notes: 
+   - climber: Josh Ibbertson
+     ascent: third
+     date: 01 Oct 2021
+     notes: 
 
 - route: The Pink Star
   grade: 8c+
@@ -544,3 +548,4 @@
    - climber: Alex Barrows
      ascent: first
      date: 06 May 2021
+
