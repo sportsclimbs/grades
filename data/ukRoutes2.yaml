@@ -75,12 +75,12 @@
 - route: Progress
   grade: 8c+
   info: "Due to the loss of some holds in 1997, Steve McClure upgraded the climb from 8c to 8c+ following his  ascent in 2006. https://www.ukclimbing.com/news/2016/06/progress_8c+_for_jon_freeman-70535"
-  year: 1997/2006
+  year: 1995/1997/2006
   crag: Kilnsey
   ascents:
   - climber: Jerry Moffatt
     ascent: first
-    date: 1995?
+    date: 1995
   - climber: Nic Sellars
     ascent: second
     date: 1995
@@ -162,6 +162,9 @@
   - climber: Matt Wright
     ascent: tenth
     date: Sept 2019
+  - climber: Ethan Walker
+    ascent: eleventh
+    date: Oct 2021
 
 - route: Total Eclipse
   grade: 8c+

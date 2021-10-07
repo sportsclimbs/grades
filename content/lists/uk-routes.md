@@ -20,7 +20,7 @@ The hardest crag, by a signifcant margin is Malham Cove, not just by number (8 r
 
 The best years previously were 2020 with 11 ascents in total, 2016 with 10 and 2011 with 9.
 
-But 2021 is now up to 12 ascents with a few months left and some almost completed projects by several climbers.
+But 2021 is now up to 13 ascents with a few months left and some almost completed projects by several climbers.
 
 The so far:
 
@@ -31,11 +31,12 @@ The so far:
 5. The second ascent of *The Wild West* (8c+) at Raven Tor by Will Bosi
 6. The fourth ascent (first British repeat) of *Northern Lights* (9a) at Kilnsey by Will Bosi.
 7. The eleventh ascent of *Progress* (8c+) by Eder Lomba Lopez de Ipiña. He suggests a downgrade after using new kneebar beta.
-8. The twelth ascent of *Progress* by Josh Ibbetson
-9. The thirteenth ascent of *Progress* by Ted Kingsnorth.
-10. The fourteenth ascent of *Progress* by Pete Dawson.
-11. The fifth ascent of *Northern Lights* by Josh Ibbetson.
-12. The third ascent of *Batshadow* by Josh Ibbetson.
+8. The twelth ascent of *Progress* by (8c+) Josh Ibbetson
+9. The thirteenth ascent of *Progress* (8c+) by Ted Kingsnorth.
+10. The fourteenth ascent of *Progress* (8c+) by Pete Dawson.
+11. The fifth ascent of *Northern Lights* (9a) by Josh Ibbetson.
+12. The third ascent of *Batshadow* (9a/+) by Josh Ibbetson.
+13. The eleventh ascent of *Evolution* (8c+) by Ethan Walker
 
 Additionally both Eder Lomba Lopez de Ipiña and Josh Ibbetson were getting close to the first repeat of Steve McClure's *Rainman* (9b) and Will Bosi has got very close to making the second ascent of Steve McClure's *Mutation* (9a/+) at Raven Tor.
 
