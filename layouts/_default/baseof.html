@@ -1,11 +1,10 @@
 <!DOCTYPE html>
 <html>
     {{- partial "head.html" . -}}
-    <body {{ if .Section }}
-        class="{{ .Section }}"
-        {{ else }}
-        class="{{ .Name | lower }}"
-    {{ end }}
+    <body {{ if eq .Kind "Section" -}}class="{{- .Section -}}"
+        {{- else -}}
+        class="{{- replace .Name " " "-" | lower -}}"
+    {{- end -}}
     >
     {{ partial "mobilenav" . }}
     <div class="container">

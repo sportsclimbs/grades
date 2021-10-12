@@ -13,4 +13,8 @@
 
 <h1>{{ .Title }}</h1>
     {{ .Content }}
+    {{ with .GetPage "blog/climbers-9b-plus-2" }}
+    <h2>{{ .Title }}</h2>
+    {{ .Content }}
+    {{ end }}
 {{ end }}
