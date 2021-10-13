@@ -16,8 +16,8 @@ With all this action it seems like a good time to take stock of who's who in the
 {{< climbers-9b-plus >}}
 
 
-## Biggest base
+## Most 9b's
 
-Of the 7 9b+ climbers above who has the biggest base? No prizes for guessing who's on top. But it's interesting to note that Chris Sharma, who hasn't climbed a route at this level since his 2015 first ascent of *El Bonne Combat* was only knocked out of his no. 2 spot this year by Stefano Ghisolfi. It's also interesting that the only other American listed is the complete opposite. After climbing only a few 9a+'s Sean Bailey skipped the 9b grade altogether to make the third and fastest ascent of *Bibliography*.
+Of the 7 9b+ climbers above who has climbed the most routes of 9b or above? No prizes for guessing who's on top. But it's interesting to note that Chris Sharma, who hasn't climbed a route at this level since his 2015 first ascent of *El Bonne Combat* was only knocked out of his no. 2 spot this year by Stefano Ghisolfi. It's also interesting that the only other American listed is the complete opposite. After climbing only a few 9a+'s Sean Bailey skipped the 9b grade altogether to make the third and fastest ascent of *Bibliography*.
 
 {{< plus-climbers-graph >}}

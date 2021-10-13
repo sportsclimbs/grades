@@ -2,19 +2,22 @@
 
 
 
-{{/*  {{ range where site.RegularPages "Section" (or "lists" "blog")}}
+    {{/*  {{ range where site.RegularPages "Section" (or "lists" "blog")}}
 
-<div class="summary">
-    <h3>{{ .Title }}</h3>
-    {{ .Summary }}
-</div>
+    <div class="summary">
+        <h3>{{ .Title }}</h3>
+        {{ .Summary }}
+    </div>
 
-{{ end }}  */}}
+    {{ end }} */}}
 
-<h1>{{ .Title }}</h1>
-    {{ .Content }}
+    <h1>{{ .Title }}</h1>
+    {{ with .Content }}
+    {{ . }}
+    {{ end }}
     {{ with .GetPage "blog/climbers-9b-plus-2" }}
-    <h2>{{ .Title }}</h2>
-    {{ .Content }}
+        <h2>{{ .Title }}</h2>
+        <time>{{ .Date.Format "02 Jan 06" }}</time>
+        {{ .Content }}
     {{ end }}
 {{ end }}
