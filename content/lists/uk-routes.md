@@ -20,9 +20,9 @@ The hardest crag, by a signifcant margin is Malham Cove, not just by number (8 r
 
 The best years previously were 2020 with 11 ascents in total, 2016 with 10 and 2011 with 9.
 
-But 2021 is now up to 13 ascents with a few months left and some almost completed projects by several climbers.
+But 2021 is now up to 14 ascents with perhaps a month of good weather there are still some almost completed projects by several climbers.
 
-The so far:
+2021 so far:
 
 1. *Rainshadow* 12th ascent by Eder Lomba Lopez de Ipiña
 2. New direct finish to *Make it Funky*, *Persian Dawn* (8c+) by Buster Martin
@@ -30,15 +30,16 @@ The so far:
 4. The second ascent of *Batshadow* (9a/+) at Malham by Eder Lomba Lopez de Ipiña
 5. The second ascent of *The Wild West* (8c+) at Raven Tor by Will Bosi
 6. The fourth ascent (first British repeat) of *Northern Lights* (9a) at Kilnsey by Will Bosi.
-7. The eleventh ascent of *Progress* (8c+) by Eder Lomba Lopez de Ipiña. He suggests a downgrade after using new kneebar beta.
-8. The twelth ascent of *Progress* by (8c+) Josh Ibbetson
-9. The thirteenth ascent of *Progress* (8c+) by Ted Kingsnorth.
-10. The fourteenth ascent of *Progress* (8c+) by Pete Dawson.
+7. The twelth ascent of *Progress* (8c+) by Eder Lomba Lopez de Ipiña. He suggests a downgrade after using new kneebar beta.
+8. The thirteenth ascent of *Progress* by (8c+) Josh Ibbetson
+9. The fourteenth ascent of *Progress* (8c+) by Ted Kingsnorth.
+10. The fifteenth ascent of *Progress* (8c+) by Pete Dawson.
 11. The fifth ascent of *Northern Lights* (9a) by Josh Ibbetson.
 12. The third ascent of *Batshadow* (9a/+) by Josh Ibbetson.
 13. The eleventh ascent of *Evolution* (8c+) by Ethan Walker
+14. The fourth ascent of *Batman* (9a/+) by Toby Roberts
 
-Additionally both Eder Lomba Lopez de Ipiña and Josh Ibbetson were getting close to the first repeat of Steve McClure's *Rainman* (9b) and Will Bosi has got very close to making the second ascent of Steve McClure's *Mutation* (9a/+) at Raven Tor.
+Additionally both Eder Lomba Lopez de Ipiña and Josh Ibbetson were getting close to the first repeat of Steve McClure's *Rainman* (9b) and Toby Roberts, having completed the fourth ascent of Batman has also joined the race for the prestigious second ascent of the UK's hardest route. Will Bosi has got very close to making the second ascent of Steve McClure's *Mutation* (9a/+) at Raven Tor earlier in the year.
 
 In June Eder repeated *Progress* at Kilnsey finding two new kneebar rests on this power-endurance route. He thinks this makes a substantial difference to the difficulty saying it is now comparable in difficulty to *True North*, the 8c some 10m to the R of *Progress*. The route saw three subsequent ascents by Josh Ibbetson, Ted Kingsnorth, and Pete Dawson. Josh and Ted both used kneebars with kneepads. Ted Kingsnorth felt for him the route was still worth 8c+ though:
 
@@ -46,7 +47,7 @@ In June Eder repeated *Progress* at Kilnsey finding two new kneebar rests on thi
 
 This view was also shared by Josh Ibbetson who thought *Progress* to be a grade harder than *True North*. Neither Josh nor Ted used Eder's 5th bolt knee bar by the 'eyes'. Ted said "it is very specialised using two legs, one braced behind the other and we were unable to get anything out of it". So it sounds unlikely that this kneebar will ever become standard practice on the route.
 
-*Northern Lights* is has also seen serious attempts by Ryan Pasquill, Ben Moon, Eder Lomba Lopez de Ipiña. All have made strong redpoint goes with Ryan and Ben falling above the last bolt.
+*Northern Lights* is has also seen serious attempts by Ryan Pasquill, Ben Moon, and Eder Lomba Lopez de Ipiña. All have made strong redpoint goes with Ryan and Ben falling above the last bolt.
 
 
 {{< data/uk-routes >}}
@@ -58,3 +59,4 @@ This view was also shared by Josh Ibbetson who thought *Progress* to be a grade 
 2. **Progress** at Kilnsey was originally an 8c route but became harder after the loss of holds in 1997. Steve McClure made the first ascent in it's current 8c+ incarnation in 2006. In 2021 Eder Lomba Lopez de Ipiña used kneepads on the route and felt it made a significant difference to the difficulty of the route. Several ascents followed in quick succession.
 4. **Mutation** has seen serious attempts by very strong climbers and is widely rumoured to be 9a+. 
 5. John Dunne's ascent of **Total Eclipse** has been disputed. There is conflicting evidence regarding this route.
+6. There is a variation on **Sea of Tranquillity** that bypasses the font 8A crux sequence and makes the route 'only' 8c (the grade it was originally given). 
