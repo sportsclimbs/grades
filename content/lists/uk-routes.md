@@ -14,7 +14,7 @@ This hopefully lists all routes of 8c+ and above. Such a list is inevitably some
 
 Steve McClure has been the dominent force in UK sport climbing for over 2 decades and it's no surprise he has done the most routes here. What is perhaps surprising is that he hasn't done more though. Of the 33 routes he has less than half having ticked 14. Steve's focus has been the Peak District and Yorkshire and misses out on routes further from home: Wales, Scotland and Devon. 
 
-The runners up place is currently shared by Pete Robbins and Will Bosi with 6 routes each though Bosi's routes are harder and include 4 9a's. After this there are 3 climbers with 5 routes each: Ben Moon, Malcolm Smith and Pete Dawson. Young Josh Ibbetson's efforts cannot be left out either. He's done 4 routes in this list but 3 of those have been 9a's.
+The runners up place is currently shared by Pete Robins and Will Bosi with 6 routes each though Bosi's routes are harder and include 4 9a's. After this there are 3 climbers with 5 routes each: Ben Moon, Malcolm Smith and Pete Dawson. Young Josh Ibbetson's efforts cannot be left out either. He's done 4 routes in this list but 3 of those have been 9a's.
 
 The hardest crag, by a signifcant margin is Malham Cove, not just by number (8 routes listed) but also the hardest with the country's only 9b and two 9a+'s. In second place comes Raven Tor with 5 routes.
 
@@ -47,7 +47,7 @@ In June Eder repeated *Progress* at Kilnsey finding two new kneebar rests on thi
 
 This view was also shared by Josh Ibbetson who thought *Progress* to be a grade harder than *True North*. Neither Josh nor Ted used Eder's 5th bolt knee bar by the 'eyes'. Ted said "it is very specialised using two legs, one braced behind the other and we were unable to get anything out of it". So it sounds unlikely that this kneebar will ever become standard practice on the route.
 
-*Northern Lights* is has also seen serious attempts by Ryan Pasquill, Ben Moon, and Eder Lomba Lopez de Ipiña. All have made strong redpoint goes with Ryan and Ben falling above the last bolt.
+*Northern Lights* is has also seen serious attempts by Ryan Pasquil, Ben Moon, and Eder Lomba Lopez de Ipiña. All have made strong redpoint goes with Ryan and Ben falling above the last bolt.
 
 
 {{< data/uk-routes >}}

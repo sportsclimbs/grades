@@ -45,7 +45,7 @@
     - climber: Ben Moon
       ascent: second
       date: 1993
-    - climber: Pete Robbins
+    - climber: Pete Robins
       ascent: third
       date: Aug 2009
     - climber: Kieran Forrest
@@ -63,12 +63,9 @@
     - climber: Neil Carson
       ascent: second
       date: 1996?
-    - climber: Pete Robbins
+    - climber: Pete Robins
       ascent: third
       date: Oct 2010
-    - climber: Jordan Buys
-      ascent: fourth
-      date: Oct 201?
     - climber: Pete Dawson
       ascent: fifth
       date: 15 Aug 2019
@@ -144,7 +141,7 @@
     - climber: Steve McClure
       acent: fourth
       date: 1997?
-    - climber: Ryan Pasquill
+    - climber: Ryan Pasquil
       ascent: fourth
       date: 29 November 2009
     - climber: Alex Megos
@@ -204,6 +201,7 @@
     - climber: James McHaffie
       ascent: second
       date: Jul 2011
+      note: climbed the route twice making the second and third ascensts
     - climber: Emma Twyford
       ascent: third
       date: 2019
@@ -219,7 +217,7 @@
   ascents:
     - climber: Steve McClure
       ascent: first
-      date: Summer 1998
+      date: 14 Oct 1998
 
 - route: Northern Lights
   grade: 9a
@@ -283,7 +281,7 @@
     - climber: Will Bosi
       ascent: sixth
       date: May 2016
-    - climber: Ryan Pasquill
+    - climber: Ryan Pasquil
       ascent: seventh
       date: May 2018
     - climber: Pete Dawson
@@ -376,7 +374,7 @@
     - climber: Steve McClure
       ascent: first
       date: 2009
-    - climber: Ryan Pasquill
+    - climber: Ryan Pasquil
       ascent: second
       date: Nov 2013
 
@@ -411,7 +409,7 @@
     - climber: Neil Dyer
       ascent: first
       date: Sept 2011
-    - climber: Pete Robbins
+    - climber: Pete Robins
       ascent: second
       date: 2011
     - climber: James McHaffie
@@ -420,6 +418,9 @@
     - climber: Oli Grounsell
       ascent: fourth
       date: April 2015
+    - climber: Jordan Buys
+      ascent: fifth
+      date: "31 May 2019"
 
 - route: Meltdown
   grade: 8c+/9a
@@ -438,7 +439,10 @@
   year: 2012
   crag: The Diamond
   ascents:
-    - climber: Pete Robbins
+    - climber: Pete Robins
+      ascent: first
+      date: Oct 2012
+    - climber: Ryan Pasquil
       ascent: first
       date: Oct 2012
 
@@ -447,7 +451,7 @@
   year: 2013
   crag: The Diamond
   ascents:
-    - climber: Pete Robbins
+    - climber: Pete Robins
       ascent: first
       date: Oct 2013
     - climber: Jordan Buys
@@ -482,7 +486,7 @@
   year: 2014
   crag: The Diamond
   ascents:
-    - climber: Pete Robbins
+    - climber: Pete Robins
       ascent: first
       date: 09 Aug 2014
 
