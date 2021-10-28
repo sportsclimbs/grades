@@ -212,6 +212,22 @@
   country: USA
   nationality: USA
   summary: Second ascent after nearly 20 years.
-  notes: Suggested upgrade from 9a to 9b. The route has changed but by how much. First 9b in the world?
+  notes: Suggested upgrade from 9a+ to 9b. The route has changed but by how much. First 9b in the world?
+  image:
+  video-1:
+
+- year: 2021
+  month: 10
+  day: 25
+  surname: Siegrist
+  firstname: Jonathon
+  route: Lapsus
+  grade: 9b
+  ascent: 4
+  crag: Andonno
+  country: Italy
+  nationality: USA
+  summary: 
+  notes: Climbed without the kneebar, as in the first ascent, and thought low end 9b this way.
   image:
   video-1:
