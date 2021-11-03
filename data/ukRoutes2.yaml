@@ -214,13 +214,17 @@
       date: Sept 2020
 
 - route: Mutation
-  grade: 9a
+  grade: 9a+
   year: 1998
   crag: Raven Tor
   ascents:
     - climber: Steve McClure
       ascent: first
       date: 14 Oct 1998
+    - climber: Will Bosi
+      ascent: second
+      date: 01 Nov 2021
+      note: suggests an upgrade to 9a+
 
 - route: Northern Lights
   grade: 9a
