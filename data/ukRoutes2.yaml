@@ -115,7 +115,7 @@
       ascent: eleventh
       date: 20 Jun 2020
     - climber: Eder Lomba Lopez de Ipiña
-      ascent: twelth
+      ascent: twelfth
       date: 12 Jun 2021
     - climber: Josh Ibbertson
       ascent: thirteenth
@@ -170,6 +170,9 @@
     - climber: Ethan Walker
       ascent: eleventh
       date: Oct 2021
+    - climber: Toby Roberts
+      ascent: twelfth
+      date: Nov 2021
 
 - route: Total Eclipse
   grade: 8c+
@@ -305,7 +308,7 @@
       ascent: eleventh
       date: Dec 2020
     - climber: Eder Lomba Lopez de Ipiña
-      ascent: twelth
+      ascent: twelfth
       date: 09 April 2021
 
 - route: Violent New Breed
@@ -569,3 +572,13 @@
     - climber: Alex Barrows
       ascent: first
       date: 06 May 2021
+
+- route: Brandenburg Gate
+  grade: 9a+
+  year: 2021
+  crag: Raven Tor
+  ascents:
+    - climber: Will Bosi
+      ascent: first
+      date: 07 Nov 2021
+      video: https://youtu.be/CqoVQxpYwlw

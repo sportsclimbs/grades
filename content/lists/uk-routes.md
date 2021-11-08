@@ -30,7 +30,7 @@ The best years previously were 2020 with 11 ascents in total, 2016 with 10 and 2
 4. The second ascent of *Batshadow* (9a/+) at Malham by Eder Lomba Lopez de Ipiña
 5. The second ascent of *The Wild West* (8c+) at Raven Tor by Will Bosi
 6. The fourth ascent (first British repeat) of *Northern Lights* (9a) at Kilnsey by Will Bosi.
-7. The twelth ascent of *Progress* (8c+) by Eder Lomba Lopez de Ipiña. He suggests a downgrade after using new kneebar beta.
+7. The twelfth ascent of *Progress* (8c+) by Eder Lomba Lopez de Ipiña. He suggests a downgrade after using new kneebar beta.
 8. The thirteenth ascent of *Progress* by (8c+) Josh Ibbetson.
 9. The fourteenth ascent of *Progress* (8c+) by Ted Kingsnorth.
 10. The fifteenth ascent of *Progress* (8c+) by Pete Dawson.
@@ -40,6 +40,8 @@ The best years previously were 2020 with 11 ascents in total, 2016 with 10 and 2
 14. The fourth ascent of *Batman* (9a/+) by Toby Roberts.
 15. The eleventh ascent of *Hubble* (9a?) by Toby Roberts.
 16. The second ascent of *Mutation* (9a+) by Will Bosi.
+17. The twelfth ascent of *Evolution* (8c+) by Toby Roberts
+18. First ascent of *Brandenburg Gate* (9a+) by Will Bosi
 
 Additionally both Eder Lomba Lopez de Ipiña and Josh Ibbetson were getting close to the first repeat of Steve McClure's *Rainman* (9b) and Toby Roberts, having completed the fourth ascent of Batman has also joined the race for the prestigious second ascent of the UK's hardest route.
 
