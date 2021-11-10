@@ -14,13 +14,13 @@ This hopefully lists all routes of 8c+ and above. Such a list is inevitably some
 
 Steve McClure has been the dominent force in UK sport climbing for over 2 decades and it's no surprise he has done the most routes here. What is perhaps surprising is that he hasn't done more though. Of the 33 routes he has less than half having ticked 14. Steve's focus has been the Peak District and Yorkshire and misses out on routes further from home: Wales, Scotland and Devon. 
 
-The runners up place is held by Will Bosi with 7 routes followed by Pete Robins who has climbed 6 routes. After this there are 3 climbers with 5 routes each: Ben Moon, Malcolm Smith and Pete Dawson. Young Josh Ibbetson's efforts cannot be left out either. He's done 4 routes in this list but 3 of those have been 9a's.
+The runners up place is held by Will Bosi with 9 routes, an astonishing 5 of which were climbed this year! He is followed by Pete Robins who has climbed 6 routes. After this there are 3 climbers with 5 routes each: Ben Moon, Malcolm Smith and Pete Dawson. Young Josh Ibbetson's efforts cannot be left out either. He's done 4 routes in this list but 3 of those have been 9a's.
 
 The hardest crag, by a signifcant margin is Malham Cove, not just by number (8 routes listed) but also the hardest with the country's only 9b and two 9a+'s. In second place comes Raven Tor with 5 routes.
 
 The best years previously were 2020 with 11 ascents in total, 2016 with 10 and 2011 with 9.
 
-2021 has seen a total of 16 ascents so far indicating rising standards.
+2021 has seen a total of 19 ascents so far indicating rising standards.
 
 2021 so far:
 
@@ -40,8 +40,9 @@ The best years previously were 2020 with 11 ascents in total, 2016 with 10 and 2
 14. The fourth ascent of *Batman* (9a/+) by Toby Roberts.
 15. The eleventh ascent of *Hubble* (9a?) by Toby Roberts.
 16. The second ascent of *Mutation* (9a+) by Will Bosi.
-17. The twelfth ascent of *Evolution* (8c+) by Toby Roberts
-18. First ascent of *Brandenburg Gate* (9a+) by Will Bosi
+17. The twelfth ascent of *Evolution* (8c+) by Toby Roberts.
+18. First ascent of *Brandenburg Gate* (9a+) by Will Bosi.
+19. Second ascent of *Persian Dawn* (8c+) by Will Bosi.
 
 Additionally both Eder Lomba Lopez de Ipiña and Josh Ibbetson were getting close to the first repeat of Steve McClure's *Rainman* (9b) and Toby Roberts, having completed the fourth ascent of Batman has also joined the race for the prestigious second ascent of the UK's hardest route.
 
