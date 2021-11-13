@@ -4,3 +4,4 @@ assets/
 layouts/shortcodes/picture.html
 assets/img/
 .gitignore
+.hugo_build.lock

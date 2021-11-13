@@ -39,7 +39,7 @@ So for now no one knows and we may never know. Caldwell has said he intends to g
 
 1. *Flex Luthor* - 2003, Tommy Caldwell, repeated by Matty Hong in 2021.
 2. *Jumbo Love* - 2008, Chris Sharma, repeated by Ethan Pringle in 2015.
-3. *Peruvian Necktie* - 2103, James Litz, repeated by Jonathon Siegrist in 2021
+3. *Peruvian Necktie* - 2013, James Litz, repeated by Jonathon Siegrist in 2021
 
 
 ## Links

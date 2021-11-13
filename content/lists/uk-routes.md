@@ -20,7 +20,7 @@ The hardest crag, by a signifcant margin is Malham Cove, not just by number (8 r
 
 The best years previously were 2020 with 11 ascents in total, 2016 with 10 and 2011 with 9.
 
-2021 has seen a total of 19 ascents so far indicating rising standards.
+2021 has seen a total of 20 ascents so far indicating rising standards.
 
 2021 so far:
 
@@ -43,6 +43,7 @@ The best years previously were 2020 with 11 ascents in total, 2016 with 10 and 2
 17. The twelfth ascent of *Evolution* (8c+) by Toby Roberts.
 18. First ascent of *Brandenburg Gate* (9a+) by Will Bosi.
 19. Second ascent of *Persian Dawn* (8c+) by Will Bosi.
+20. Third ascent of *Stevolution* (9a) by Toby Roberts.
 
 Additionally both Eder Lomba Lopez de Ipiña and Josh Ibbetson were getting close to the first repeat of Steve McClure's *Rainman* (9b) and Toby Roberts, having completed the fourth ascent of Batman has also joined the race for the prestigious second ascent of the UK's hardest route.
 

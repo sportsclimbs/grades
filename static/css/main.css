@@ -117,14 +117,16 @@ blockquote>p:first-child::before,
 blockquote>p:last-child::after {
     line-height: 0.1em;
     font-size: 4em;
+    font-family: georgia, 'Times New Roman', serif;
     color: var(--tablestripe);
+    /* color: #fff; */
     vertical-align: -0.4em;
 }
 blockquote>p:first-child::before {
-    content: open-quote;
+    content: '“';
 }
 blockquote>p:last-child::after {
-    content: close-quote;
+    content: '”';
 }
 /* Hanging outdent */
 blockquote>p:first-child {
