@@ -268,6 +268,24 @@
       ascent: fourth
       date: 29 Oct 2018
 
+- route: Hooligan
+  grade: 8c+
+  year: 2003
+  crag: Raven Tor
+  ascents:
+    - climber: Steve Dunning
+      ascent: first
+      date: 2003
+    - climber: "??"
+      ascent: second
+      date: 2010
+    - climber: "??"
+      ascent: third
+      date: "????"
+    - climber: Will Bosi
+      ascent: fourth
+      date: 29 Nov 2021
+
 - route: Rainshadow
   grade: 9a
   year: 2003

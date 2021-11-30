@@ -21,10 +21,10 @@ enableGitInfo = "true"
   weight = "120"
 
   [[menu.main]]
-  identifier = "blog"
-  name = "blog"
+  identifier = "articles"
+  name = "articles"
   pre = "<i class='fas fa-marker'></i>"
-  url = "/blog/"
+  url = "/articles/"
   weight = "150"
 
   [[menu.main]]

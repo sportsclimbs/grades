@@ -2,22 +2,22 @@
 
 
 
-    {{/*  {{ range where site.RegularPages "Section" (or "lists" "blog")}}
-
-    <div class="summary">
-        <h3>{{ .Title }}</h3>
-        {{ .Summary }}
-    </div>
-
-    {{ end }} */}}
-
     <h1>{{ .Title }}</h1>
+
+    <time>Last site update: <em>{{ now.Format "2 January 2006" }}</em></time>
     {{ with .Content }}
     {{ . }}
     {{ end }}
-    {{ with .GetPage "blog/climbers-9b-plus-2" }}
+
+    {{ $blog := .Site.GetPage "/articles" }}
+    {{ range first 2 $blog.Pages.ByDate.Reverse }}
+        <section class="front-page-article">
         <h2>{{ .Title }}</h2>
-        <time>{{ .Date.Format "02 Jan 06" }}</time>
+        <time>{{ .Date.Format "2 January 2006" }}</time>
         {{ .Content }}
+        <div class="more-articles"><a href="/articles">See more articles&hellip;</a></div>
+        </section>
     {{ end }}
+
+
 {{ end }}

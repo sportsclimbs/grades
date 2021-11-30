@@ -3,7 +3,8 @@
     {{- partial "head.html" . -}}
     <body {{ if eq .Kind "Section" -}}class="{{- .Section -}}"
         {{- else -}}
-        class="{{- replace .Name " " "-" | lower -}}"
+        class="
+        {{- .File.ContentBaseName | lower -}}"
     {{- end -}}
     >
     {{ partial "mobilenav" . }}

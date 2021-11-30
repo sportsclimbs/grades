@@ -36,14 +36,17 @@ header {
     grid-column: 1 / 3;
     grid-column: 2 / 4;
 }
+
 .sitetitle {
     font-family: var(--display);
     font-size: 1em;
     color: var(--headings);
 }
+
 header {
     position: relative;
 }
+
 footer {
     display: flex;
     justify-content: space-between;
@@ -72,6 +75,7 @@ footer {
     grid-column: 3 / 4;
     padding-left: 2vw;
 }
+
 .latest ul {
     list-style-type: none;
     padding: 0;
@@ -84,9 +88,11 @@ ul.listpage {
     list-style-type: none;
     padding: 0;
 }
+
 ul.listpage li {
     margin-bottom: 1em;
 }
+
 ul.listpage a {
     /* display: block; */
     font-size: 1.4rem;
@@ -100,19 +106,36 @@ h3 {
     color: var(--headings);
     /* font-weight: normal; */
 }
+
+
+/* h4 used as headings for graphs */
+h4 {
+    margin-top: 2em;
+    margin-bottom: 0.5em;
+}
+
 h1 {
     font-size: 2.5em;
     margin-bottom: 0;
 }
+
 h2 {
     font-size: 1.75em;
     line-height: 1.1;
     margin-bottom: 0.2em;
 }
+
+p,
+ul,
+ol {
+    line-height: 1.4;
+}
+
 h2+p,
 h2+ul {
     margin-top: 0;
 }
+
 blockquote>p:first-child::before,
 blockquote>p:last-child::after {
     line-height: 0.1em;
@@ -122,12 +145,15 @@ blockquote>p:last-child::after {
     /* color: #fff; */
     vertical-align: -0.4em;
 }
+
 blockquote>p:first-child::before {
     content: '“';
 }
+
 blockquote>p:last-child::after {
     content: '”';
 }
+
 /* Hanging outdent */
 blockquote>p:first-child {
     text-indent: -1.6em;
@@ -136,14 +162,22 @@ blockquote>p:first-child {
 figure {
     margin: 0;
 }
-figure img {
+
+figure img,
+img {
     max-width: 100%;
+    border-radius: 15px;
 }
+
 figure h4 {
     font-weight: normal;
     font-style: italic;
     font-size: 80%;
     margin-top: 0;
+}
+
+time {
+    font-size: max(14px, 0.8em);
 }
 
 td,
@@ -169,6 +203,7 @@ table.general {
 .general tr:nth-of-type(odd) {
     background-color: var(--tablestripe);
 }
+
 .general td,
 .general th {
     padding: 1vh 10px;
@@ -179,10 +214,12 @@ table.general {
 .social a+a {
     margin-left: 1em;
 }
+
 .social a {
     display: inline-block;
     fill: var(--body);
 }
+
 .social a:hover {
     fill: var(--hover);
 }
@@ -201,10 +238,12 @@ table.ninebees tr {
     display: grid;
     grid-template-columns: 1fr 2.5fr 10fr 5fr 6fr 4fr 1fr;
 }
+
 .ninebees2>div {
     font-size: max(70%, 14px);
     padding: 5px;
 }
+
 .ninebees2>div:nth-of-type(14n+1),
 .ninebees2>div:nth-of-type(14n+2),
 .ninebees2>div:nth-of-type(14n+3),
@@ -224,8 +263,8 @@ table.ninebees tr {
 /* --------- GRAPHS ----------- */
 
 .graph {
-    background-color: #eee;
-    margin: 3em 0;
+    background-color: #1112;
+    margin: 0;
     max-width: 100%;
 }
 
@@ -242,6 +281,7 @@ header ul {
     text-transform: uppercase;
 
 }
+
 header ul a {
     display: block;
 }
@@ -253,6 +293,7 @@ a:visited {
     color: #fff;
     transition: .4s;
 }
+
 a:hover {
     color: var(--hover);
 }
@@ -276,6 +317,7 @@ a:hover {
     background-color: #111111ee;
     transition: 0.5s;
 }
+
 .closebtn {
     position: absolute;
     top: 1.8rem;
@@ -283,9 +325,11 @@ a:hover {
     font-size: 6em;
     line-height: 0;
 }
+
 .closebtn:hover {
     cursor: pointer;
 }
+
 .mobilenav ul {
     list-style-type: none;
     margin: 0;
@@ -297,45 +341,55 @@ a:hover {
     align-items: center;
     font-size: calc(.8rem + 3vh + 1.5vw);
 }
+
 .mobilenav a {
     display: block;
 }
+
 .mobilenav footer {
     position: absolute;
     width: 100%;
     bottom: 0;
 }
+
 .mobilenav footer .social {
     display: flex;
 }
+
 .icon {
     position: absolute;
     top: 1em;
     right: 1em;
     display: none;
 }
+
 .hamburger {
     display: grid;
     gap: calc(0.7vw + 0.8vh);
 }
+
 .hamburger div {
     height: calc(.5vw + .9vh);
     width: calc(1rem + 3vw + 3vh);
     background-color: var(--headings);
     border-radius: 10px;
 }
+
 .bar1,
 .bar2,
 .bar3 {
     transition: .4s;
 }
+
 .change .bar1 {
     transform: rotate(45deg);
     transform-origin: top left 0;
 }
+
 .change .bar2 {
     opacity: 0;
 }
+
 .change .bar3 {
     transform: rotate(-45deg);
     transform-origin: bottom left 0;
@@ -343,6 +397,27 @@ a:hover {
 
 
 /* ------- PAGE SPECIFIC -------- */
+
+/* --------- HOME PAGE -------- */
+
+.front-page-article h2:first-child {
+    font-size: 2.2em;
+    margin-bottom: 1em;
+    margin-top: .5em;
+    /* border-bottom: 5px solid var(--headings); */
+}
+
+.front-page-article {
+    /* border: solid 1px; */
+    border-radius: 20px;
+    background-color: #0003;
+    padding: 1em;
+    margin-bottom: 4em;
+}
+
+.more-articles {
+    margin-top: 4em;
+}
 
 
 /* ---------- First 9b+ climbers ------- */
@@ -365,7 +440,8 @@ a:hover {
 }
 
 .nine-b-plus-grid-2 p img {
-    width: 100%;
+    max-width: 100%;
+    border-radius: 15px;
     /* outline: fuchsia 5px solid; */
 }
 
@@ -384,6 +460,7 @@ a:hover {
 .nine-b-plus-grid-2 img[alt="Laura Rogora"] {
     filter: saturate(0);
 }
+
 /* --------- MEDIA QUERIES ---------- */
 
 @media screen and (max-width: 1250px) {
@@ -402,17 +479,21 @@ a:hover {
         margin-left: 12px;
         margin-right: 12px;
     }
+
     #content {
         grid-column: 2 / -2;
     }
+
     header ul {
         display: none;
     }
+
     .icon {
         display: block;
     }
+
     .nine-b-plus-grid-2 {
-        grid-template-columns: 350px 1fr;
+        grid-template-columns: minmax(30%, 350px) 1fr;
         row-gap: 0;
     }
 
@@ -440,6 +521,7 @@ a:hover {
     header>ul {
         gap: 15px;
     }
+
     .mobile {
         display: inline;
     }
@@ -484,7 +566,7 @@ a:hover {
     table.ninebees tr {
         display: grid;
         grid-template-columns: minmax(8em, 1fr) 6em 6em 3em;
-        }
+    }
 
     .firstname {
         display: none;

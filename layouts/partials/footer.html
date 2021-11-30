@@ -2,7 +2,7 @@
 <footer>
 
     {{ if .IsHome }}
-    <div>Site updated: {{ .Site.LastChange.Format "02 Jan 2006" }}</div>
+    <div>Site updated: {{ now.Format "02 Jan 2006" }}</div>
     {{ else }}
     <div>Updated: {{ .Lastmod.Format "02 Jan 2006" }}</div>
     {{ end }}

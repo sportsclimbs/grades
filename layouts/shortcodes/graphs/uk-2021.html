@@ -1,0 +1,35 @@
+
+<canvas id="uk-2021" class="graph"></canvas>
+
+<script>
+    let barColors = ["cadetblue","cadetblue","cadetblue","cadetblue","cadetblue","cadetblue","cadetblue","cadetblue","cadetblue","cadetblue","cadetblue", "#e56e47"]
+    const ctx = document.getElementById('uk-2021').getContext('2d');
+    const myChart = new Chart(ctx, {
+        type: 'bar',
+        data: {
+            labels: ['2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019', '2020', '2021'],
+            datasets: [{
+                label: '8c+ and above ascents',
+                data: [4, 8, 3, 4, 3, 6, 9, 3, 9, 8, 10, 21],
+                backgroundColor: barColors,
+
+                borderWidth: 1,
+                <!-- barPercentage: 1.24, -->
+                inflateAmount: 2
+            }]
+        },
+        options: {
+            indexAxis: 'x',
+            scales: {
+                y: {
+                    beginAtZero: true,
+                    stacked: true
+                }
+            }
+        }
+    });
+    </script>
+    
+     
+    
+     

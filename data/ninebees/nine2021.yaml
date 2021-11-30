@@ -294,4 +294,20 @@
   summary: Second ascent.
   notes: 
   image:
+  video-1: https://www.youtube.com/watch?v=5CUvvxcr1EU
+
+- year: 2021
+  month: 11
+  day: 29
+  surname: Megos
+  firstname: Alex
+  route: La Furia De Jabali
+  grade: 9b
+  ascent: 2
+  crag: Siurana
+  country: Spain
+  nationality: German
+  summary: Second ascent in 7 days.
+  notes: 
+  image:
   video-1:

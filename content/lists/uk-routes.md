@@ -1,68 +1,39 @@
 ---
 title: "UK Routes"
 date: 2021-04-13T18:11:22+01:00
-summary: All ascents in the UK of 8c+ and above by year
+summary: All ascents in the UK of 8c+ and above by year.
 LastUpdated: 2021-06-15
 draft: false
 ---
 
-![Eder Lomba attempting Northern Lights](/img/eder-northern-lights-01.jpg)
+This lists all routes of 8c+ and above. Such a list is inevitably somewhat subjective. Not included here are extended boulder problems or hybrid boulder routes.
 
-## 2021 is the best year for hard* ascents in the UK.
 
-This hopefully lists all routes of 8c+ and above. Such a list is inevitably somewhat subjective. Not included here are extended boulder problems or hybrid boulder routes.
 
 Steve McClure has been the dominent force in UK sport climbing for over 2 decades and it's no surprise he has done the most routes here. What is perhaps surprising is that he hasn't done more though. Of the 33 routes he has less than half having ticked 14. Steve's focus has been the Peak District and Yorkshire and misses out on routes further from home: Wales, Scotland and Devon. 
 
-The runners up place is held by Will Bosi with 9 routes, an astonishing 5 of which were climbed this year! He is followed by Pete Dawson who reached 7 routes with his second ascent of *Persian Dawn* in late October, overtaking Pete Robins who has climbed 6 routes of 8c+.
+The runners up place is held by Will Bosi with 9 routes [^1], an astonishing 5 of which were climbed in 2021. He is followed by Pete Dawson who has climbed 7 routes with his second ascent of *Persian Dawn* in late 2021, overtaking Pete Robins who has climbed 6 routes of 8c+.
 
-The hardest crags are Malham Cove and Raven Tor, each with 8 routes listed. Malham has the country's only 9b. Raven Tor now has two 9a+'s.
+The hardest crags are Malham Cove and Raven Tor, each with 8 routes[^2] listed. Malham has the country's only 9b. Raven Tor now has two 9a+'s.
 
-The best years for hard ascents previously were 2020 with 11 ascents in total, 2016 with 10 and 2011 with 9.
+The best year for hard ascents is 2021 by a long margin. Other good years were 2020 with 10 ascents in total, 2016 with 9 and 2011 with 8.
 
-2021 has seen a total of 21 ascents so far highlighting the obvious rise standard of UK climbers.
-
-2021 so far:
-
-1. *Rainshadow* 12th ascent by Eder Lomba Lopez de Ipiña
-2. New direct finish to *Make it Funky*, *Persian Dawn* (8c+) by Buster Martin
-3. A new 8c+ route at Kilnsey, *Preposterous Tales* by Alex Barrows
-4. The second ascent of *Batshadow* (9a/+) at Malham by Eder Lomba Lopez de Ipiña
-5. The second ascent of *The Wild West* (8c+) at Raven Tor by Will Bosi
-6. The fourth ascent (first British repeat) of *Northern Lights* (9a) at Kilnsey by Will Bosi.
-7. The twelfth ascent of *Progress* (8c+) by Eder Lomba Lopez de Ipiña. He suggests a downgrade after using new kneebar beta.
-8. The thirteenth ascent of *Progress* by (8c+) Josh Ibbetson.
-9. The fourteenth ascent of *Progress* (8c+) by Ted Kingsnorth.
-10. The fifteenth ascent of *Progress* (8c+) by Pete Dawson.
-11. The fifth ascent of *Northern Lights* (9a) by Josh Ibbetson.
-12. The third ascent of *Batshadow* (9a/+) by Josh Ibbetson.
-13. The eleventh ascent of *Evolution* (8c+) by Ethan Walker.
-14. The fourth ascent of *Batman* (9a/+) by Toby Roberts.
-15. The eleventh ascent of *Hubble* (9a?) by Toby Roberts.
-16. The second ascent of *Mutation* (9a+) by Will Bosi.
-17. The twelfth ascent of *Evolution* (8c+) by Toby Roberts.
-18. The second ascent of *Persian Dawan* (8c+) by Pete Dawson
-19. First ascent of *Brandenburg Gate* (9a+) by Will Bosi.
-20. The third ascent of *Persian Dawn* (8c+) by Will Bosi.
-21. Third ascent of *Stevolution* (9a) by Toby Roberts.
-
-Additionally both Eder Lomba Lopez de Ipiña and Josh Ibbetson were getting close to the first repeat of Steve McClure's *Rainman* (9b) and Toby Roberts, having completed the fourth ascent of Batman has also joined the race for this prestigious second ascent of the UK's hardest route.
-
-In June Eder repeated *Progress* at Kilnsey finding two new kneebar rests on this power-endurance route. He thinks this makes a substantial difference to the difficulty saying it is now comparable in difficulty to *True North*, the 8c some 10m to the R of *Progress*. The route saw three subsequent ascents by Josh Ibbetson, Ted Kingsnorth, and Pete Dawson. Josh and Ted both used kneebars with kneepads. Ted Kingsnorth felt for him the route was still worth 8c+ though:
-
-> Important to mention I used a kneebar recently found by @ederlomba at the 6th bolt which allows a shake in each arm which defo helps but it’s not amazing, not hands off for me at least! Plus you need to climb the meat of the hard climbing to get there. I still think the route holds its grade despite this.
-
-This view was also shared by Josh Ibbetson who thought *Progress* to be a grade harder than *True North*. Neither Josh nor Ted used Eder's 5th bolt knee bar by the 'eyes'. Ted said "it is very specialised using two legs, one braced behind the other and we were unable to get anything out of it". So it sounds unlikely that this kneebar will ever become standard practice on the route.
-
-
+There are several questions around the difficulty of *Kaabah*[^3], *Progress*[^4], *Total Eclipse*[^5] and *Sea of Tranquillity*[^6]. See the [Notes](#notes) section below. 
 
 {{< data/uk-routes >}}
 
 
 ## Notes
 
-1. **Kaabah** has only the first ascent listed because that was the only known ascent that did the crux of the original line. Subsequent ascents use a minor variation reducing the difficulty.
-2. **Progress** at Kilnsey was originally an 8c route but became harder after the loss of holds in 1997. Steve McClure made the first ascent in it's current 8c+ incarnation in 2006. In 2021 Eder Lomba Lopez de Ipiña used kneepads on the route and felt it made a significant difference to the difficulty of the route. Several ascents followed in quick succession.
-4. **Mutation** has seen serious attempts by very strong climbers and is widely rumoured to be 9a+. 
-5. John Dunne's ascent of **Total Eclipse** has been disputed. There is conflicting evidence regarding this route.
-6. There is a variation on **Sea of Tranquillity** that bypasses the font 8A crux sequence and makes the route 'only' 8c (the grade it was originally given). 
+[^1]: Bosi's tally would be 10 routes and 6 this year is Bosi's suggestion for **Hooligan** at 8c+ stands.
+
+[^2]: Raven Tor will have 9 routes if **Hooligan** is counted as 8c+.
+
+
+[^3]: **Kaabah** has only the first ascent listed because that was the only known ascent that did the crux of the original line. Subsequent ascents use a minor variation reducing the difficulty.
+
+[^4]: **Progress** at Kilnsey was originally an 8c route but became harder after the loss of holds in 1997. Steve McClure made the first ascent in it's current 8c+ incarnation in 2006. In 2021 Eder Lomba Lopez de Ipiña used kneepads on the route and felt it made a significant difference to the difficulty of the route. Several ascents followed in quick succession.
+
+[^5]: John Dunne's ascent of **Total Eclipse** has been disputed. There is conflicting evidence regarding this route.
+
+[^6]: There is a variation on **Sea of Tranquillity** that bypasses the font 8A crux sequence and makes the route 'only' 8c (the grade it was originally given). 
