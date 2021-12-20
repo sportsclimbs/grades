@@ -20,13 +20,13 @@
   surname: Ghisolfi
   firstname: Stefano
   route: La Capella
-  grade: 9b
+  grade: 9a+/b
   ascent: 2
   crag: Siurana
   country: Spain
   nationality: Italian
   summary: 
-  notes: 
+  notes: Broke a hold on the crux. Took 10 sessions to complete.
   image:
   video-1:
 
@@ -36,11 +36,11 @@
   surname: Woods
   firstname: Daniel
   route: La Capella
-  grade: 9b
+  grade: 9a+/b
   ascent: 3
   crag: Siurana
   country: Spain
-  nationality: Japanese
+  nationality: US
   summary: 
   notes: 
   image:
@@ -106,7 +106,7 @@
   country: Spain
   nationality: German
   summary: Sharma project. Second person to climb 9b+
-  notes: 
+  notes: Beat Stefano Ghisolfi to the F.A of this King Line. Fastest ascent of a 9b+.
   image:
   video-1:
 
@@ -197,7 +197,7 @@
   firstname: Jakob
   route: Neanderthal
   grade: 9b
-  ascent: 3
+  ascent: 2
   crag: Santa Linya
   country: Spain
   nationality: Austrian

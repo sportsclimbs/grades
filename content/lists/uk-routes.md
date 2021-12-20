@@ -2,7 +2,7 @@
 title: "UK Routes"
 date: 2021-04-13T18:11:22+01:00
 summary: All ascents in the UK of 8c+ and above by year.
-LastUpdated: 2021-06-15
+LastUpdated: 2021-12-13T22:19:35Z
 draft: false
 ---
 
@@ -25,7 +25,7 @@ There are several questions around the difficulty of *Kaabah*[^3], *Progress*[^4
 
 ## Notes
 
-[^1]: Bosi's tally would be 10 routes and 6 this year is Bosi's suggestion for **Hooligan** at 8c+ stands.
+[^1]: Bosi's tally would be 10 routes of which 6 were climbed this year is Bosi's suggestion for **Hooligan** at 8c+ stands.
 
 [^2]: Raven Tor will have 9 routes if **Hooligan** is counted as 8c+.
 

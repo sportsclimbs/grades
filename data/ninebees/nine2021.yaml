@@ -52,7 +52,7 @@
   surname: Bosi
   firstname: Will
   route: King Capella
-  grade: 9b+
+  grade: 9b
   ascent: 1
   crag: Siurana
   country: Spain
@@ -190,7 +190,7 @@
   surname: Rogora
   firstname: Laura
   route: Erebor
-  grade: 9b/+
+  grade: 9b
   ascent: 2
   crag: Arco
   country: Italy
@@ -286,12 +286,12 @@
   surname: Megos
   firstname: Alex
   route: King Capella
-  grade: 9b+
+  grade: 9b
   ascent: 2
   crag: Siurana
   country: Spain
   nationality: German
-  summary: Second ascent.
+  summary: Second ascent. 10 days.
   notes: 
   image:
   video-1: https://www.youtube.com/watch?v=5CUvvxcr1EU
@@ -309,5 +309,66 @@
   nationality: German
   summary: Second ascent in 7 days.
   notes: 
+  image:
+  video-1:
+
+- year: 2021
+  month: 12
+  day: 10
+  surname: Schubert
+  firstname: Jakob
+  route: King Capella
+  grade: 9b
+  ascent: 3
+  crag: Siurana
+  country: Spain
+  nationality: Austrian
+  summary: Third ascent and downgraded to 9b.
+  notes: By the far the fastest ascent so far in just 4 days.
+  image:
+
+- year: 2021
+  month: 12
+  day: 10
+  surname: Schubert
+  firstname: Jakob
+  route: La Capella
+  grade: 9a+/b
+  ascent: 5
+  crag: Siurana
+  country: Spain
+  nationality: Austrian
+  summary: Fifth ascent and downgraded to 9a+.
+  notes: Climbed on the first try of his second day AFTER climbing King Capella first.
+  image:
+
+- year: 2021
+  month: 12
+  day: 15
+  surname: Megos
+  firstname: Alex
+  route: La Capella
+  grade: 9a+/b
+  ascent: 6
+  crag: Siurana
+  country: Spain
+  nationality: German
+  summary: Sixth ascent and thought at least as hard the others.
+  notes: Alex struggled with the undercling move and said on Instagram he thought it was harder for him than King Capella.
+  image:
+
+- year: 2021
+  month: 12
+  day: 18
+  surname: Ghisolfi
+  firstname: Stefano
+  route: The Lonely Mountain
+  grade: 9b
+  ascent: 1
+  crag: Arco
+  country: Italy
+  nationality: Italian
+  summary: 
+  notes: Stefano was unsure about the grade after changing all the beta in every section. He thought harder than Erebor.
   image:
   video-1:

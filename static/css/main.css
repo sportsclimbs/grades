@@ -6,11 +6,12 @@
 
 :root {
     --display: KoHo, Truculenta, sans-serif;
-    --hover: #c3500b;
-    --headings: #c3500b;
+    --hover: #f95606;
+    --headings: #f95606;
     --bg: #2d3e42;
     --bg-light: #bee1e9;
     --tablestripe: #7e7d0c;
+    --quotes: #b4b909;
     --body: #ccc;
 }
 
@@ -141,7 +142,7 @@ blockquote>p:last-child::after {
     line-height: 0.1em;
     font-size: 4em;
     font-family: georgia, 'Times New Roman', serif;
-    color: var(--tablestripe);
+    color: var(--quotes);
     /* color: #fff; */
     vertical-align: -0.4em;
 }
@@ -252,12 +253,21 @@ table.ninebees tr {
 .ninebees2>div:nth-of-type(14n+6),
 .ninebees2>div:nth-of-type(14n+7) {
     background-color: var(--tablestripe);
+    color: #f4f4f4;
 }
 
 .yearheading {
     color: var(--headings);
     font-weight: bold;
     margin: 1rem auto .25rem 3px;
+}
+
+
+/* ------------ YOUTUBE embed shortcode ---------- */
+
+iframe.yt {
+    width: min(500px, 100%);
+    aspect-ratio: 16 / 9;
 }
 
 /* --------- GRAPHS ----------- */
@@ -365,12 +375,12 @@ a:hover {
 
 .hamburger {
     display: grid;
-    gap: calc(0.7vw + 0.8vh);
+    gap: calc(0.5vw + 0.6vh);
 }
 
 .hamburger div {
-    height: calc(.5vw + .9vh);
-    width: calc(1rem + 3vw + 3vh);
+    height: calc(.1vw + .5vh);
+    width: calc(.7rem + 2vw + 2vh);
     background-color: var(--headings);
     border-radius: 10px;
 }
@@ -459,6 +469,32 @@ a:hover {
 
 .nine-b-plus-grid-2 img[alt="Laura Rogora"] {
     filter: saturate(0);
+}
+
+
+/* -------------- LA CAPELLA ============ */
+
+.side-box {
+    width: 250px;
+    float: right;
+    margin-left: 1em;
+    background-color: #0003;
+    border-radius: 10px;
+    padding: 0.5em;
+    font-size: 0.8em
+}
+
+.side-box h3 {
+    margin: 0;
+}
+
+.side-box:nth-of-type(3) {
+    background-image: url(/img/jakob-schubert-2.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.side-box:last-of-type h3 {
+    margin-top: 270px;
 }
 
 /* --------- MEDIA QUERIES ---------- */
