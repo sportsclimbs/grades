@@ -80,7 +80,7 @@
 
 - year: 2019
   month: 04
-  day: 28
+  day: 26
   surname: Schab
   firstname: Piotr
   route: Fight or Flight
@@ -89,14 +89,14 @@
   crag: Oliana
   country: Spain
   nationality: Polish
-  summary: First Polish to climb 9b?
+  summary: First Polish person to climb 9b
   notes: 
   image:
   video-1:
 
 - year: 2019
   month: 05
-  day: 06
+  day: 04
   surname: Siegrist
   firstname: Jonathon
   route: La Planta de Shiva
@@ -112,7 +112,7 @@
 
 - year: 2019
   month: 05
-  day: 30
+  day: 28
   surname: Diaz Rullo
   firstname: Jorge
   route: La Planta de Shiva
@@ -217,6 +217,22 @@
   crag: Brar
   country: Albania
   nationality: French
+  summary: 
+  notes: 
+  image:
+  video-1:
+
+- year: 2019
+  month: 12
+  day: 28
+  surname: Ghisolfi
+  firstname: Stefano
+  route: Stoking the Fire
+  grade: 9b
+  ascent: 5
+  crag: Santa Linya
+  country: Spain
+  nationality: Spanish
   summary: 
   notes: 
   image:

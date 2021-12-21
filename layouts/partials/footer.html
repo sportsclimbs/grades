@@ -4,10 +4,10 @@
     {{ if .IsHome }}
     <div>Site updated: {{ now.Format "02 Jan 2006" }}</div>
     {{ else }}
-    <div>Updated: {{ .Lastmod.Format "02 Jan 2006" }}</div>
+    <div>Updated: {{ .Page.Lastmod.Format "02 Jan 2006" }}</div>
     {{ end }}
     
-    <div class="desktop">Grade Apocalypse {{ now.Year }}</div>
+    <div class="desktop"><a href="/">Grade Apocalypse</a> {{ now.Year }}</div>
 
     <div class="social">
         <a href="/index.xml" title="RSS feed">{{ partial "svg/rss" . }}</a>

@@ -16,7 +16,7 @@
 
 - year: 2018
   month: 01
-  day: 13
+  day: 12
   surname: Ghisolfi
   firstname: Stefano
   route: La Capella
@@ -26,7 +26,7 @@
   country: Spain
   nationality: Italian
   summary: 
-  notes: Broke a hold on the crux. Took 10 sessions to complete.
+  notes: Broke a hold on the crux which made it harder. Took 10 sessions to complete.
   image:
   video-1:
 
@@ -96,6 +96,22 @@
 
 - year: 2018
   month: 05
+  day: 17
+  surname: Siegrist
+  firstname: Jonathon
+  route: Jumbo Love
+  grade: 9b
+  ascent: 3
+  crag: Oliana
+  country: U.S.
+  nationality: American
+  summary: 
+  notes: 
+  image:
+  video-1:
+
+- year: 2018
+  month: 05
   day: 09
   surname: Megos
   firstname: Alex
@@ -148,7 +164,7 @@
   surname: Schubert
   firstname: Jakob
   route: El Bonne Combat
-  grade: 9b/+ / 9a+
+  grade: 9a+/b
   ascent: 2
   crag: Cova de l'Ocell
   country: Spain

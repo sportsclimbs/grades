@@ -13,6 +13,13 @@
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=KoHo:ital,wght@0,300;0,400;0,600;1,300;1,400&family=Kulim+Park:ital,wght@0,400;1,400;1,700&family=Truculenta:wght@600&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="{{ "css/main.css" | relURL }}">
+    {{ with .Params.css }}
+    <style>
+        {{- range . }}
+            {{ . | safeCSS }}
+        {{ end }}
+    </style>
+    {{- end -}}
     
     {{ with .Params.chartjs }}
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.2.0/chart.min.js" integrity="sha512-VMsZqo0ar06BMtg0tPsdgRADvl0kDHpTbugCBBrL55KmucH6hP9zWdLIWY//OTfMnzz6xWQRxQqsUFefwHuHyg==" crossorigin="anonymous"></script>

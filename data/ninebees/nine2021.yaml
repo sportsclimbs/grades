@@ -1,6 +1,6 @@
 - year: 2021
   month: 01
-  day: 08
+  day: 11
   surname: Ghisolfi
   firstname: Stefano
   route: Erebor
@@ -32,7 +32,7 @@
 
 - year: 2021
   month: 02
-  day: 
+  day: 04
   surname: Bosi
   firstname: Will
   route: La Furia de Jabali
@@ -48,7 +48,7 @@
 
 - year: 2021
   month: 03
-  day: 
+  day: 09
   surname: Bosi
   firstname: Will
   route: King Capella
@@ -64,8 +64,8 @@
 
 
 - year: 2021
-  month: 04
-  day: 01
+  month: 03
+  day: 29
   surname: Diaz-Rullo
   firstname: Jorge
   route: First Round First Minute
@@ -234,7 +234,7 @@
 
 - year: 2021
   month: 11
-  day: 02
+  day: 01
   surname: Diaz-Rullo
   firstname: Jorge
   route: Cafe Solo
@@ -250,7 +250,7 @@
 
 - year: 2021
   month: 11
-  day: 02
+  day: 03
   surname: Ondra
   firstname: Adam
   route: Erebor
@@ -359,7 +359,22 @@
 
 - year: 2021
   month: 12
-  day: 18
+  day: 15
+  surname: Schubert
+  firstname: Jakob
+  route: La Furia De Jabali
+  grade: 9a+/b
+  ascent: 3
+  crag: Siurana
+  country: Spain
+  nationality: Austrian
+  summary: Third ascent in just 3 tries.
+  notes: Flashed Jungle Speed, 8c+ the same day.
+  image:
+
+- year: 2021
+  month: 12
+  day: 17
   surname: Ghisolfi
   firstname: Stefano
   route: The Lonely Mountain
