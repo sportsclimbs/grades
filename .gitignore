@@ -3,5 +3,6 @@ READLOCAL.md
 assets/
 layouts/shortcodes/picture.html
 assets/img/
+static/fonts/
 .gitignore
 .hugo_build.lock

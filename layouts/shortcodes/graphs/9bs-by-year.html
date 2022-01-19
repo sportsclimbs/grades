@@ -1,0 +1,81 @@
+{{/*  <div id="chart"></div>  */}}
+<div class="chartwrapper">
+    <div id="chart2"></div>
+</div>
+
+<script>
+    // second chart
+
+    var options = {
+        series: [{
+            name: '9b',
+            data: [5, 2, 6, 4, 9, 12, 13, 9, 22]
+        }, {
+            name: '9b+',
+            data: [3, 0, 0, 0, 0, 2, 1, 2, 2]
+        }, {
+            name: '9c',
+            data: [0, 0, 0, 0, 1, 0, 0, 0, 0]
+        }],
+        chart: {
+            type: 'bar',
+            height: 450,
+            stacked: true,
+            toolbar: {
+                show: true
+            },
+            zoom: {
+                enabled: true
+            }
+        },
+        responsive: [{
+            breakpoint: 480,
+            options: {
+                legend: {
+                    position: 'bottom',
+                    offsetX: -10,
+                    offsetY: 0
+                }
+            }
+        }],
+        plotOptions: {
+            bar: {
+                horizontal: false,
+                borderRadius: 0
+            },
+        },
+        xaxis: {
+            type: 'number',
+            categories: ['2013', '2014', '2015', '2016',
+                '2017', '2018', '2019', '2020', '2021'
+            ],
+        },
+        legend: {
+            position: 'right',
+            offsetY: 40
+        },
+        fill: {
+            opacity: 1
+        }
+    };
+
+    var chart = new ApexCharts(document.querySelector("#chart2"), options);
+    chart.render();
+</script>
+
+<style>
+    .chartwrapper {
+        /* This does not work reliably in chrome or FF
+        max-width: 760px; */
+    }
+
+    #chart2 {
+        color: #fff;
+        background-color: #fff7;
+    }
+
+    ol em {
+        font-weight: bold;
+        color: #fff;
+    }
+</style>

@@ -3,8 +3,8 @@
     <div class="sitetitle"><a href="/">{{ site.Title }}</a></div>
     
     <ul>
-        {{ range site.Menus.main }}
-            <li><a href="{{.URL}}">{{ .Name }}</a></li>
+        {{ range .Site.Menus.main }}
+            <li><a href="{{.URL | relURL }}" title="{{ .Identifier }}">{{ .Pre }} {{ .Name }}</a></li>
         {{ end }}
     </ul>    
     <div class="icon">
