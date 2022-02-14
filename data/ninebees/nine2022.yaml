@@ -13,3 +13,33 @@
   notes: According to a quote on 8a.nu he took 2 days although PlanetMountain.com reported it taking 4.
   image:
   video-1:
+- year: 2022
+  month: 02
+  day: 12
+  surname: Ghisolfi
+  firstname: Stefano
+  route: L'arenauta
+  grade: 9b
+  ascent: 1
+  crag: Gaeta
+  country: Italy
+  nationality: Italian
+  summary: Hardest route in central Italy.
+  notes: 
+  image:
+  video-1:
+- year: 2022
+  month: 02
+  day: 13
+  surname: Le Cerf
+  firstname: Pierre
+  route: Eagle 4
+  grade: 9b
+  ascent: 4
+  crag: St Leger
+  country: France
+  nationality: French
+  summary: Suggests a downgrade to 9a+
+  notes: 
+  image:
+  video-1:

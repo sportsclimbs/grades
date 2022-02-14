@@ -30,21 +30,21 @@
   image:
   video-1:
 
-- year: 2021
-  month: 02
-  day: 04
-  surname: Bosi
-  firstname: Will
-  route: La Furia de Jabali
-  grade: 9b
-  ascent: 1
-  crag: Siurana
-  country: Spain
-  nationality: Scottish
-  summary: 
-  notes: 
-  image:
-  video-1:
+# - year: 2021
+#   month: 02
+#   day: 04
+#   surname: Bosi
+#   firstname: Will
+#   route: La Furia de Jabali
+#   grade: 9b
+#   ascent: 1
+#   crag: Siurana
+#   country: Spain
+#   nationality: Scottish
+#   summary: 
+#   notes: 
+#   image:
+#   video-1:
 
 - year: 2021
   month: 03
@@ -296,21 +296,21 @@
   image:
   video-1: https://www.youtube.com/watch?v=5CUvvxcr1EU
 
-- year: 2021
-  month: 11
-  day: 29
-  surname: Megos
-  firstname: Alex
-  route: La Furia De Jabali
-  grade: 9b
-  ascent: 2
-  crag: Siurana
-  country: Spain
-  nationality: German
-  summary: Second ascent in 7 days.
-  notes: 
-  image:
-  video-1:
+# - year: 2021
+#   month: 11
+#   day: 29
+#   surname: Megos
+#   firstname: Alex
+#   route: La Furia De Jabali
+#   grade: 9b
+#   ascent: 2
+#   crag: Siurana
+#   country: Spain
+#   nationality: German
+#   summary: Second ascent in 7 days.
+#   notes: 
+#   image:
+#   video-1:
 
 - year: 2021
   month: 12
@@ -357,20 +357,20 @@
   notes: Alex struggled with the undercling move and said on Instagram he thought it was harder for him than King Capella.
   image:
 
-- year: 2021
-  month: 12
-  day: 15
-  surname: Schubert
-  firstname: Jakob
-  route: La Furia De Jabali
-  grade: 9a+/b
-  ascent: 3
-  crag: Siurana
-  country: Spain
-  nationality: Austrian
-  summary: Third ascent in just 3 tries.
-  notes: Flashed Jungle Speed, 8c+ the same day.
-  image:
+# - year: 2021
+#   month: 12
+#   day: 15
+#   surname: Schubert
+#   firstname: Jakob
+#   route: La Furia De Jabali
+#   grade: 9a+/b
+#   ascent: 3
+#   crag: Siurana
+#   country: Spain
+#   nationality: Austrian
+#   summary: Third ascent in just 3 tries.
+#   notes: Flashed Jungle Speed, 8c+ the same day.
+#   image:
 
 - year: 2021
   month: 12
