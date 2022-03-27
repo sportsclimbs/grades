@@ -5,6 +5,6 @@ draft: false
 chartjs: true
 ---
 
-The two latest articles are below in full. The lists are regularly updated.
+The latest [articles](/articles/) are below. The [lists](/lists/) are regularly updated.
 
 

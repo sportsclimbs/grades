@@ -1,0 +1,10 @@
+        <article class="front-page-article {{ with .Params.draft }}draft{{ end }}">
+            <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+            <div class="page-date">
+                <time>{{ .Date.Format "2 January 2006" }}</time>
+            </div>
+            <div class="page-content">{{ .Summary | truncate 350 }}</div>
+            {{ if .Truncated }}
+            <div class="read-more"><a href="{{ .RelPermalink }}">Read more...</a></div>
+            {{ end }}
+        </article>

@@ -1,23 +1,21 @@
 {{ define "main" }}
-
-
-
     <h1>{{ .Title }}</h1>
 
-    <time>Last site update: <em>{{ now.Format "2 January 2006" }}</em></time>
+    <div class="page-date">
+        <time>Last site update: <em>{{ now.Format "2 January 2006" }}</em></time>
+    </div>
+
     {{ with .Content }}
     {{ . }}
     {{ end }}
 
-    {{ $blog := .Site.GetPage "/articles" }}
-    {{ range first 2 $blog.Pages.ByDate.Reverse }}
-        <section class="front-page-article">
-        <h2>{{ .Title }}</h2>
-        <time>{{ .Date.Format "2 January 2006" }}</time>
-        {{ .Content }}
-        <div class="more-articles"><a href="/articles">See more articles&hellip;</a></div>
+    <section class="front-page-posts">
+        {{ $blog := .Site.GetPage "/articles" }}
+        {{ range first 6 .Paginator.Pages.ByDate.Reverse }}
+        {{ .Render "summary" }}
+        {{ end }}
         </section>
-    {{ end }}
 
+    <div class="more-articles"><a href="/articles">See more articles&hellip;</a></div>
 
 {{ end }}

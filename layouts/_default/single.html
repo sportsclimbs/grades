@@ -2,7 +2,7 @@
 
 <h1>{{ .Title }} {{ with .Params.draft }}<small>(Draft)</small>{{ end }}</h1>
 {{ if eq .Section "articles" }}
-<time>{{ .Date.Format "02 Jan 2006" }}</time>
+<div class="page-date"><time>{{ .Date.Format "02 Jan 2006" }}</time></div>
 {{ end }}
 <div class="summary"><p>{{ .Summary }}</p></div>
 {{ .Content }}

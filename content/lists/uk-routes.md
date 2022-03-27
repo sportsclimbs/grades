@@ -2,7 +2,7 @@
 title: "UK Routes"
 date: 2021-04-13T18:11:22+01:00
 summary: All ascents in the UK of 8c+ and above by year.
-LastUpdated: 2021-12-13T22:19:35Z
+LastUpdated: 2022-03-27T08:31:44+01
 draft: false
 ---
 
@@ -10,13 +10,13 @@ This lists all routes of 8c+ and above. Such a list is inevitably somewhat subje
 
 
 
-Steve McClure has been the dominent force in UK sport climbing for over 2 decades and it's no surprise he has done the most routes here. What is perhaps surprising is that he hasn't done more though. Of the 33 routes he has less than half having ticked 14. Steve's focus has been the Peak District and Yorkshire and misses out on routes further from home: Wales, Scotland and Devon. 
+Steve McClure has been the dominent force in UK sport climbing for over 2 decades and despite impressive recent activity by the younger generation he has still done more hard ascents[^1a] than anyone else. What is perhaps surprising is that he hasn't done more though. Of the 33 routes listed below he has climbed less than half having ticked 14. Steve's focus has been the Peak District and Yorkshire and misses out on routes further from home: Wales, Scotland and Devon. 
 
-The runners up place is held by Will Bosi with 9 routes [^1], an astonishing 5 of which were climbed in 2021. He is followed by Pete Dawson who has climbed 7 routes with his second ascent of *Persian Dawn* in late 2021, overtaking Pete Robins who has climbed 6 routes of 8c+.
+The runners up place is held by Will Bosi who has rapidly closed the gap up with 11 ascents [^1], an astonishing 5 of which were climbed in 2021. He is followed by Pete Dawson who has climbed 7 routes with his second ascent of *Persian Dawn* in late 2021, placing him ahead Pete Robins who has climbed 6 routes of 8c+.
 
-The hardest crags are Malham Cove and Raven Tor, each with 8 routes[^2] listed. Malham has the country's only 9b. Raven Tor now has two 9a+'s.
+The hardest crags are Malham Cove and Raven Tor, each with 8 and 9 routes[^2] listed. Malham has the country's only 9b. Raven Tor now has two 9a+'s.
 
-The best year for hard ascents is 2021 by a long margin. Other good years were 2020 with 10 ascents in total, 2016 with 9 and 2011 with 8.
+The best year for hard ascents is [2021](/articles/2021/) by a long margin. Other good years were [2020](/articles/hardest-of-2020/) with 10 ascents in total, 2016 with 9 and 2011 with 8.
 
 There are several questions around the difficulty of *Kaabah*[^3], *Progress*[^4], *Total Eclipse*[^5] and *Sea of Tranquillity*[^6]. See the [Notes](#notes) section below. 
 
@@ -25,9 +25,11 @@ There are several questions around the difficulty of *Kaabah*[^3], *Progress*[^4
 
 ## Notes
 
-[^1]: Bosi's tally would be 10 routes of which 6 were climbed this year is Bosi's suggestion for **Hooligan** at 8c+ stands.
+[^1a]: Defined here as routes of 8c+ or harder.
 
-[^2]: Raven Tor will have 9 routes if **Hooligan** is counted as 8c+.
+[^1]: Bosi's tally would be 11 routes of which 6 were climbed in 2021 if his suggestion for **Hooligan** at 8c+ stands.
+
+[^2]: Raven Tor has 9 routes if **Hooligan** is counted as 8c+.
 
 
 [^3]: **Kaabah** has only the first ascent listed because that was the only known ascent that did the crux of the original line. Subsequent ascents use a minor variation reducing the difficulty.

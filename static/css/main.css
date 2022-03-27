@@ -22,6 +22,8 @@ body {
     scroll-behavior: smooth;
     background-color: var(--bg);
     background-image: linear-gradient(200deg, #0e2c35 10%, #1a5060 90%);
+    background-image: linear-gradient(to left bottom, rgb(129 22 3), rgb(4, 126, 210));
+    background-image: linear-gradient(to left bottom, rgb(23 112 111), rgb(43, 1, 45));
     background-attachment: fixed;
     color: var(--body);
     font-family: KoHo, 'kulim Park', 'segoe ui', sans-serif;
@@ -70,6 +72,9 @@ footer {
 
 #content {
     grid-column: 2 / 3;
+    background-color: #1114;
+    padding: 1em;
+    border-radius: 3vmin;
 }
 
 .latest {
@@ -266,8 +271,9 @@ table.ninebees tr {
 /* ------------ YOUTUBE embed shortcode ---------- */
 
 iframe.yt {
-    width: min(500px, 100%);
+    width: min(350px, 100%);
     aspect-ratio: 16 / 9;
+    margin: 1em 0;
 }
 
 /* --------- GRAPHS ----------- */
@@ -408,22 +414,41 @@ a:hover {
 
 /* ------- PAGE SPECIFIC -------- */
 
-/* --------- HOME PAGE -------- */
+/* --------- HOME PAGE Front page -------- */
 
-.front-page-article h2:first-child {
-    font-size: 2.2em;
-    margin-bottom: 1em;
-    margin-top: .5em;
-    /* border-bottom: 5px solid var(--headings); */
+.front-page-posts {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    gap: 0.5em;
 }
 
 .front-page-article {
-    /* border: solid 1px; */
+    display: grid;
+    grid-template-rows: auto auto 1fr auto;
+    border: solid 1px #fff3;
     border-radius: 20px;
     background-color: #0003;
     padding: 1em;
-    margin-bottom: 4em;
+    font-size: .8em;
+    }
+
+    .front-page-article h2:first-child {
+        position: relative;
+        font-size: 1.5em;
+        margin-bottom: .5em;
+        margin-top: .5em;
+        /* border-bottom: 5px solid var(--headings); */
 }
+
+/* .draft h2::after {
+    content: 'DRAFT';
+    position: absolute;
+    bottom: -10%;
+    left: 10%;
+    color: #1113;
+    font-size: 2em;
+    font-weight: bold;
+} */
 
 .more-articles {
     margin-top: 4em;
