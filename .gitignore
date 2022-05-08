@@ -4,5 +4,6 @@ assets/
 layouts/shortcodes/picture.html
 assets/img/
 static/fonts/
+static/img/dna-1.jpg
 .gitignore
 .hugo_build.lock
