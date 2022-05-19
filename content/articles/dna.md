@@ -14,7 +14,9 @@ On the 5th May 2022 Seb Bouin completed his long term project DNA at Ramirole cl
 
 After Alex Megos's *Bibliography* was repeated and downgraded to 9b+ only other 9c candidate is Adam Ondra's 2017 route *Silence* in the Flatanger cave in Norway.
 
-But is DNA really 9c? Seb has never climbed an established 9b+ route so far. But he does has a lot of experience with hard routes having climbed 72 routes from 8c+/9a and up[^1]. In the 9b range the established routes he has climbed are *Chilam Balam* (9a+/b), *Mamichula* (9b) and *Move* (9b/+). Other routes he's climbed at this level are all new routes that are unrepeated: *The Dream* in 2019 (9b), *La Rage d'Adam* also in 2019 (9b/+) and *Beyond Intégrale* in 2020 (9b/+).
+But is DNA really 9c? Seb has never climbed an established 9b+ route so far. But he does has a lot of experience with hard routes having climbed 72 routes from 8c+/9a and up[^1]. Only Adam Ondra (224), Alex Megos (107), Dani Andrada (78) and Ramon Julian (74) have done more.
+
+In the 9b range the established routes he has climbed are *Chilam Balam* (9a+/b), *Mamichula* (9b) and *Move* (9b/+). Other routes he's climbed at this level are all new routes that are unrepeated: *The Dream* in 2019 (9b), *La Rage d'Adam* also in 2019 (9b/+) and *Beyond Intégrale* in 2020 (9b/+).
 
 Here are Seb's thoughts[^2] on DNA and how he arrived at the 9c grade:
 

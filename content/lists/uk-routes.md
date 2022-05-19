@@ -2,7 +2,7 @@
 title: "UK Routes"
 date: 2021-04-13T18:11:22+01:00
 summary: All ascents in the UK of 8c+ and above by year.
-LastUpdated: 2022-03-27T08:31:44+01
+LastUpdated: 2022-05-19T03:07:48+01:00
 draft: false
 ---
 
