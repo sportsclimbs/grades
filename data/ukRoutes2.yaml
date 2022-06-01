@@ -550,6 +550,9 @@
     - climber: Jon Freeman
       ascent: second
       date: 22 Sep 2020
+    - climber: Pete Dawson
+      ascent: third
+      date: 30 May 2022
 
 - route: The Wild West
   grade: 8c+
@@ -622,3 +625,13 @@
       ascent: first
       date: 07 Nov 2021
       video: https://youtu.be/CqoVQxpYwlw
+
+- route: The Southern Hooligan
+  grade: 9a
+  year: 2022
+  crag: Raven Tor
+  ascents:
+    - climber: Will Bosi
+      ascent: first
+      date: May 2022
+      video: https://youtu.be/IfnkQC9k2ZU
