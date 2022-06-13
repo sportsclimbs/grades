@@ -6,6 +6,6 @@ tags: [untagged]
 summary: The contact page
 ---
 
-Mistakes are inevitable so feel free to contact me with any corrections updates or anything the else. Thanks.
+Mistakes are inevitable so feel free to contact me with any corrections, omissions, updates or anything the else. Thanks.
 
 {{< contact >}}

@@ -553,6 +553,9 @@
     - climber: Pete Dawson
       ascent: third
       date: 30 May 2022
+    - climber: Ted Kingsnorth
+      ascent: fourth
+      date: 3 Jun 2022
 
 - route: The Wild West
   grade: 8c+
@@ -573,11 +576,15 @@
   ascents:
     - climber: Steve McClure
       ascent: first
-      date: 04 June 2017
+      date: 04 Jun 2017
       notes: first British man to climb 9b. It took 128 days of effort spread over 7 years. Steve was 46 years old when he completed it.
     - climber: Eder Lomba Lopez de Ipiña
       ascent: second
       date: 13 May 2022
+      notes: 
+    - climber: Josh Ibbertson
+      ascent: third
+      date: 2 Jun 2022
       notes: 
 
 - route: Fixation
