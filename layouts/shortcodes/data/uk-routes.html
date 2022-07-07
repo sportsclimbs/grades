@@ -23,7 +23,7 @@ f8c.style.display == 'none' ? f8c.style.display = 'table-row'  : f8c.style.displ
     <td>{{ .grade }}</td>
     <td>{{ .year }}</td>
     <td>{{ .crag }}</td>
-    <td><ol>{{ range $asc }} <li>{{ .climber }} <em>({{ substr .date -4 4 }})</em></li>{{ end }}</ol> </td>
+    <td><ol>{{ range $asc }} <li>{{ .climber }} <em title="{{ .date }}">({{ substr .date -4 4 }})</em></li>{{ end }}</ol> </td>
 </tr>
 {{ end }}
 </table>

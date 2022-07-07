@@ -471,6 +471,15 @@
       ascent: second
       date: May 2019
 
+- route: Fight the Feeling
+  grade: 9a
+  year: 2012
+  crag: Steall, Glen Nevis
+  ascents:
+    - climber: Dave MacLeod
+      ascent: first
+      date: 2012
+
 - route: Diamond Dogs
   grade: 8c+
   year: 2012
@@ -642,3 +651,13 @@
       ascent: first
       date: May 2022
       video: https://youtu.be/IfnkQC9k2ZU
+
+- route: Free at Last
+  grade: 9a+
+  year: 2022
+  crag: Dumbarton Rock
+  ascents:
+    - climber: Will Bosi
+      ascent: first
+      date: July 2022
+      video: 

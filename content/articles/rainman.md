@@ -30,3 +30,5 @@ Eder found several kneebar rests not used by Steve McClure so whether the 9b gra
 Here is the uncut footage of the ascent by [Monoculture films](https://www.youtube.com/channel/UCqUDPYnSsSE0kV1OOz4c2_Q):
 
 {{< yt "tAeVbsv0mgc" "560px" >}}
+
+See also the [interview with Eder](https://www.climber.co.uk/news/eder-lomba-talks-about-his-climbing-and-rainman-ascent/) at Climber.
