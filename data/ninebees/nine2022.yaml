@@ -24,7 +24,7 @@
   crag: Gaeta
   country: Italy
   nationality: Italian
-  summary: Hardest route in central Italy.
+  summary: Hardest route in central Italy at the time.
   notes: 
   image:
   video-1:
@@ -160,6 +160,21 @@
   country: UK
   nationality: UK
   summary: Third ascent and youngest Brit to climb 9b.
+  notes: 
+  image:
+  video-1:
+- year: 2022
+  month: 07
+  day: 9
+  surname: Bouin
+  firstname: Seb
+  route: Iron Curtain
+  grade: 9b
+  ascent: 2
+  crag: Flatanger
+  country: Norway
+  nationality: French
+  summary: Second ascent but first with kneepads. Seb suggests 9a+ this way. 14 tries over 5 days.
   notes: 
   image:
   video-1:
