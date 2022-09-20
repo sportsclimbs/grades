@@ -1,7 +1,7 @@
 ---
 title: "9b and above"
 date: 2021-04-13T11:46:24+01:00
-lastchange: 2022-08-13T19:50:52+01:00
+lastchange: 2022-09-20T07:58:07+01:00
 summary: Full list of all ascents of 9b and above by year.
 draft: false
 ---
