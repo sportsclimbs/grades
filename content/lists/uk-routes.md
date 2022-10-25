@@ -1,8 +1,8 @@
 ---
 title: "UK Routes"
 date: 2021-04-13T18:11:22+01:00
+LastUpdated: 2022-10-25T21:14:27+01:00
 summary: All ascents in the UK of 8c+ and above by year.
-LastUpdated: 2022-09-20T08:02:05+01:00
 draft: false
 ---
 
@@ -28,7 +28,7 @@ There are several questions around the difficulty of *Kaabah*[^3], *Progress*[^4
 
 [^1]: Bosi's tally is based upon his upgrade for **Hooligan** to 8c+.
 
-[^2]: Raven Tor has 9 routes if **Hooligan** is counted as 8c+.
+[^2]: Raven Tor has 10 routes if **Hooligan** is counted as 8c+.
 
 
 [^3]: **Kaabah** has only the first ascent listed because that was the only known ascent that did the crux of the original line. Subsequent ascents use a minor variation reducing the difficulty.

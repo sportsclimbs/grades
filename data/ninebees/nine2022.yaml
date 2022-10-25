@@ -136,7 +136,7 @@
 - year: 2022
   month: 05
   day: 31
-  surname: Seigrist
+  surname: Siegrist
   firstname: Jonathon
   route: Event Horizon
   grade: 9b
@@ -271,8 +271,8 @@
 - year: 2022
   month: 10
   day: 09
-  surname: Alex
-  firstname: Megos 
+  surname: Megos
+  firstname: Alex 
   route: The Full Journey
   grade: 9b
   ascent: 1
@@ -281,5 +281,20 @@
   nationality: German
   summary: "An extension to The Journey, Tom Bolger's 9a+"
   notes: 
+  image:
+  video-1:
+- year: 2022
+  month: 10
+  day: 19
+  surname: Bouin
+  firstname: Seb 
+  route: Jumbo Love
+  grade: 9b
+  ascent: 4
+  crag: Clark Mountain
+  country: USA
+  nationality: French
+  summary: "10 days of effort"
+  notes: "Seb's 5th route of 9b and above of the year. Only Adam Ondra has done more doing 6 routes in 2017"
   image:
   video-1:

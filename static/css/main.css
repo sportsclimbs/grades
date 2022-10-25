@@ -14,12 +14,14 @@
     --quotes: #b4b909;
     --body: #ccc;
 }
+html {
+    scroll-behavior: smooth;
+}
 
 
 body {
     margin: 0;
     padding: 0;
-    scroll-behavior: smooth;
     background-color: var(--bg);
     /* background-image: linear-gradient(200deg, #0e2c35 10%, #1a5060 90%); */
     /* background-image: linear-gradient(to left bottom, rgb(129 22 3), rgb(4, 126, 210)); */
@@ -233,6 +235,28 @@ table.general {
 
 /* --- The issue with the 9bs is that it is a series of tables which need the same alignment of cells --- */
 
+
+.year-nav {
+    margin: 2em auto;
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.25em;
+}
+.year-nav a, 
+.year-nav a:link {
+    color: #ccc;
+    background-color: #111a;
+    border-radius: 6px;
+    padding: 0.25em 0.75em;
+    font-size: 0.8em;
+    /* transition: all 0.5s; */
+}
+.year-nav a:hover {
+    background-color: var(--headings);
+    color: #fff;
+}
 
 table.ninebees tr {
     display: grid;

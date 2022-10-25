@@ -173,6 +173,9 @@
     - climber: Toby Roberts
       ascent: twelfth
       date: Nov 2021
+    - climber: Felix Wilkins
+      ascent: Thirteenth
+      date: 2 April 2022
 
 - route: Total Eclipse
   grade: 8c+
@@ -399,6 +402,10 @@
       ascent: first
       date: 2009
       notes:
+    - climber: Jordan Buys
+      ascent: second
+      date: July 2017
+      notes:
 
 - route: Stevolution
   grade: 9a
@@ -417,6 +424,9 @@
     - climber: Will Bosi
       ascent: fourth
       date: 17 Mar 2022
+    - climber: Felix Wilkins
+      ascent: fifth
+      date: 14 May 2022
 
 - route: Blood Diamond
   grade: 8c+
