@@ -207,7 +207,7 @@
   summary: 
   notes: 
   image:
-  video-1:
+  video-1: NNo8Xd7bANo
 - year: 2022
   month: 08
   day: 7
@@ -241,8 +241,8 @@
 - year: 2022
   month: 09
   day: 17
-  surname: Stefano
-  firstname: Ghisolfi 
+  surname: Ghisolfi
+  firstname: Stefano
   route: Move Hard
   grade: 9b
   ascent: 2
@@ -256,8 +256,8 @@
 - year: 2022
   month: 09
   day: 24
-  surname: Loic
-  firstname: Zehani 
+  surname: Zehani 
+  firstname: Loic
   route: Harlem
   grade: 9b
   ascent: 1
@@ -296,5 +296,50 @@
   nationality: French
   summary: "10 days of effort"
   notes: "Seb's 5th route of 9b and above of the year. Only Adam Ondra has done more doing 6 routes in 2017"
+  image:
+  video-1:
+- year: 2022
+  month: 10
+  day: 24
+  surname: Megos
+  firstname: Alex 
+  route: Chan Chan Bastards
+  grade: 9a+/b
+  ascent: 1
+  crag: Margalef
+  country: Spain
+  nationality: German
+  summary: "Links the first part of The Journey into the top part of Café Colombia"
+  notes: 
+  image:
+  video-1:
+- year: 2022
+  month: 11
+  day: 01
+  surname: Bouin
+  firstname: Seb 
+  route: Suprême Jumbo Love
+  grade: 9b+
+  ascent: 1
+  crag: Clark Mountain
+  country: USA
+  nationality: French
+  summary: "Long stading direct start to Jumbo Love"
+  notes: 
+  image:
+  video-1:
+- year: 2022
+  month: 11
+  day: 20
+  surname: Ondra
+  firstname: Adam 
+  route: Zvěřinec
+  grade: 9b+
+  ascent: 1
+  crag: Moravian Karst
+  country: Czech Republic
+  nationality: Czech
+  summary: "Ondra's second hardest route"
+  notes: 
   image:
   video-1:
