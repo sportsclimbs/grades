@@ -2,7 +2,7 @@
 title: "Hardest of 2020"
 date: 2021-05-06T18:37:49+01:00
 draft: false
-tags: [untagged]
+tags: [history]
 summary: A round up of the hardest ascents of 2020
 chartjs: false
 ---

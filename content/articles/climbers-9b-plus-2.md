@@ -2,7 +2,7 @@
 title: "World's first 9b+ climbers"
 date: 2021-10-12T16:26:50+01:00
 draft: false
-tags: [untagged]
+tags: [9b+]
 summary: A look at the climbers who have climbed 9b+ so far.
 chartjs: true
 ---

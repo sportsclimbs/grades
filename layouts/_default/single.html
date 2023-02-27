@@ -2,10 +2,20 @@
 
 <h1>{{ .Title }} {{ with .Params.draft }}<small>(Draft)</small>{{ end }}</h1>
 {{ if eq .Section "articles" }}
-<div class="page-date"><time>{{ .Date.Format "02 Jan 2006" }}</time></div>
+<div class="page-date">
+    <time>{{ .Date.Format "02 Jan 2006" }}</time>
+    <div class="tags"><a href="/tags/">Tags</a>:
+        {{ range .Params.tags }}
+            <a class="tag" href="/tags/{{ . }}/">{{ . }}</a>
+        {{ end }}
+    </div>
+</div>
 {{ end }}
-<div class="summary"><p>{{ .Summary }}</p></div>
-{{ .Content }}
+<div class="summary"><p>{{ .Params.summary | safeHTML }}</p></div>
+
+<section class="hugo-content">
+    {{ .Content }}
+</section>
 
 
 {{ end }}

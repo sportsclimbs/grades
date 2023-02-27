@@ -2,8 +2,8 @@
 title: "Climbing Mag Flex Luthor"
 date: 2021-10-19T11:12:39+01:00
 draft: true
-tags: [untagged]
-summary:
+tags: [USA, history]
+summary: Article from Climbing magazine about the upgrade of Flex Luther to 9b
 chartjs: false
 ---
 

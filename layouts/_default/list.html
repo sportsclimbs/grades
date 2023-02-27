@@ -1,10 +1,20 @@
 {{ define "main" }}
 
 
-<ul class="listpage">
-    {{ range .Pages.ByDate.Reverse }}
-       <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a> - {{ .Summary | truncate 110 }}</li>
+    {{ if eq .Kind "Taxonomy" }}
+
+    <h1>Tags</h1>
+        <ul class="listpage tags">
+            {{ range .RegularPages.ByName }}
+            <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+            {{ end }}
+        </ul>  
+    {{ else }}
+        <ul class="listpage">
+        {{ range .Pages.ByDate.Reverse }}
+        <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{ with .Summary }} - {{ . | truncate 110 }}{{ end }}</li>
+        {{ end }}
+        </ul>  
     {{ end }}
-</ul>  
 
 {{ end }}

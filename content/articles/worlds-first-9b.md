@@ -2,7 +2,7 @@
 title: "The World's First 9b?"
 date: 2021-10-19T10:13:20+01:00
 draft: false
-tags: [untagged]
+tags: [history, 9b]
 summary: "Was Flex Luthor the world's first 9b?"
 chartjs: false
 ---

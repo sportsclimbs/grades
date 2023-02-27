@@ -2,7 +2,7 @@
 title: "Rainman repeated"
 date: 2022-05-19T03:15:33+01:00
 draft: false
-tags: [untagged]
+tags: [UK, Eder Lomba, Rainman]
 summary: Eder Lomba makes the second ascent of Rainman.
 chartjs: false
 apexchart: false

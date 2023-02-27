@@ -2,7 +2,7 @@
 title: "Northern Lights"
 date: 2022-03-09T08:23:44Z
 draft: true
-tags: [untagged]
+tags: [UK]
 summary: A great little video by Marsha Baleva, of mostly Josh Ibbetson climbing this iconic Kilnsey route.
 chartjs: false
 ---

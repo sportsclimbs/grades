@@ -2,7 +2,7 @@
 title: "La Capella"
 date: 2021-12-12T09:26:09Z
 draft: true
-tags: [untagged]
+tags: [Spain, downgrade, Jakob Schubert]
 summary: Jakob Schubert makes fast repeats and suggests downgrades for two 9b's in Siurana.
 chartjs: false
 css:

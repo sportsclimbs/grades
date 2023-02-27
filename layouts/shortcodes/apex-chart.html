@@ -1,0 +1,36 @@
+<h2>All ascents of 9b/+ and harder</h2>
+<div id="chart">
+    <div id="responsive-chart"></div>
+</div>
+
+<script>
+    var options = {
+        chart: {
+            width: '100%',
+            height: 380,
+            type: 'bar'
+},
+series: [{
+    name: 'Ascents of 9b/+ and above',
+    data: [1,3,0,0,0,2,2,2,2,2,5,2]
+}],
+xaxis: {
+    categories: [2012,2013,2014,2015,2016,2017,2018, 2019,2020,2021,2022,2023]
+  }
+}
+
+var chart = new ApexCharts(document.querySelector("#responsive-chart"), options);
+
+chart.render();
+</script>
+
+
+<style>
+
+    #chart {
+        margin: 1em auto;
+    }
+    #responsive-chart {
+        background-color: #eee7;
+    }
+</style>
