@@ -30,3 +30,35 @@
   notes:  The new route links up Mejorando Imagen 9a+/b and Samfaina 9a+
   image: 
   video-1:
+
+- year: 2023
+  month: 03
+  day: 15
+  surname: Zehani
+  firstname: Loic
+  route: Brooklyn
+  grade: 9b
+  ascent: 1
+  crag: Orgon
+  country: France
+  nationality: French
+  summary: The second ascent of this Alex Megos route.
+  notes:  
+  image: 
+  video-1:
+
+- year: 2023
+  month: 03
+  day: 16
+  surname: Diaz-Rullo
+  firstname: Jorge
+  route: The Full Journey
+  grade: 9b
+  ascent: 2
+  crag: Margalef
+  country: Spain
+  nationality: Spanish
+  summary: The second ascent of this Alex Megos route.
+  notes:  Used different beta to avoid a mono move plus some knee bars. 
+  image: 
+  video-1:
