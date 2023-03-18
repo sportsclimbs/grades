@@ -9,28 +9,60 @@
 
 
 
-{{ range .Site.Data.ninebees }}
-
-{{ range first 1 . }}
-<div class="yearheading" id="y-{{ .year }}">
-    {{ .year }}
-</div>
-{{ end }}
-
-
-<div class="ninebees2">
-    {{ $count := 0 }}
-    {{ range . }}
-        <div>{{ $count = add $count 1 }}{{ $count }}</div>
-        <div>{{ .day }}/{{ .month }}</div>
-        <div>{{ .route }} ({{ .grade }})</div>
-        <div><span class="desktop">{{ .firstname }} </span>{{ .surname }}</div>
-        <div>{{ .crag }}</div>
-        <div>{{ .country }}</div>
-        <div>{{ cond (eq .ascent 1) "F.A" .ascent }}</div>
+<div class="years">
+    {{ range .Site.Data.ninebees }}
+    
+        <section class="year">
+            {{ range first 1 . }}
+            <div class="yearheading" id="y-{{ .year }}">
+                {{ .year }}
+            </div>
+            {{ end }}
+            <table class="nineb-table">
+                {{ $count := 0 }}
+                {{ range . }}
+                    <tr class="{{ .surname | lower }} {{ replace .route " " "-" | lower }}">
+                        <td class="count">{{ $count = add $count 1 }}{{ $count }}</td>
+                        <td class="date">{{ .day }}/{{ .month }}</td>
+                        <td class="route-grade">{{ .route }} ({{ .grade }})</td>
+                        <td class="name {{ .surname }}-btn"><span class="desktop">{{ .firstname }} </span>{{ .surname }}</td>
+                        <td class="crag {{ replace .crag " " "-" | lower }}">{{ .crag }}</td>
+                        <td class="country">{{ .country }}</td>
+                        <td class="ascent">{{ cond (eq .ascent 1) "F.A" .ascent }}</td>
+                    </tr>
+                {{ end }}
+            </table>
+    
+        </section>
     {{ end }}
 </div>
+
+<style>
+    .years {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    .nineb-table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+    tr {
+        display: grid;
+        grid-template-columns: 2em 4em 4fr 15em auto 7em 3em;
+        grid-template-columns: 3% 6% 27% 21% auto 17% 3ch;
+    }
     
-{{ end }}
-
-
+    /* @link https://utopia.fyi/type/calculator?c=400,14,1.2,1100,18,1.25,5,2,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l&g=s,l,xl,12 */
+    .nineb-table td {
+        font-size: clamp(0.88rem, calc(0.73rem + 0.57vw), 1.13rem);
+        padding: 0.35em 0.5em;
+        {{/*  outline: red dotted 1px;  */}}
+    }
+    .nineb-table tr:nth-child(odd) {
+        background-color: var(--tablestripe);
+    }
+    .nineb-table tr:nth-child(2n+1) {
+	background-color: #6f6e00;
+	color: #eee;
+}
+</style>
