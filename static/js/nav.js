@@ -1,17 +1,8 @@
+const hamburgerBtn = document.querySelector('.hamburger');
+const icon = document.querySelector('.icon');
+const sidenav = document.getElementById('mySidenav');
 
-
-/* Open the sidenav */
-function openNav() {
-        document.getElementById("mySidenav").style.width = "100%";
-      }
-      
-/* Close/hide the sidenav */
-function closeNav() {
-        document.getElementById("mySidenav").style.width = "0";
-      }
-
-// To animate the hamburger
-
-function hamburger(x) {
-        x.classList.toggle("change");
-    }
+hamburgerBtn.addEventListener('click', () => {
+  sidenav.classList.toggle('slide-in');
+  icon.classList.toggle('change');
+});

@@ -75,7 +75,7 @@ footer {
 #content {
     grid-column: 2 / 3;
     background-color: #1114;
-    padding: 1em;
+    padding: clamp(0.50rem, calc(0.00rem + 2.00vw), 1.38rem);
     border-radius: 3vmin;
 }
 
@@ -249,6 +249,7 @@ table.general {
     list-style-type: none;
     padding: 0;
     display: flex;
+    /* flex-direction: row-reverse; */
     flex-wrap: wrap;
     gap: 0.25em;
 }
@@ -374,26 +375,30 @@ a:hover {
 
 .mobilenav {
     height: 100%;
-    width: 0;
+    width: 100vw;
     overflow: hidden;
     position: fixed;
+    top: 0;
+    left: -100vw;
     display: grid;
     place-items: center;
     z-index: 1;
-    top: 0;
-    left: 0;
     background-color: #111111cc;
     backdrop-filter: blur(5px);
     transition: 0.5s;
 }
+.slide-in {
+    translate: 100vw;
+}
 
-.closebtn {
+/* .closebtn {
     position: absolute;
     top: 1.8rem;
     right: 1rem;
     font-size: 6em;
     line-height: 0;
-}
+    display: none;
+} */
 
 .closebtn:hover {
     cursor: pointer;
@@ -430,11 +435,14 @@ a:hover {
     top: 1em;
     right: 1em;
     display: none;
+    z-index: 200;
 }
 
 .hamburger {
     display: grid;
     gap: calc(0.5vw + 0.6vh);
+    z-index: 200;
+    cursor: pointer;
 }
 
 .hamburger div {
@@ -669,10 +677,10 @@ button:active {
         /* padding-right: 12px; */
     }
 
-    #content>*:not(table):not(figure):not(div.ninebees2) {
+    /* #content>*:not(table):not(figure):not(div.ninebees2) {
         margin-left: 12px;
         margin-right: 12px;
-    }
+    } */
 
     #content {
         grid-column: 2 / -2;
@@ -711,7 +719,7 @@ button:active {
 
 
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 700px) {
     header>ul {
         gap: 15px;
     }
@@ -735,12 +743,17 @@ button:active {
     /* .ninebees2 div:first-of-type,  */
     .ninebees2 div:nth-of-type(7n + 1),
     .ninebees2 div:nth-of-type(7n + 2),
-    .ninebees2 div:nth-of-type(7n + 6) {
+    .ninebees2 div:nth-of-type(7n + 6),
+    td.country,
+    .nineb-table td.count {
         display: none;
     }
 
     .ninebees2 {
         grid-template-columns: 10fr 5fr 6fr 1fr;
+    }
+    .nineb-table tr {
+        grid-template-columns: 5ch 27% 21% auto 3ch;
     }
 
 
