@@ -84,13 +84,29 @@
   day: 11
   surname: Bouin
   firstname: Seb
-  route: ACL
+  route: Ariégeois Cœur Loyal
   grade: 9b
   ascent: 1
   crag: Pic Saint Loup
   country: France
   nationality: French
   summary: 
+  notes: 
+  image: 
+  video-1:
+
+- year: 2023
+  month: 04
+  day: 17
+  surname: Siegrist
+  firstname: Jonathon
+  route: Stoking the Fire
+  grade: 9b
+  ascent: 6
+  crag: Santa Linya
+  country: Spain
+  nationality: US
+  summary: "Siegrist's 6th 9b and the sixth ascent of Stoking the Fire"
   notes: 
   image: 
   video-1:
