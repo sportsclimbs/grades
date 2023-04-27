@@ -97,6 +97,22 @@
 
 - year: 2023
   month: 04
+  day: 16
+  surname: Carnati
+  firstname: Stefano
+  route: Erebor
+  grade: 9b
+  ascent: 5
+  crag: Santa Linya
+  country: Italy
+  nationality: US
+  summary: "First 9b for Carnati. Fifth ascent after Ghisolfi, Rogora, Ondra and Schubert."
+  notes: 
+  image: 
+  video-1:
+
+- year: 2023
+  month: 04
   day: 17
   surname: Siegrist
   firstname: Jonathon
