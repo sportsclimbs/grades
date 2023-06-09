@@ -485,7 +485,13 @@
       date: Jul 2012
     - climber: Ignacio Mulero
       ascent: second
-      date: May 2019
+      date: May 2018
+    - climber: Franco Cookson
+      ascent: third
+      date: March 2022
+    - climber: Angus Kille
+      ascent: fourth
+      date: June 2023
 
 - route: Fight the Feeling
   grade: 9a
