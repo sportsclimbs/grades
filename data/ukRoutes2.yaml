@@ -198,6 +198,9 @@
     - climber: Steve McClure
       ascent: second
       date: 1999?
+    - climber: Felix Wilkins
+      ascent: third
+      date: Aug 2023
 
 - route: The Big Bang
   grade: 9a
@@ -647,6 +650,9 @@
     - climber: Alex Norton
       ascent: fifth
       date: 11 Feb 2023
+    - climber: Felix Wilkins
+      ascent: sixth
+      date: 2023
 
 - route: Preposterous Tales
   grade: 8c+
@@ -685,4 +691,24 @@
     - climber: Will Bosi
       ascent: first
       date: July 2022
+      video: 
+
+- route: Persian Dawn / Haaj
+  grade: 8c+
+  year: 2023
+  crag: Raven Tor
+  ascents:
+    - climber: Felix Wilkins
+      ascent: first
+      date: Oct 2023
+      video: 
+
+- route: The Dewin Stone
+  grade: 9a+
+  year: 2023
+  crag: Dumbarton Rock
+  ascents:
+    - climber: Franco Cookson
+      ascent: first
+      date: October 2023
       video: 
