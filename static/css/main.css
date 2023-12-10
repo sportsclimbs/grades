@@ -42,7 +42,7 @@ header {
     grid-column: 2 / 4;
 }
 
-.sitetitle {
+#site-title {
     font-family: var(--display);
     font-size: 1em;
     color: var(--headings);
@@ -243,15 +243,23 @@ table.general {
 
 /* --- The issue with the 9bs is that it is a series of tables which need the same alignment of cells --- */
 
+.pageninebees #content {
+    margin-bottom: 40dvh;
+}
 
 .year-nav {
     margin: 2em auto;
     list-style-type: none;
-    padding: 0;
+    padding: 0.25rem;
+    position: sticky;
+    top: 0;
     display: flex;
     /* flex-direction: row-reverse; */
     flex-wrap: wrap;
     gap: 0.25em;
+    justify-content: space-between;
+    background-color: #222;
+    border-radius: 0.5rem;
 }
 .year-nav a, 
 .year-nav a:link {
@@ -299,7 +307,9 @@ table.ninebees tr {
     font-weight: bold;
     margin: 1rem auto .25rem 3px;
 }
-
+.yearheading:target {
+    padding-top: 5rem;
+}
 /* -------- FOOTNOTES --------- */
 
 .footnotes hr {
