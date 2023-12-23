@@ -210,21 +210,21 @@
   video-1:
 
 
-- year: 2023
-  month: 07
-  day: 26
-  surname: Bouin
-  firstname: Seb
-  route: Lapus
-  grade: 9a+/9b
-  ascent: 3
-  crag: Flatanger
-  country: Italy
-  nationality: French
-  summary: Reported as 9a+ on 8a.nu
-  notes: 
-  image: 
-  video-1:
+# - year: 2023
+#   month: 07
+#   day: 26
+#   surname: Bouin
+#   firstname: Seb
+#   route: Lapsus
+#   grade: 9a+/9b
+#   ascent: 3
+#   crag: Andonno
+#   country: Italy
+#   nationality: French
+#   summary: Reported as 9a+ on 8a.nu and said to be easier with kneepads.
+#   notes: 
+#   image: 
+#   video-1:
 
 - year: 2023
   month: 10
@@ -293,3 +293,20 @@
   video-1:
   links:
   - [https://www.8a.nu/news/jon-cardwell-does-the-fa-of-wind-up-bird-9a+-b, 8a]
+- year: 2023
+  month: 12
+  day: 13
+  surname: Lee
+  firstname: Minyoung
+  route: Soul Mate
+  grade: 9b
+  ascent: 2
+  crag: Gozen Rock
+  country: Japan
+  nationality: Korean
+  summary: "First repeat of Saachi Amma's 2018 route."
+  notes: |
+    He described it as an 8b+ to a rest followed by a V14 boulder problem and said it was his style of climbing using tiny crimps and weird 2 finger pocket.
+  image: 
+  video-1: "https://www.instagram.com/reel/C0y9whKyfHY/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  links:
