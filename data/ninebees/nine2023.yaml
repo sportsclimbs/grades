@@ -69,12 +69,12 @@
   surname: Sharma
   firstname: Chris
   route: Sleeping Lion
-  grade: 9b+
+  grade: 9b
   ascent: 1
   crag: Siurana
   country: Spain
   nationality: US
-  summary: Sharma's first climb of this difficulty for 10 years.
+  summary: Sharma's first climb of this difficulty for 10 years, orginally graded 9b+, downgraded on the second ascent by Alex Megos.
   notes:  Interesting to see if this keeps the grade.
   image: https://d3byf4kaqtov0k.cloudfront.net/p/news/kwi3fj10.webp
   video-1:
@@ -103,9 +103,9 @@
   route: Erebor
   grade: 9b
   ascent: 5
-  crag: Santa Linya
+  crag: Arco
   country: Italy
-  nationality: US
+  nationality: Italian
   summary: "First 9b for Carnati. Fifth ascent after Ghisolfi, Rogora, Ondra and Schubert."
   notes: 
   image: 
@@ -310,3 +310,20 @@
   image: 
   video-1: "https://www.instagram.com/reel/C0y9whKyfHY/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
   links:
+
+  
+- year: 2023
+  month: 12
+  day: 15
+  surname: Gabri
+  firstname: Moroni
+  route: Erebor
+  grade: 9b
+  ascent: 6
+  crag: Arco
+  country: Italy
+  nationality: Italian
+  summary: First 9b for Moroni. Ascent spread over several seasons.
+  notes:  
+  image: 
+  video-1:
