@@ -8,3 +8,4 @@ static/img/dna-1.jpg
 .gitignore
 .hugo_build.lock
 static/apextest.html
+.vscode
