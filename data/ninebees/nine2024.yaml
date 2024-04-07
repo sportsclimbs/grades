@@ -29,3 +29,19 @@
   notes:  
   image: 
   video-1:
+    
+- year: 2024
+  month: 03
+  day: 13
+  firstname: Tom
+  surname: Bolger
+  route: E.L.L.I.E.
+  grade: 9b
+  ascent: 1
+  crag: La Bisbal de Falset
+  country: Spain
+  nationality: British
+  summary: Third Brit to climb 9b.
+  notes:  A long low roof leads to an upper section on monos. E.L.L.I.E. stands for Every Lesson Learned Is Evolution.
+  image: https://img.ukclimbing.com/i/423828?fm=webp&time=1711030566&dpr=2&w=768&sharp=7&s=6286b172638b8aa81837cb40400852cf
+  video-1:
