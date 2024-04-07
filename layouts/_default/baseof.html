@@ -5,7 +5,9 @@
         {{- .Kind -}}
         {{- if eq .Kind "Section" -}}{{- .Section -}}
             {{- else -}}
-            {{- .File.ContentBaseName | lower -}}
+            {{ with .File }}
+            {{- .ContentBaseName | lower -}}
+            {{ end }}
         {{- end -}}
         '>
     {{ partial "mobilenav" . }}
