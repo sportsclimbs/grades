@@ -257,9 +257,12 @@ table.general {
     /* flex-direction: row-reverse; */
     flex-wrap: wrap;
     gap: 0.25em;
-    justify-content: space-between;
+    /* justify-content: space-between; */
     background-color: #222;
     border-radius: 0.5rem;
+}
+.year-nav li:last-child {
+    margin-left: auto;
 }
 .year-nav a, 
 .year-nav a:link {
@@ -270,7 +273,7 @@ table.general {
     font-size: 0.8em;
     /* transition: all 0.5s; */
 }
-.year-nav a:hover {
+.year-nav :is(a:hover, a:active, a:focus) {
     background-color: var(--headings);
     color: #fff;
 }
