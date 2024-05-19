@@ -19,7 +19,7 @@
                 {{ .year }}
             </div>
             {{ end }}
-            <table class="nineb-table">
+            <table class="nineB-table">
                 {{ $count := 0 }}
                 {{ range . }}
                     <tr class="{{ .surname | lower }} {{ replace .route " " "-" | lower }}">
@@ -43,7 +43,7 @@
         display: flex;
         flex-direction: column-reverse;
     }
-    .nineb-table {
+    .nineB-table {
         width: 100%;
         border-collapse: collapse;
     }
@@ -54,15 +54,15 @@
     }
     
     /* @link https://utopia.fyi/type/calculator?c=400,14,1.2,1100,18,1.25,5,2,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l&g=s,l,xl,12 */
-    .nineb-table td {
+    .nineB-table td {
         font-size: clamp(0.88rem, calc(0.73rem + 0.57vw), 1.13rem);
         padding: 0.35em 0.5em;
         {{/*  outline: red dotted 1px;  */}}
     }
-    .nineb-table tr:nth-child(odd) {
+    .nineB-table tr:nth-child(odd) {
         background-color: var(--tablestripe);
     }
-    .nineb-table tr:nth-child(2n+1) {
+    .nineB-table tr:nth-child(2n+1) {
 	background-color: #6f6e00;
 	color: #eee;
 }

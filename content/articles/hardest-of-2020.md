@@ -20,5 +20,4 @@ Stefano Ghisolfi's second ascent of *Change* means he is the third person to cli
 Julia Chanoudie became the second female to climb 9b with her ascent of *Eagle-4*. And Angy Eiter, who was the first woman to climb 9b in 2017, became the first woman to make the F.A of a 9b with *Madame Ching*.
 
 
-
-{{< data/nineb2020 >}}
+{{< data/single-year "2020" >}}

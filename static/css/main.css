@@ -141,9 +141,9 @@ h1 {
 }
 
 h2 {
-    font-size: 1.75em;
+    font-size: 1.25em;
     line-height: 1.1;
-    margin-bottom: 0.2em;
+    margin-bottom: 0.5em;
 }
 
 p,
@@ -724,15 +724,15 @@ button:active {
     table.nine-bees td:nth-of-type(5),
     table.nine-bees td:first-of-type,
 
-    table.nineb2020 td:first-of-type,
-    table.nineb2020 td:nth-of-type(6),
+    table.single-year td:first-of-type,
+    table.single-year td:nth-of-type(6),
 
     td.country,
-    .nineb-table td.count {
+    .nineB-table td.count {
         display: none;
     }
 
-    .nineb-table tr {
+    .nineB-table tr {
         grid-template-columns: 5ch 27% 21% auto 3ch;
     }
 

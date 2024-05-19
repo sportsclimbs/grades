@@ -1,0 +1,24 @@
+{{/*  This shortcode takes one argument: the year such as "2022"  */}}
+
+<table class="general single-year">
+    
+    {{- $year := .Get 0 -}}
+    {{- $this_year := (print "nine" $year) -}}
+    
+    {{- $count := 0 -}}
+    {{- range (index site.Data.ninebees $this_year) -}}
+    <tr>
+        <td>{{ $count = add $count 1 }}{{ $count }}</td>
+        <td class="desktop">{{ .day }}/{{ .month }}</td>
+        <td>{{ .route }} ({{ .grade }})</td>
+        <td><span class="desktop">{{ .firstname }}</span> {{ .surname }}</td>
+        <td>{{ cond (eq .ascent 1) "F.A" .ascent }}</td>
+        <td>{{ .crag }}</td>
+        <td>{{ .country }}</td>
+    </tr>
+
+    {{ end }}
+
+</table>
+
+<div class="full-list" style="margin: 1em 0 2em;">See <a href="/lists/ninebees">full list of all years</a>.</div>
