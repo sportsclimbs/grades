@@ -1,7 +1,7 @@
 ---
 title: "La Capella"
 date: 2021-12-12T09:26:09Z
-draft: true
+draft: false
 tags: [Spain, downgrade, Jakob Schubert]
 summary: Jakob Schubert makes fast repeats and suggests downgrades for two 9b's in Siurana.
 chartjs: false
@@ -38,6 +38,8 @@ As of 2021 only 6 people have climbed 9b+.
 
 The grade of *La Capella* is significant not only for *La Capella* itself but because it's the basis of the grade of the nearby route *King Capella* which at the original grade of 9b+ would make it one of top 7 routes in the world.
 
+## History
+
 Adam Ondra made the first ascent of *La Capella* way back in 2011. At that time it was only his second 9b after his second ascent of Chris Sharma's *Golpe de Estado* almost a year earlier. At the time Adam was unsure about the grade and said that *La Capella* might be only 9a+. understandable with so little experience of the 9b grade at that time. 
 
 *La Capella* had to wait another 7 years before Stefano Ghisolfi made the second ascent the route in 2018. He broke a hold on crux of the route making it harder and it took him 10 days to complete the route. This was Stefano's fourth route of the grade. 
@@ -58,16 +60,15 @@ Adam Ondra made the first ascent of *La Capella* way back in 2011. At that time 
 
 The third ascent came from Daniel Woods a month later and the fourth by Will Bosi came in 2020. Neither of these climbers had climbed 9b before and both accepted the grade the route was given.
 
-Bosi climbed the route in only 3 days which was not only phenomenal for 
-
+Bosi climbed the route in only 3 days a phenomenal achievement, but particularly so if it was 9b.
 
 Bosi used the grade of *La Capella* as the basis for his grade for *King Capella* the following year because it "felt a full grade harder".
 
-In contrast to these climbers when Schubert had climbed the route he had 5 9b's and one 9b+, *Perfecto Mundo*. So he had more experience on which to base his opinion. 
+In contrast to these previous ascents when Schubert had climbed the route he had far more experience of the grade. He'd climbed 5 9b's and one 9b+, *Perfecto Mundo*. 
 
-But more significantly is the speed at which he climbed these routes. He climbed *La Capella* on the first go of his second day AND after having redpointed *King Capella* first. If the route is 9b that would be the fastest ascent of a route of that grade by far. The same goes for *King Capella* which he completed in just 4 days. The fastest 9b+ ascents so far have all taken more than ten days. 
+We can also look at the time he took on these routes. He climbed *La Capella* on the first go of his second day AND after having redpointed *King Capella* first. If the route is 9b that would be the fastest ascent of a route of that grade by far. The same goes for *King Capella* which he completed in just 4 days. The fastest 9b+ ascents so far have all taken more than ten days. 
 
-
+## Consequences
 
 This means the number of climbers to have climbed 9b+ has dropped from 7 to 6 and the number of climbers to have climbed has 9b dropped by 1 down to 29. Will Bosi is dropped from the very elite group of 9b+ climbers and Daniel Woods drops out of the 9b group as *La Capella* was his only 9b ascent.
 
