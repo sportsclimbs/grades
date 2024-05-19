@@ -1,7 +1,21 @@
-*,
-*::before,
-*::after {
-    box-sizing: border-box;
+@layer reset {
+    *,
+    *::before,
+    *::after {
+        box-sizing: border-box;
+    }
+    
+    @media (prefers-reduced-motion: no-preference) {
+       html {
+            scroll-behavior: smooth;
+        }
+    }
+    h1, h2, h3 {
+        text-wrap: balance;
+    }
+    p, li {
+        text-wrap: pretty;
+    }
 }
 
 :root {
@@ -10,12 +24,9 @@
     --headings: #f95606;
     --bg: #2d3e42;
     --bg-light: #bee1e9;
-    --tablestripe: #7e7d0c;
+    --table-stripe: #7e7d0c;
     --quotes: #b4b909;
     --body: #ccc;
-}
-html {
-    scroll-behavior: smooth;
 }
 
 
@@ -29,14 +40,12 @@ body {
     background-attachment: fixed;
     color: var(--body);
     font-family: KoHo, 'kulim Park', 'segoe ui', sans-serif;
-    /* font-size: clamp(14px, 1.7vw, 23px); */
     font-size: clamp(1rem, 0.6667rem + 1.0667vw, 1.4rem);
     font-weight: 400;
 }
 
 footer,
 header {
-    /* background-color: #243538; */
     padding: 1em 3px;
     grid-column: 1 / 3;
     grid-column: 2 / 4;
@@ -92,16 +101,16 @@ footer {
     font-weight: bold;
 }
 
-ul.listpage {
+ul.list-page {
     list-style-type: none;
     padding: 0;
 }
 
-ul.listpage li {
+ul.list-page li {
     margin-bottom: 1em;
 }
 
-ul.listpage a {
+ul.list-page a {
     /* display: block; */
     font-size: 1.4rem;
 }
@@ -217,7 +226,7 @@ table.general {
 }
 
 .general tr:nth-of-type(odd) {
-    background-color: var(--tablestripe);
+    background-color: var(--table-stripe);
 }
 
 .general td,
@@ -243,9 +252,7 @@ table.general {
 
 /* --- The issue with the 9bs is that it is a series of tables which need the same alignment of cells --- */
 
-.pageninebees #content {
-    margin-bottom: 40dvh;
-}
+
 
 .year-nav {
     margin: 2em auto;
@@ -254,10 +261,8 @@ table.general {
     position: sticky;
     top: 0;
     display: flex;
-    /* flex-direction: row-reverse; */
     flex-wrap: wrap;
     gap: 0.25em;
-    /* justify-content: space-between; */
     background-color: #222;
     border-radius: 0.5rem;
 }
@@ -278,39 +283,20 @@ table.general {
     color: #fff;
 }
 
-table.ninebees tr {
+table.nine-bees tr {
     display: grid;
     grid-template-columns: 1em 4em 15em 10em 10em 12ch 4ch;
 }
 
 
-.ninebees2 {
-    display: grid;
-    grid-template-columns: 1fr 2.5fr 10fr 5fr 6fr 4fr 1fr;
-}
 
-.ninebees2>div {
-    font-size: max(70%, 14px);
-    padding: 5px;
-}
 
-.ninebees2>div:nth-of-type(14n+1),
-.ninebees2>div:nth-of-type(14n+2),
-.ninebees2>div:nth-of-type(14n+3),
-.ninebees2>div:nth-of-type(14n+4),
-.ninebees2>div:nth-of-type(14n+5),
-.ninebees2>div:nth-of-type(14n+6),
-.ninebees2>div:nth-of-type(14n+7) {
-    background-color: var(--tablestripe);
-    color: #f4f4f4;
-}
-
-.yearheading {
+.year-heading {
     color: var(--headings);
     font-weight: bold;
     margin: 1rem auto .25rem 3px;
 }
-.yearheading:target {
+.year-heading:target {
     padding-top: 5rem;
 }
 /* -------- FOOTNOTES --------- */
@@ -404,16 +390,8 @@ a:hover {
     translate: 100vw;
 }
 
-/* .closebtn {
-    position: absolute;
-    top: 1.8rem;
-    right: 1rem;
-    font-size: 6em;
-    line-height: 0;
-    display: none;
-} */
 
-.closebtn:hover {
+.close-btn {
     cursor: pointer;
 }
 
@@ -538,13 +516,13 @@ a:hover {
 
 /* ----- Tags page ------ */
 
-body.taxonomy .listpage {
+body.taxonomy .list-page {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     gap: 1em;
 }
-body.taxonomy .listpage li,
+body.taxonomy .list-page li,
 .tag {
     font-size: 0.8em;
     border: solid 1px currentColor;
@@ -690,11 +668,6 @@ button:active {
         /* padding-right: 12px; */
     }
 
-    /* #content>*:not(table):not(figure):not(div.ninebees2) {
-        margin-left: 12px;
-        margin-right: 12px;
-    } */
-
     #content {
         grid-column: 2 / -2;
     }
@@ -745,26 +718,20 @@ button:active {
     table.nineties td:first-of-type,
     /* table.nineties td:nth-of-type(2), */
     table.nineties td:nth-of-type(4),
-    table.ukroutes td:first-of-type,
-    table.ukroutes td:nth-of-type(4),
-    table.ninebees td:nth-of-type(2),
-    table.ninebees td:nth-of-type(5),
-    table.ninebees td:first-of-type,
+    table.uk-routes td:first-of-type,
+    table.uk-routes td:nth-of-type(4),
+    table.nine-bees td:nth-of-type(2),
+    table.nine-bees td:nth-of-type(5),
+    table.nine-bees td:first-of-type,
 
     table.nineb2020 td:first-of-type,
     table.nineb2020 td:nth-of-type(6),
-    /* .ninebees2 div:first-of-type,  */
-    .ninebees2 div:nth-of-type(7n + 1),
-    .ninebees2 div:nth-of-type(7n + 2),
-    .ninebees2 div:nth-of-type(7n + 6),
+
     td.country,
     .nineb-table td.count {
         display: none;
     }
 
-    .ninebees2 {
-        grid-template-columns: 10fr 5fr 6fr 1fr;
-    }
     .nineb-table tr {
         grid-template-columns: 5ch 27% 21% auto 3ch;
     }
@@ -779,11 +746,11 @@ button:active {
         margin: 1em 0;
     }
 
-    table.ninebees {
+    table.nine-bees {
         width: 100%;
     }
 
-    table.ninebees tr {
+    table.nine-bees tr {
         display: grid;
         grid-template-columns: minmax(8em, 1fr) 6em 6em 3em;
     }

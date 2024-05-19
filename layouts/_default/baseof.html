@@ -2,13 +2,12 @@
 <html lang="en">
     {{- partial "head.html" . -}}
     <body class='
-        {{- .Kind -}}
-        {{- if eq .Kind "Section" -}}{{- .Section -}}
-            {{- else -}}
-            {{ with .File }}
-            {{- .ContentBaseName | lower -}}
-            {{ end }}
-        {{- end -}}
+    {{- if eq .Kind "Section" -}}{{- .Section -}}
+    {{- else -}}
+    {{ with .File }}
+    {{- .ContentBaseName | lower -}}
+    {{ end }}
+    {{- end }} {{ .Kind -}}
         '>
     {{ partial "mobilenav" . }}
     <div class="container">

@@ -4,13 +4,13 @@
     {{ if eq .Kind "Taxonomy" }}
 
     <h1>Tags</h1>
-        <ul class="listpage tags">
+        <ul class="list-page tags">
             {{ range .RegularPages.ByName }}
             <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
             {{ end }}
         </ul>  
     {{ else }}
-        <ul class="listpage">
+        <ul class="list-page">
         {{ range .Pages.ByDate.Reverse }}
         <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{ with .Summary }} - {{ . | truncate 110 }}{{ end }}</li>
         {{ end }}
