@@ -1,0 +1,21 @@
+<link rel="stylesheet" media="screen" href="{{ "css/main.css" | relURL }}">
+
+{{ if or (eq .BundleType "leaf") (.Params.css) (.Params.style) }}
+<style>
+{{- if eq .BundleType "leaf" }}
+    {{- with .Resources.Get "styles.css" }}
+        {{  readFile .RelPermalink | safeCSS }}
+    {{- end -}}        
+{{- end -}}
+
+    {{ with .Params.css }}
+        {{- range . }}
+        {{ . | safeCSS }}
+        {{ end }}
+    {{- end -}}
+
+    {{ with .Params.style }}
+        {{ . | safeCSS }}
+    {{- end }}
+</style>
+{{ end }}

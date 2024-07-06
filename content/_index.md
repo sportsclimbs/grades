@@ -12,6 +12,7 @@ style: |
 
 The latest [articles](/articles/) are below. The [lists](/lists/) are regularly updated.
 
+
 ## 9b's and above in 2024
 {{< data/single-year "2024" >}}
 
