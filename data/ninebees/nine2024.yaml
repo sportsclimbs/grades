@@ -112,3 +112,21 @@
   - [8a, 'https://www.8a.nu/news/jonathan-siegrist-fas-anemology-9b-b6jde']
   image: 
   video-1:
+
+- year: 2024
+  month: 08
+  day: 21
+  firstname: Alex
+  surname:  Megos
+  route: Change  
+  grade: 9b+
+  ascent: 3
+  crag:  Flatanger
+  country: Norway
+  nationality: German
+  summary: Used one kneepad. Took 5 days to climb.
+  notes:  
+  links: 
+  - [8a, 'https://www.8a.nu/news/alex-megos-does-change-9b%2B-in-five-sessions']
+  image: 
+  video-1:
